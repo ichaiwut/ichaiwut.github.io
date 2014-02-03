@@ -7,38 +7,34 @@
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/foundation.min.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/style.css">
 
     </head>
     <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
+        <header class="header">
+            <div class="row">
+                <div class="medium-6 columns">
+                    <h1><a href="/" title="{{ site.name }}">iChaiwut</a></h1>
+                </div>
+                <nav class="medium-6 columns text-right">
+                    <ul class="top-nav">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </nav>
             </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/ichaiwut">ichaiwut</a><br />
-                <a href="https://twitter.com/bestrangers">Bestrangers</a><br />
-              </p>
+        </header>
+        <div class="inset">
+            <div class="row">
+                <div class="medium-12 columns text-center">
+                    <img src="img/avatar-me.jpg" alt="">
+                </div>
             </div>
-          </div>
         </div>
-
     </body>
 </html>
