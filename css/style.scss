@@ -50,15 +50,24 @@ header {
 
 .inset {
     padding-top: 20px;
-    height: 85px;
+    height: 95px;
     background: #0081BB;
 
     img {
-        width: 130px;
+        width: 150px;
         border: 6px solid #ECECEC;
         -webkit-border-radius: 150px;
            -moz-border-radius: 150px;
                 border-radius: 150px;
+    }
+}
+
+.content-wrapper {
+    margin-top: 110px;
+
+    .post-list-container {
+        padding: 20px;
+        background: #fff;
     }
 }
 
