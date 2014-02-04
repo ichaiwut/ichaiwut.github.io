@@ -1,3 +1,7 @@
 name: iChaiwut.me
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:day/:title
+paginate: 7
+url: http://ichaiwut.me
+imageurl: http://ichaiwut.me/img/

@@ -90,9 +90,17 @@ header {
         }
 
         img { display: block; }
+
         p {
             margin: 20px 0;
             color: #666;
+        }
+
+        .post-date {
+            padding-top: 22px;
+            font-family: 'Ubuntu', sans-serif;
+            font-size: 1.2em;
+            color: #999;
         }
 
     }
