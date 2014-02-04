@@ -1,15 +1,21 @@
-@import url(http://fonts.googleapis.com/css?family=Marko+One);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700,300italic);
 
 html,
-body {
+body,
+.container {
     height: 100%;
     font-family: Arial;
 }
 
 body { background: #ECECEC; }
 
+body > .container {
+    height: auto;
+    min-height: 100%;
+}
+
 .container {
-    height: 100%;
+    padding-bottom: 100px;
 }
 
 header {
@@ -21,7 +27,8 @@ header {
     h1 {
         padding: 0;
         margin: 0;
-        font: 1.8em bold 'Marko One', serif;
+        font: 1.8em bold 'Ubuntu', serif;
+        font-weight: 700;
 
         a {
             color: #FFF;
@@ -36,6 +43,7 @@ header {
         li {
             display: inline-block;
             font-size: .9em;
+            font-family: 'Ubuntu', sans-serif;
             padding: 0 30px;
 
             a {
@@ -66,22 +74,32 @@ header {
     margin-top: 110px;
 
     .post-list-container {
-        padding: 20px;
+        padding-top: 15px;
+        max-width: 57.5rem;
+        margin: 0 auto;
         background: #fff;
+        border-radius: 5px;
+        overflow: hidden;
+
+        h2 {
+            font-family: 'Ubuntu', sans-serif;
+            font-weight: 700;
+        }
+
     }
 }
 
 footer.footer {
+    clear: both;
     position: relative;
     height: 58px;
     margin-top: -58px;
     background: #023A5B;
     z-index: 10;
-    clear: both;
 
     p {
-        letter-spacing: 1px;
         padding-top: 16px;
+        font-family: 'Ubuntu', sans-serif;
         font-size: .8em;
         color: #a2adbc;
     }

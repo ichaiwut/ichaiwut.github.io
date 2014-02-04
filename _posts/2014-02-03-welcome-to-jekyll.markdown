@@ -1,24 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Time to change!"
 date:   2014-02-03 12:00:44
-categories: jekyll update
+categories: General
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+<img src="img/post_photo.jpg" alt="">
 
-Jekyll also offers powerful support for code snippets:
+ในทีี่สุดผมก็ตัดสินใจจนได้ ที่จริงผมก็คิดมานานเหมือนกันนะ ว่าควรจะไปหรือควรจะอยู่แต่น้ำหนักมันลงไปที่ **ควรจะไป**มากกว่าควรจะอยู่ หลายครั้งผมคิดว่าผมเองน่าจะอยู่เพื่อพัฒนาตัวเอง
+ให้มากกว่านี่แต่ในที่สุดแล้วผมก็ไม่สามารถทำงานโดยไม่มีความตื่นเต้น หรือไม่มีอะไรใหม่ๆเข้ามา
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+ผมรักการทำงานที่นี่ รักในงานที่ผมทำเคารพที่ทำงาน สนุกกับงานตลอดเวลาจนถึงตอนนี้เหมือนกบว่าที่นี่**ไม่น่าตื่นเต้น**อีกต่อไป สิ่งใหม่ๆที่เข้ามาให้องทำก็ยังมี แต่อะไรที่ทำลงไปด้วยพลัง
+ทำลงไปด้วยความตั้งใจ**สุดท้ายก็ปล่อยร้างรา**เหมือนที่ทำไปนั้นสูญเปล่า
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+ผมรักทุกคนในทีม ทุกคนสามารถทำให้ผมพัฒนาตัวเองได้เยอะมาก เรียนรู้อะไรใหม่ๆเยอะแยะมากมายจนตอนนี้ทุกคนต่างแยกย้ายกันออกไปด้วย**เหตุผลเดียวกัน**
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+ผมตัดสินใจแล้ว และผมเคารพการตัดสินใจของตัวเองเสมอ
