@@ -71,13 +71,16 @@ header {
     }
 }
 
+.inset-wrapper {
+    margin-bottom: 20px;
+}
+
 .content-wrapper {
-    margin-top: 110px;
 
     .post-list-container {
         padding-top: 15px;
         max-width: 57.5rem;
-        margin: 0 auto;
+        margin: 20px auto;
         background: #fff;
         border-radius: 5px;
         overflow: hidden;
