@@ -128,4 +128,17 @@ footer.footer {
         font-size: .8em;
         color: #a2adbc;
     }
+
+    .social-list {
+        ul {
+            padding: 0;
+            margin: 13px 0 0 0;
+            list-style: none;
+
+            li {
+                display: inline-block;
+                margin-right: 5px;
+            }
+        }
+    }
 }
