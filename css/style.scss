@@ -102,10 +102,19 @@ header {
         .post-date {
             padding-top: 22px;
             font-family: 'Ubuntu', sans-serif;
+            font-family: 'Ubuntu', sans-serif;
             font-size: 1.2em;
             color: #999;
         }
+    }
+}
 
+.about-text { font-family: 'Ubuntu', sans-serif; }
+
+.site-description {
+    h3 {
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.2em;
     }
 }
 
