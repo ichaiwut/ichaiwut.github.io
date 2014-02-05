@@ -157,6 +157,11 @@ footer.footer {
         }
     }
 }
+.shared-icons {
+    padding: 0 0 20px;
+
+    .addthis_32x32_style .addthis_counter.addthis_bubble_style { width: 64px !important; }
+}
 
 /**
  * Bounch The Avatar
