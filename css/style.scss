@@ -64,7 +64,7 @@ header {
 
     img {
         width: 150px;
-        border: 6px solid #ECECEC;
+        // border: 6px solid #ECECEC;
         -webkit-border-radius: 150px;
            -moz-border-radius: 150px;
                 border-radius: 150px;
@@ -156,4 +156,40 @@ footer.footer {
             }
         }
     }
+}
+
+/**
+ * Bounch The Avatar
+ * Thanks for : http://codepen.io/anon/pen/wHGDz
+ */
+$bounce-color: #EcECEC;
+$bounce-color-two: #fff;
+$image-size: 200px;
+
+ img.user {
+    background-color: $bounce-color ;
+    box-shadow: 0 0 0 5px $bounce-color ;
+    border-radius: 50%;
+
+    &:hover {
+       cursor: pointer;
+       -moz-animation:bounceOut .4s linear;
+       -webkit-animation:bounceOut .4s linear;
+    }
+}
+
+@-moz-keyframes bounceOut {
+    0%{ box-shadow: 0 0 0 4px $bounce-color; opacity:1;}
+    25%{ box-shadow: 0 0 0 1px $bounce-color; opacity:1;}
+    50%{ box-shadow: 0 0 0 7px $bounce-color; opacity:1; }
+    75%{ box-shadow: 0 0 0 4px $bounce-color; opacity:1;}
+    100%{ box-shadow: 0 0 0 5px $bounce-color; opacity:1;}
+}
+
+@-webkit-keyframes bounceOut {
+    0%{ box-shadow: 0 0 0 4px $bounce-color-two; opacity:1;}
+    25%{ box-shadow: 0 0 0 1px $bounce-color-two; opacity:1;}
+    50%{ box-shadow: 0 0 0 7px $bounce-color-two; opacity:1; }
+    75%{ box-shadow: 0 0 0 4px $bounce-color-two; opacity:1;}
+    100%{ box-shadow: 0 0 0 5px $bounce-color-two; opacity:1;}
 }
