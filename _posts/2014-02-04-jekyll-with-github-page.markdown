@@ -8,7 +8,7 @@ imgurl: http://ichaiwut.me
 comments: true
 image: http://farm8.staticflickr.com/7336/12315488693_bbe5729572_o.jpg
 description: "มีคนถามมาหลายคนเหมือนกันว่าใช้ Wordpress ทำบล็อกนี้เหรอ? ผมตอบตรงนี้เลยแล้วกันครับว่าไมใช่ครับ
-บล็อกนี้ผมใช้ Jekyll แล้วเก็บไว้บน Repository ของ GitHub จากนั้นก็ซื้อโดเมนเนมแล้วชี้ไปที่ GitHub Pageของผมครับ"
+บล็อกนี้ผมใช้ Jekyll แล้วเก็บไว้บน Repository ของ GitHub จากนั้นก็ชี้โดเมนเนมไปที่ GitHub Pageของผมครับ"
 ---
 
 มีคนถามมาหลายคนเหมือนกันว่าใช้ [Wordpress](http://www.wordpress.org) ทำบล็อกนี้เหรอ? ผมตอบตรงนี้เลยแล้วกันครับว่า**ไมใช่ครับ**
@@ -29,12 +29,7 @@ description: "มีคนถามมาหลายคนเหมือนก
 ผมใช้ [Ubuntu](http://www.ubuntu.com) เพราะฉะนั้นขออนุญาตอธิบายเป็น linux commandline นะครับ ก่อนอื่นทำการ Install Jekyll ก่อนนะครับหาก
 เครื่องใครยังไม่มี `Ruby` ก็ทำการลงให้เรียบร้อยครับ `$sudo apt-get install ruby1.9.1 ruby1.9.1-dev`
 
-{% highlight text %}
-$gem install jekyll
-$jekyll new ichaiwut.me
-$cd ichaiwut.me
-~/ichaiwut.me $jekyll serve
-{% endhighlight %}
+<script src="https://gist.github.com/ichaiwut/8818519.js"></script>
 
 จากนั้นเปิด Browser แล้วพิมพ์ `http://localhost:4000` เพื่อดูเว็บไซต์ครับ
 
