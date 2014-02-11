@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Why you're bad PHP programmer"
+title: "Why you're bad PHP programmer"
 slug: "whay-youre-bad-php-programmer"
-date:   2014-02-11 12:16:44
+date: 2014-02-11 12:16:44
 categories: Trick
 comments: true
 image: http://farm6.staticflickr.com/5507/12450834123_41478d00b6_o.jpg
