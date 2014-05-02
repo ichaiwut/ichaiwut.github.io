@@ -1,63 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700,300italic);
+// @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700,300italic);
 @import url(http://fonts.googleapis.com/css?family=Fredoka+One);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
-// @import url(http://sungsit.com/boon/css/boon.css);
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-300.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: normal;
-  font-weight: 300;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-300-oblique.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: italic;
-  font-weight: 300;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-400.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: normal;
-  font-weight: 400;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-400-oblique.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: italic;
-  font-weight: 400;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-500.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: normal;
-  font-weight: 500;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-500-oblique.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: italic;
-  font-weight: 500;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-700.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: normal;
-  font-weight: 700;
-}
-
-@font-face {
-  src: url("http://sungsit.com/boon/fonts/woff/boon-700-oblique.woff") format("woff");
-  font-family: "Boon-0.6";
-  font-style: italic;
-  font-weight: 700;
-}
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
 
 html,
 body,
@@ -79,8 +24,8 @@ body > .container {
 
 header {
     width: 100%;
-    padding: 10px 0;
-    background: #fff;
+    padding: 20px 0;
+    background: #363636;
     border-top: 1px solid #e4e4e4;
     z-index: 1000;
     box-shadow: 0 1px 5px #dcdddd;
@@ -88,14 +33,14 @@ header {
     h1 {
         padding: 0;
         margin: 0;
-        font: 1.8em bold 'Fredoka One', serif;
-        font-weight: 700;
+        font: 1.8em 'Roboto Slab', serif;
+        font-weight: 400;
+        letter-spacing: 2px;
 
         a {
-            color: #000;
+            color: #fff;
             &:hover {
-                color: #666;
-                font-size: 1.03em;
+                color: #f3793c;
             }
         }
     }
@@ -112,28 +57,22 @@ header {
             padding: 0 30px;
 
             a {
-                color: #000;
+                color: #FFF;
                 &:hover {
-                    color: #666;
+                    color: #f3793c;
                 }
             }
         }
     }
 }
 
-.inset {
-    padding-top: 20px;
-    height: 95px;
-    background: #0081BB;
-
-    img {
+    img.user {
         width: 150px;
         // border: 6px solid #ECECEC;
         -webkit-border-radius: 150px;
            -moz-border-radius: 150px;
                 border-radius: 150px;
     }
-}
 
 .inset-wrapper {
     margin-bottom: 20px;
@@ -146,15 +85,21 @@ header {
         max-width: 57.5rem;
         margin: 20px auto;
         background: #fff;
-        border-radius: 5px;
+        // border-radius: 5px;
         border: 1px solid #e4e4e4;
         overflow: hidden;
 
         h2, h3 {
-            font-family: 'Ubuntu', sans-serif;
+            font-family: 'Roboto Slab', sans-serif;
             font-weight: 700;
+            color: #2f343b;
 
-            a { color: #000; &:hover { color: #666; }}
+            a { color: #2f343b; &:hover { color: #f3793c; }}
+        }
+
+        h2 {
+            font-size: 1.6em;
+            margin: 10px 0;
         }
 
         h3 {
@@ -166,18 +111,24 @@ header {
         img { display: block; }
 
         p {
-            margin: 20px 0;
+            margin: 10px 0 20px;
             color: #666;
-            font-family: 'Boon-0.6';
-            font-size: 1.1em;
         }
 
         .post-date {
-            padding-top: 22px;
+            padding-bottom: 15px;
             font-family: 'Ubuntu', sans-serif;
             font-family: 'Ubuntu', sans-serif;
-            font-size: 1.2em;
+            font-size: 1em;
             color: #999;
+        }
+
+        .continue-read {
+            padding: 20px 0;
+            border-top: 1px solid #e4e4e4;
+            font-family: 'Open Sans';
+            font-weight: bold;
+            a { color: #f3793c; &:hover { color: #000; } }
         }
     }
 }
@@ -196,12 +147,26 @@ header {
     padding: 20px;
 }
 
+.right-col {
+    padding: 20px !important;
+
+    .user-bio {
+        text-align: center;
+        font-family: 'Roboto Slab', sans-serif;
+
+        .user-detail {
+            font-size: .9em;
+            color: #999;
+        }
+    }
+}
+
 footer.footer {
     clear: both;
     position: relative;
     height: 58px;
     margin-top: -58px;
-    background: #023A5B;
+    background: #363636;
     z-index: 10;
 
     p {
@@ -211,57 +176,24 @@ footer.footer {
         color: #a2adbc;
     }
 
-    .social-list {
-        ul {
-            padding: 0;
-            margin: 13px 0 0 0;
-            list-style: none;
+}
 
-            li {
-                display: inline-block;
-                margin-right: 5px;
-            }
+.social-list {
+    ul {
+        padding: 0;
+        margin: 13px auto 0;
+        list-style: none;
+        text-align: center;
+
+        li {
+            display: inline-block;
+            margin-right: 5px;
         }
     }
 }
+
 .shared-icons {
     padding: 0 0 20px;
 
     .addthis_32x32_style .addthis_counter.addthis_bubble_style { width: 64px !important; }
-}
-
-/**
- * Bounch The Avatar
- * Thanks for : http://codepen.io/anon/pen/wHGDz
- */
-$bounce-color: #EcECEC;
-$bounce-color-two: #fff;
-$image-size: 200px;
-
- img.user {
-    background-color: $bounce-color ;
-    box-shadow: 0 0 0 5px $bounce-color ;
-    border-radius: 50%;
-
-    &:hover {
-       cursor: pointer;
-       -moz-animation:bounceOut .4s linear;
-       -webkit-animation:bounceOut .4s linear;
-    }
-}
-
-@-moz-keyframes bounceOut {
-    0%{ box-shadow: 0 0 0 4px $bounce-color; opacity:1;}
-    25%{ box-shadow: 0 0 0 1px $bounce-color; opacity:1;}
-    50%{ box-shadow: 0 0 0 7px $bounce-color; opacity:1; }
-    75%{ box-shadow: 0 0 0 4px $bounce-color; opacity:1;}
-    100%{ box-shadow: 0 0 0 5px $bounce-color; opacity:1;}
-}
-
-@-webkit-keyframes bounceOut {
-    0%{ box-shadow: 0 0 0 4px $bounce-color-two; opacity:1;}
-    25%{ box-shadow: 0 0 0 1px $bounce-color-two; opacity:1;}
-    50%{ box-shadow: 0 0 0 7px $bounce-color-two; opacity:1; }
-    75%{ box-shadow: 0 0 0 4px $bounce-color-two; opacity:1;}
-    100%{ box-shadow: 0 0 0 5px $bounce-color-two; opacity:1;}
 }
