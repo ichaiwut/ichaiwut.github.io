@@ -18,6 +18,8 @@ body > .container {
     min-height: 100%;
 }
 
+a { color: #f3793c; &:hover { color: #000; } }
+
 .container {
     padding-bottom: 100px;
 }
@@ -117,8 +119,7 @@ header {
 
         .post-date {
             padding-bottom: 15px;
-            font-family: 'Ubuntu', sans-serif;
-            font-family: 'Ubuntu', sans-serif;
+            font-family: 'Roboto Slab', sans-serif;
             font-size: 1em;
             color: #999;
         }
@@ -133,11 +134,15 @@ header {
     }
 }
 
-.about-text { font-family: 'Ubuntu', sans-serif; }
+.post-detail .post-list-container {
+        padding: 20px !important;
+}
+
+.about-text { font-family: 'Roboto Slab', sans-serif; }
 
 .site-description {
     h3 {
-        font-family: 'Ubuntu', sans-serif;
+        font-family: 'Roboto Slab', sans-serif;
         font-size: 1.2em;
     }
 }
@@ -171,7 +176,7 @@ footer.footer {
 
     p {
         padding-top: 16px;
-        font-family: 'Ubuntu', sans-serif;
+        font-family: 'Roboto Slab', sans-serif;
         font-size: .8em;
         color: #a2adbc;
     }
