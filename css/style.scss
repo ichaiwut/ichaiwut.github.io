@@ -166,6 +166,8 @@ header {
     }
 }
 
+.center { text-align: center; }
+
 footer.footer {
     clear: both;
     position: relative;
@@ -203,4 +205,14 @@ footer.footer {
     padding: 0 0 20px;
 
     .addthis_32x32_style .addthis_counter.addthis_bubble_style { width: 64px !important; }
+}
+
+// Slide page
+
+.slide-con {
+    padding: 20px;
+
+    li {
+        color: #f3793c;
+    }
 }
