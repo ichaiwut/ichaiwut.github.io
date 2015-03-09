@@ -3,8 +3,8 @@ markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title
 paginate: 7
-url: http://ichaiwut.me
-imageurl: http://ichaiwut.me/img/
+url: http://ichaiwut.github.io
+imageurl: http://ichaiwut.github.io/img/
 comments: true
 
 # Settings for analytics helper
