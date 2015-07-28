@@ -1,218 +1,63 @@
+@import '../bower_components/foundation/scss/normalize';
+@import '../bower_components/foundation/scss/foundation';
+
 // @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700,300italic);
 @import url(http://fonts.googleapis.com/css?family=Fredoka+One);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,500,700);
+@import url(http://fonts.googleapis.com/css?family=Fira+Sans:300,400,500,700,300italic,400italic);
+
+%no-space {
+    margin: 0;
+    padding: 0;
+}
 
 html,
-body,
-.container {
+body {
     height: 100%;
-    font-family: Arial;
 }
 
-body { background: #ECECEC; }
-
-body > .container {
-    height: auto;
-    min-height: 100%;
+* {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: #666;
+    line-height: 1.6;
 }
 
-a { color: #f3793c; &:hover { color: #000; } }
+a {
+    color: #345;
 
-.container {
-    padding-bottom: 100px;
-}
+    &:hover {
+        color: #345;
+        text-decoration: underline;
+    }
 
-header {
-    width: 100%;
-    padding: 20px 0;
-    background: #363636;
-    border-top: 1px solid #e4e4e4;
-    z-index: 1000;
-    box-shadow: 0 1px 5px #dcdddd;
-
-    h1 {
-        padding: 0;
-        margin: 0;
-        font: 1.8em 'Roboto Slab', serif;
+    &.more-link {
+        display: block;
+        max-width: 17em;
+        text-align: center;
+        margin: 2em 0 0 0;
+        padding: 1.2em 0 1.2em 0;
+        color: #6A7686;
         font-weight: 400;
-        letter-spacing: 2px;
+        font-size: .925em;
+        background: none;
+        border: 2px solid #DDE4E6;
+        border-radius: 4px;
+        text-transform: uppercase;
+        font-weight: 800;
 
-        a {
+        &:hover {
+            background: #FE7E17;
             color: #fff;
-            &:hover {
-                color: #f3793c;
-            }
-        }
-    }
-
-    ul.top-nav {
-        margin: 5px 0 0 0;
-        padding: 0;
-        list-style: none;
-
-        li {
-            display: inline-block;
-            font-size: .9em;
-            font-family: 'Montserrat', sans-serif;
-            padding: 0 30px;
-
-            a {
-                color: #FFF;
-                &:hover {
-                    color: #f3793c;
-                }
-            }
+            text-decoration: none;
         }
     }
 }
 
-    img.user {
-        width: 150px;
-        // border: 6px solid #ECECEC;
-        -webkit-border-radius: 150px;
-           -moz-border-radius: 150px;
-                border-radius: 150px;
-    }
 
-.inset-wrapper {
-    margin-bottom: 20px;
-}
-
-.content-wrapper {
-
-    .post-list-container {
-        padding-top: 0;
-        max-width: 57.5rem;
-        margin: 20px auto;
-        background: #fff;
-        // border-radius: 5px;
-        border: 1px solid #e4e4e4;
-        overflow: hidden;
-
-        h2, h3 {
-            font-family: 'Roboto Slab', sans-serif;
-            font-weight: 700;
-            color: #2f343b;
-
-            a { color: #2f343b; &:hover { color: #f3793c; }}
-        }
-
-        h2 {
-            font-size: 1.6em;
-            margin: 10px 0;
-        }
-
-        h3 {
-            padding-top: 20px;
-            font-size: 1.4em;
-        }
-
-
-        img { display: block; }
-
-        p {
-            margin: 10px 0 20px;
-            color: #666;
-        }
-
-        .post-date {
-            padding-bottom: 15px;
-            font-family: 'Roboto Slab', sans-serif;
-            font-size: 1em;
-            color: #999;
-        }
-
-        .continue-read {
-            padding: 20px 0;
-            border-top: 1px solid #e4e4e4;
-            font-family: 'Open Sans';
-            font-weight: bold;
-            a { color: #f3793c; &:hover { color: #000; } }
-        }
-    }
-}
-
-.post-detail .post-list-container {
-        padding: 20px !important;
-}
-
-.about-text { font-family: 'Roboto Slab', sans-serif; }
-
-.site-description {
-    h3 {
-        font-family: 'Roboto Slab', sans-serif;
-        font-size: 1.2em;
-    }
-}
-
-.comment-wrapper {
-    margin-top: 30px !important;
-    padding: 20px;
-}
-
-.right-col {
-    padding: 20px !important;
-
-    .user-bio {
-        text-align: center;
-        font-family: 'Roboto Slab', sans-serif;
-
-        .user-detail {
-            font-size: .9em;
-            color: #999;
-        }
-    }
-}
-
-.center { text-align: center; }
-
-footer.footer {
-    clear: both;
-    position: relative;
-    height: 58px;
-    margin-top: -58px;
-    background: #363636;
-    z-index: 10;
-
-    p {
-        padding-top: 16px;
-        font-family: 'Roboto Slab', sans-serif;
-        font-size: .8em;
-        color: #a2adbc;
-    }
-
-}
-
-.social-list {
-    ul {
-        padding: 0;
-        margin: 13px auto 0;
-        list-style: none;
-        text-align: center;
-
-        li {
-            display: inline-block;
-            margin-right: 5px;
-        }
-    }
-}
-
-.footer .social-list ul { text-align: left !important; }
-
-.shared-icons {
-    padding: 0 0 20px;
-
-    .addthis_32x32_style .addthis_counter.addthis_bubble_style { width: 64px !important; }
-}
-
-// Slide page
-
-.slide-con {
-    padding: 20px;
-
-    li {
-        color: #f3793c;
-    }
-}
+@import 'font';
+@import 'header';
+@import 'nav';
+@import 'blog';

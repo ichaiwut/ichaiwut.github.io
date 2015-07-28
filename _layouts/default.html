@@ -12,18 +12,38 @@
     <body>
         <div class="container">
             <header class="header">
-                <div class="row">
-                    <div class="medium-6 columns">
-                        <h1><a href="/" title="{{ site.name }}">iChaiwut</a></h1>
+                <div class="row author-desc">
+                    <div class="medium-12 columns text-center">
+                        <img src="{{ page.imageurl }}/img/avatar-me.jpg" alt="iChaiwut.me" title="iChaiwut.me" class="user">
+                        <h1>iChaiwut</h1>
+                        <p>
+                            Frontend deveolper at
+                            <a href="http://buzzwoo.de" title="BuzzWoo!">
+                                <strong>BuzzWoo!</strong>
+                            </a>
+                        </p>
                     </div>
-                    <nav class="medium-6 columns text-right">
-                        <ul class="top-nav">
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/about.html">About</a></li>
-                        </ul>
-                    </nav>
                 </div>
             </header><!-- Header -->
+            <nav class="nav">
+                <div class="row">
+                    <div class="medium-4 columns text-left">
+                        <a href="#" title="#">
+                            blog
+                        </a>
+                    </div>
+                    <div class="medium-4 columns text-center">
+                        <a href="#" title="#">
+                            about
+                        </a>
+                    </div>
+                    <div class="medium-4 columns text-right">
+                        <a href="#" title="#">
+                            resume
+                        </a>
+                    </div>
+                </div>
+            </nav>
             <div class="content-wrapper">
                 {{ content }}
             </div>

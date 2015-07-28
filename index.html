@@ -3,26 +3,34 @@ layout: default
 title: Chaiwut a web labor
 pagename: home
 ---
-<div class="row">
-    <div class="medium-8 columns">
-        {% for post in site.posts %}
-            <div class="post-list-container">
-                <div class="medium-12 columns" style="background: url({{ post.image }}) no-repeat; padding-top: 324px;">
-                    <div class="clearfix">
-                        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                        <div class="post-date">{{ post.date | date_to_string }}</div>
+<div class="blog-list">
+    {% for post in site.posts %}
+        <div class="row blog-item">
+            <div class="medium-12 columns">
+                <h2 class="post-title">
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </h2>
+                <p class="post-date">
+                    {{ post.date | date_to_string }}
+                </p>
+                <div
+                    class="post-image"
+                    style="background: url({{ post.image }}) no-repeat;">
                     </div>
-                    <!-- <img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}"> -->
+                <div class="post-description">
                     <p>{{ post.description }}</p>
-                    <div class="clearfix">
-                        <div class="continue-read">
-                            <a href="{{ post.url }}" title="{{ post.title }}" class="">CONTINUE READING</a>
-                        </div>
-                    </div>
                 </div>
+                <a href="{{ post.url }}" class="more-link" title="{{ post.title }}">
+                    Continue reading >
+                </a>
             </div>
-        {% endfor %}
-    </div>
+        </div>
+    {% endfor %}
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="row">
+
     <div class="medium-4 columns">
         <div class="post-list-container right-col">
             <div class="user-bio">
