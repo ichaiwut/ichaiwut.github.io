@@ -5,9 +5,11 @@
 
   .post-title {
     margin-bottom: 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2em;
+    font-weight: 500 ;
 
     a {
-      font-size: .8em;
       font-weight: 500 ;
     }
   }
@@ -23,7 +25,8 @@
     background-size: cover !important;
   }
 
-  .post-description {
+  .post-description,
+  .post-detail {
     p {
       font-size: 1.2em;
       font-family: 'Boon';
