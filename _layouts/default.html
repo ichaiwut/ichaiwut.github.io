@@ -28,13 +28,18 @@
             <nav class="nav">
                 <div class="row">
                     <div class="medium-4 columns text-left">
-                        <a href="/index.html" title="#">
-                            blog
+                        <a href="/about.html"
+                            title="#"
+                            class="{% if page.url == '/about.html' %} active {% endif %}">
+                            about
                         </a>
                     </div>
                     <div class="medium-4 columns text-center">
-                        <a href="/about.html" title="#">
-                            about
+                        <a
+                            href="/index.html"
+                            title="#"
+                            class="{% if page.url == '/index.html' %} active {% endif %}">
+                            blog
                         </a>
                     </div>
                     <div class="medium-4 columns text-right">
