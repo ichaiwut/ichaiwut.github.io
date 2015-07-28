@@ -2,10 +2,6 @@
 @import '../bower_components/foundation/scss/foundation';
 
 // @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700,300italic);
-@import url(http://fonts.googleapis.com/css?family=Fredoka+One);
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,500,700);
 @import url(http://fonts.googleapis.com/css?family=Fira+Sans:300,400,500,700,300italic,400italic);
 
 %no-space {
@@ -56,8 +52,17 @@ a {
     }
 }
 
+footer.footer {
+    margin-top: 50px;
+
+    p {
+        font-size: 1.3em;
+        font-weight: 700;
+    }
+}
 
 @import 'font';
 @import 'header';
 @import 'nav';
 @import 'blog';
+@import 'about';

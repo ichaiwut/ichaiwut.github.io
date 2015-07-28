@@ -1,0 +1,28 @@
+.about-detail {
+  h2 {
+    font-size: 1.6em;
+    font-weight: 700;
+    color: #444;
+    font-family: 'Fira Sans', sans-serif;
+  }
+
+  ul {
+    padding-left: 30px;
+  }
+
+  p,
+  li {
+    font-size: 1.3em;
+    font-weight: 300;
+  }
+
+  ul.social-list {
+    list-style: none;
+    @extend %no-space;
+    margin-bottom: 20px;
+
+    li {
+      display: inline-block;
+    }
+  }
+}
