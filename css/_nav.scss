@@ -11,3 +11,9 @@ nav.nav {
     }
   }
 }
+
+@media only screen and (max-width: 768px)  {
+  nav.nav a {
+    font-size: 1.6em;
+  }
+}
