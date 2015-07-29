@@ -2,7 +2,7 @@
 layout: post
 title:  "Back to my way."
 slug: "Back-to-my-way"
-date:   2015-07-29 21:14:44
+date:   2015-07-29 08:14:44
 categories: General
 imgurl: http://ichaiwut.me
 comments: true
