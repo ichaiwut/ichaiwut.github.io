@@ -4,7 +4,7 @@ title: Chaiwut a web labor
 pagename: home
 ---
 <div class="blog-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
         <div class="row blog-item">
             <div class="medium-12 columns">
                 <h2 class="post-title">
@@ -26,4 +26,19 @@ pagename: home
             </div>
         </div>
     {% endfor %}
+    <div class="row paginator-blog">
+        <div class="medium-12 columns text-center">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+          {% else %}
+            <span class="previous">Previous</span>
+          {% endif %}
+          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+          {% else %}
+            <span class="next ">Next</span>
+          {% endif %}
+      </div>
+    </div>
 </div>

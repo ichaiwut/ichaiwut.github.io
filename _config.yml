@@ -2,7 +2,8 @@ name: iChaiwut.me
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title
-paginate: 7
+paginate: 5
+paginate_path: "/blog/page:num/"
 url: http://ichaiwut.github.io
 imageurl: http://ichaiwut.github.io/img/
 comments: true
