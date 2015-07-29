@@ -6,7 +6,7 @@ date:   2014-11-19 21:14:44
 categories: General
 imgurl: http://ichaiwut.me
 comments: true
-image: https://lh4.googleusercontent.com/QAw6itPOZkintIXzyZT2N4dwYTxkHLdsOyZJd4xKZR6qhdXUKdkSmA4X7Mu7H2Y3FNAXNQ=w1202-h637
+image: https://photos-1.dropbox.com/t/2/AAAKCpTzJPcM1f0Dncbn8uLZ61F88D5VguTYVwQsHWxKOQ/12/17122608/jpeg/32x32/1/_/1/2/2sd.jpg/EOP_4gwYkkUgASgB/pkXUcK4oMh_6Z9-XtMGiI8IQ7YVlw8rNtnFf0K0-tY4?size=1024x768&size_mode=2
 description: "ครูผู้ประสิทธิ์ประสาทวิชาความรู้แก่ลูกศิษย์ ขอนอบน้อมด้วยความเคารพแด่ครูบาอาจารย์ทุกท่าน ที่เคยประสาทวิชามาตั้งแต่เด็กจนตอนนี้ได้มาอยู่บนจุดที่สามารถเรียกตัวเองได้ว่า เป็นผู้ประสาทวิชาให้บุคคลอื่น แต่ถึงอย่างนั้น ผมเองก็ยังไม่เหมาะสมกับคำว่าครู"
 ---
 ครูผู้ประสิทธิ์ประสาทวิชาความรู้แก่ลูกศิษย์ ขอนอบน้อมด้วยความเคารพแด่ครูบาอาจารย์ทุกท่าน ที่เคยประสาทวิชามาตั้งแต่เด็กจนตอนนี้ได้มาอยู่บนจุดที่สามารถเรียกตัวเองได้ว่า เป็นผู้ประสาทวิชาให้บุคคลอื่น แต่ถึงอย่างนั้น ผมเองก็ยังไม่เหมาะสมกับคำว่า **ครู**
