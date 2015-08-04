@@ -1,9 +1,10 @@
-name: iChaiwut.me
+name: iChaiwut
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title
-paginate: 7
-url: http://ichaiwut.github.io
+paginate: 5
+paginate_path: "/blog/page:num/"
+url: http://ting.in.th
 imageurl: http://ichaiwut.github.io/img/
 comments: true
 
@@ -14,4 +15,4 @@ comments: true
 analytics :
   provider : google
   google :
-      tracking_id : 'UA-47772460-1'
+      tracking_id : 'UA-65871198-1'

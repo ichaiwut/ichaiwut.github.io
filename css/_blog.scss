@@ -23,6 +23,7 @@
     max-height: 300px;
     margin: 10px 0 30px;
     background-size: cover !important;
+    background-position: top center !important;
   }
 
   .post-description,
@@ -31,5 +32,14 @@
       font-size: 1.2em;
       font-family: 'Boon';
     }
+  }
+}
+
+.paginator-blog  {
+  .previous,
+  .page_number,
+  .next {
+    font-size: 1.5em;
+    font-weight: 500;
   }
 }
