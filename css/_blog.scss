@@ -28,9 +28,32 @@
 
   .post-description,
   .post-detail {
+    h2,
+    h3 {
+      font-family: 'Fira Sans', sans-serif;
+      font-weight: 700;
+      color: #345;
+    }
+
+    h2 {
+      font-size: 1.6rem !important;
+    }
+
+    h3 {
+      font-size: 1.2rem !important;
+    }
+
+    a {
+      color: #008CBA;
+    }
+
     p {
       font-size: 1.2em;
       font-family: 'Boon';
+    }
+
+    img {
+      border: 1px solid #ccc
     }
   }
 }
