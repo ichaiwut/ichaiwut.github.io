@@ -1,0 +1,57 @@
+body {
+  padding-top: 80px;
+  background: #f7f7f7;
+  font-family: 'Fira Sans';
+  font-weight: 300;
+}
+
+.wrapper {
+  &__right-col {
+    // background: #fff;
+  }
+
+  //Blog list
+  &__blog-con {
+    margin-bottom: rem-calc(40);
+    padding: rem-calc(50) 0;
+    background: #ffffff;
+  }
+
+  &__blog-date {
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  &__blog-title {
+    font-size: rem-calc(16);
+    margin-bottom: rem-calc(30);
+  }
+
+  &__title-link {
+    color: #222222;
+    font-size: rem-calc(26);
+    font-weight: 500;
+    font-family: 'Fira Sans';
+  }
+
+  &__image {
+    img {
+      width: 100%;
+    }
+  }
+
+  &__blog-description {
+    padding: rem-calc(40);
+  }
+
+  &__blog-btn-con {
+    text-align: center;
+  }
+
+  &__blog-btn {
+    padding: rem-calc(10) rem-calc(24);
+    border: 1px solid #cccccc;
+    color: #7b7b7b;
+    font-weight: 400;
+  }
+}

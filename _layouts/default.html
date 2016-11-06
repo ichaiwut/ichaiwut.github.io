@@ -10,16 +10,16 @@
 <html>
     {% include head.html %}
     <body>
-    <div class="wrapper">
-        <div class="row">
-            <div class="medium-8 columns">
-                asdasd
-            </div>
-            <div class="medium-12 clolumns" style="background-color: #000">
-                asdsa
+        <div class="wrapper">
+            <div class="row">
+                <div class="medium-8 columns">
+                    {{ content }}
+                </div>
+                <div class="medium-3 columns wrapper__right-col">
+                    asdasd
+                </div>
             </div>
         </div>
-    </div>
         {% include script-file.html %}
     </body>
 </html>
