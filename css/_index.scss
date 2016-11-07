@@ -31,6 +31,10 @@ body {
   &__blog-title {
     font-size: rem-calc(26);
     margin-bottom: rem-calc(30);
+
+    &.detail-page {
+      margin-bottom: 0;
+    }
   }
 
   &__title-link {

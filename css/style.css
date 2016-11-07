@@ -4755,6 +4755,8 @@ body {
 .wrapper__blog-title {
   font-size: 1.625rem;
   margin-bottom: 1.875rem; }
+  .wrapper__blog-title.detail-page {
+    margin-bottom: 0; }
 .wrapper__title-link {
   color: #222222;
   font-size: 1.625rem;
