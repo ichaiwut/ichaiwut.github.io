@@ -2,24 +2,32 @@
 layout: default
 comments: true
 ---
-{{ page.title }}
-            {{ page.date | date_to_string }}
-                {{ content }}
-                        {% include shared-icons.html %}
+<div class="wrapper__blog-list">
+    <div class="row wrapper__blog-con ">
+        <div class="small-12 columns">
+            <a href="/index.html" title="Back" class="wrapper__back">&lsaquo; Go Back</a>
+            <p class="wrapper__blog-date text-center">{{ page.date | date_to_string }}</p>
+            <h2 class="wrapper__blog-title text-center">{{ page.title }}</h2>
+            <div class="wrapper__blog-description">
+                    {{ content }}
+            </div>
+            {% include shared-icons.html %}
+            {{ % if page.comments % }}
+                <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                        var disqus_shortname = 'ichaiwut'; // required: replace example with your forum shortname
 
-                {{ % if page.comments % }}
-                    <div id="disqus_thread"></div>
-                        <script type="text/javascript">
-                            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-                            var disqus_shortname = 'ichaiwut'; // required: replace example with your forum shortname
-
-                            /* * * DON'T EDIT BELOW THIS LINE * * */
-                            (function() {
-                                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                            })();
-                        </script>
-                        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-                {{ % endif % }}
+                        /* * * DON'T EDIT BELOW THIS LINE * * */
+                        (function() {
+                            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            {{ % endif % }}
+        </div>
+    </div>
+</div>

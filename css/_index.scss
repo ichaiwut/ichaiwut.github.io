@@ -12,6 +12,7 @@ body {
 
   //Blog list
   &__blog-con {
+    position: relative;
     margin-bottom: rem-calc(40);
     padding: rem-calc(50) 0;
     background: #ffffff;
@@ -23,7 +24,7 @@ body {
   }
 
   &__blog-title {
-    font-size: rem-calc(16);
+    font-size: rem-calc(26);
     margin-bottom: rem-calc(30);
   }
 
@@ -41,8 +42,10 @@ body {
   }
 
   &__blog-description {
+    position: relative;
     padding: rem-calc(40);
   }
+
 
   &__blog-btn-con {
     text-align: center;
@@ -53,5 +56,144 @@ body {
     border: 1px solid #cccccc;
     color: #7b7b7b;
     font-weight: 400;
+
+    &:hover {
+      color: #ffffff;
+      background: #FE7E17;
+      border-color: #FE7E17;
+    }
   }
+
+  &__about-btn {
+    margin-top: rem-calc(20);
+    font-size: rem-calc(14);
+    font-weight: 300;
+    color: #333;
+  }
+
+  &__back {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    padding: rem-calc(10) rem-calc(24);
+    border: 1px solid #cccccc;
+    color: #000000;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+    &:hover {
+      color: #ffffff;
+      background: #FE7E17;
+      border-color: #FE7E17;
+    }
+  }
+
+  &__right-col-con {
+    margin-bottom: rem-calc(20);
+    padding: rem-calc(30);
+    background: #ffffff;
+
+    h2 {
+      font-family: "Fira Sans";
+      font-size: 20px;
+      font-weight: 500;
+    }
+  }
+
+  &__work-label {
+    margin-top: rem-calc(15);
+    padding-bottom: rem-calc(15);
+    border-bottom: 1px dotted #ccc;
+
+    strong {
+      font-size: rem-calc(18);
+    }
+
+    a {
+      color: #fff;
+      padding: 0 5px;
+      background: #FE7E17;
+    }
+  }
+
+  &__detail {
+    margin-bottom: rem-calc(30);
+    font-size: rem-calc(14);
+  }
+
+  &__social-list {
+    margin: 0;
+    list-style: none;
+  }
+
+  &__social-items {
+    padding: 0 rem-calc(3);
+    display: inline-block;
+  }
+
+  &__iframe-con {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  &__copy-right {
+    margin: 0;
+  }
+}
+
+#activities {
+  width: rem-calc(270);
+}
+
+.twitter-frame {
+  padding: rem-calc(10);
+}
+
+.ig-root {
+  margin-bottom: rem-calc(20);
+}
+
+//https://css-tricks.com/almanac/properties/a/animation/
+.user-avatar {
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 100%;
+  animation-name: stretch;
+  animation-duration: .5s;
+  animation-timing-function: ease-out;
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch {
+  0% {
+    transform: scale(.98);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.page-about p {
+  padding-bottom: 0;
+  padding-top: rem-calc(10);
+}
+
+ul.wrapper__blog-description {
+  padding-top: 0;
+}
+
+.paginator-blog {
+  margin: rem-calc(30) 0;
+}
+
+.paginator-blog .previous,
+.paginator-blog .next {
+  position: relative;
+  top: 0;
 }

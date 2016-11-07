@@ -4741,6 +4741,7 @@ body {
   font-weight: 300; }
 
 .wrapper__blog-con {
+  position: relative;
   margin-bottom: 2.5rem;
   padding: 3.125rem 0;
   background: #ffffff; }
@@ -4748,7 +4749,7 @@ body {
   text-transform: uppercase;
   margin: 0; }
 .wrapper__blog-title {
-  font-size: 1rem;
+  font-size: 1.625rem;
   margin-bottom: 1.875rem; }
 .wrapper__title-link {
   color: #222222;
@@ -4758,6 +4759,7 @@ body {
 .wrapper__image img {
   width: 100%; }
 .wrapper__blog-description {
+  position: relative;
   padding: 2.5rem; }
 .wrapper__blog-btn-con {
   text-align: center; }
@@ -4766,5 +4768,101 @@ body {
   border: 1px solid #cccccc;
   color: #7b7b7b;
   font-weight: 400; }
+  .wrapper__blog-btn:hover {
+    color: #ffffff;
+    background: #FE7E17;
+    border-color: #FE7E17; }
+.wrapper__about-btn {
+  margin-top: 1.25rem;
+  font-size: 0.875rem;
+  font-weight: 300;
+  color: #333; }
+.wrapper__back {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  padding: 0.625rem 1.5rem;
+  border: 1px solid #cccccc;
+  color: #000000;
+  font-size: 1.2rem;
+  font-weight: 500; }
+  .wrapper__back:hover {
+    color: #ffffff;
+    background: #FE7E17;
+    border-color: #FE7E17; }
+.wrapper__right-col-con {
+  margin-bottom: 1.25rem;
+  padding: 1.875rem;
+  background: #ffffff; }
+  .wrapper__right-col-con h2 {
+    font-family: "Fira Sans";
+    font-size: 20px;
+    font-weight: 500; }
+.wrapper__work-label {
+  margin-top: 0.9375rem;
+  padding-bottom: 0.9375rem;
+  border-bottom: 1px dotted #ccc; }
+  .wrapper__work-label strong {
+    font-size: 1.125rem; }
+  .wrapper__work-label a {
+    color: #fff;
+    padding: 0 5px;
+    background: #FE7E17; }
+.wrapper__detail {
+  margin-bottom: 1.875rem;
+  font-size: 0.875rem; }
+.wrapper__social-list {
+  margin: 0;
+  list-style: none; }
+.wrapper__social-items {
+  padding: 0 0.1875rem;
+  display: inline-block; }
+.wrapper__iframe-con iframe {
+  width: 100%;
+  height: auto; }
+.wrapper__copy-right {
+  margin: 0; }
+
+#activities {
+  width: 16.875rem; }
+
+.twitter-frame {
+  padding: 0.625rem; }
+
+.ig-root {
+  margin-bottom: 1.25rem; }
+
+.user-avatar {
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 100%;
+  animation-name: stretch;
+  animation-duration: .5s;
+  animation-timing-function: ease-out;
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running; }
+
+@keyframes stretch {
+  0% {
+    transform: scale(0.98); }
+  100% {
+    transform: scale(1); } }
+.page-about p {
+  padding-bottom: 0;
+  padding-top: 0.625rem; }
+
+ul.wrapper__blog-description {
+  padding-top: 0; }
+
+.paginator-blog {
+  margin: 1.875rem 0; }
+
+.paginator-blog .previous,
+.paginator-blog .next {
+  position: relative;
+  top: 0; }
 
 /*# sourceMappingURL=style.css.map */
