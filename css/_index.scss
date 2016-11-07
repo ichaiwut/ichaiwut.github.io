@@ -1,12 +1,12 @@
 body {
-  padding: 20px;
+  padding: rem-clac(20);
   background: #f7f7f7;
   font-family: 'Fira Sans';
   font-weight: 300;
 
   @include breakpoint(large) {
-    padding: 0;
-    padding-top: 80px;
+    padding: rem-calc(20);
+    padding-top: rem-calc(80);
   }
 }
 
