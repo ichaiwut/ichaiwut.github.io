@@ -1,8 +1,13 @@
 body {
-  padding-top: 80px;
+  padding: 20px;
   background: #f7f7f7;
   font-family: 'Fira Sans';
   font-weight: 300;
+
+  @include breakpoint(large) {
+    padding: 0;
+    padding-top: 80px;
+  }
 }
 
 .wrapper {

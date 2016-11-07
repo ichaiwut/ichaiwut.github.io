@@ -12,11 +12,33 @@
     <body>
         <div class="wrapper">
             <div class="row">
-                <div class="medium-8 columns">
+                <div class="small-12 columns hide-for-large">
+                    <div class="wrapper__right-col-con text-center">
+                        <a href="/index.html" title="iChaiwut">
+                            <img src="{{ page.imageurl }}/img/avatar-me.jpg" alt="iChaiwut.me" title="iChaiwut.me" class="user-avatar">
+                        </a>
+                        <p class="wrapper__work-label">
+                            <strong>Frontend developer at</strong>
+                            <a href="https://www.buzzwoo.de" title="BUZZWOO!">
+                                <strong>BUZZWOO!</strong>
+                            </a>
+                        </p>
+                        <p class="wrapper__detail">
+                            My name is Chaiwut. I am a web designer and front-end developer, as well as a web developer too.
+                            I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai
+                        </p>
+                        <div class="wrapper__blog-btn-con">
+                            <a href="/about.html" class="btn btn-read-more wrapper__blog-btn wrapper__about-btn" title="About Chaiwut">
+                                More about me
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="small-12 medium-12 large-8 columns">
                     {{ content }}
                 </div>
-                <div class="medium-3 columns wrapper__right-col">
-                    <div class="wrapper__right-col-con text-center">
+                <div class="small-12 medium-12 large-3 columns wrapper__right-col">
+                    <div class="wrapper__right-col-con text-center show-for-large">
                         <a href="/index.html" title="iChaiwut">
                             <img src="{{ page.imageurl }}/img/avatar-me.jpg" alt="iChaiwut.me" title="iChaiwut.me" class="user-avatar">
                         </a>
@@ -47,7 +69,7 @@
                         </ul>
                     </div>
 
-                    <iframe height='454' width='270' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/11408799/latest-rides/c17631fbd03387815b332977681311b2a2287584'></iframe>
+                    <iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/11408799/latest-rides/c17631fbd03387815b332977681311b2a2287584'></iframe>
                     <div class="wrapper__right-col-con text-center twitter-frame">
                         <div class="wrapper__iframe-con">
                             <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/BeStrangers" data-widget-id="340062171423711233">Tweets by @BeStrangers</a>

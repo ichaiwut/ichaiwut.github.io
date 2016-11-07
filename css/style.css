@@ -4735,10 +4735,14 @@ table.hover tbody tr:nth-of-type(even):hover {
   font-style: italic;
   font-weight: 700; }
 body {
-  padding-top: 80px;
+  padding: 20px;
   background: #f7f7f7;
   font-family: 'Fira Sans';
   font-weight: 300; }
+  @media screen and (min-width: 64em) {
+    body {
+      padding: 0;
+      padding-top: 80px; } }
 
 .wrapper__blog-con {
   position: relative;
