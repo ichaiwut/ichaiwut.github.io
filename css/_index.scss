@@ -35,6 +35,10 @@ body {
     &.detail-page {
       margin-bottom: 0;
     }
+
+    a:hover {
+      color: #FE7E17;
+    }
   }
 
   &__title-link {
@@ -205,4 +209,24 @@ ul.wrapper__blog-description {
 .paginator-blog .next {
   position: relative;
   top: 0;
+}
+
+.post-detail {
+  h3 {
+    margin: rem-calc(50) 0 rem-calc(15);
+    font-size: 1.6rem;
+  }
+
+  p > a:link,
+  p > a:visited {
+    color: #FE7E17;
+  }
+
+  p > a:hover {
+    text-decoration: underline;
+  }
+
+  img {
+    margin: 20px auto;
+  }
 }

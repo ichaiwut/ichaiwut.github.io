@@ -4757,6 +4757,8 @@ body {
   margin-bottom: 1.875rem; }
   .wrapper__blog-title.detail-page {
     margin-bottom: 0; }
+  .wrapper__blog-title a:hover {
+    color: #FE7E17; }
 .wrapper__title-link {
   color: #222222;
   font-size: 1.625rem;
@@ -4870,5 +4872,16 @@ ul.wrapper__blog-description {
 .paginator-blog .next {
   position: relative;
   top: 0; }
+
+.post-detail h3 {
+  margin: 3.125rem 0 0.9375rem;
+  font-size: 1.6rem; }
+.post-detail p > a:link,
+.post-detail p > a:visited {
+  color: #FE7E17; }
+.post-detail p > a:hover {
+  text-decoration: underline; }
+.post-detail img {
+  margin: 20px auto; }
 
 /*# sourceMappingURL=style.css.map */
