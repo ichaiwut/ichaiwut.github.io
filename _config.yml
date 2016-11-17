@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "/blog/page:num/"
-url: http://ichaiwut.github.io/
+url: http://chaiwut.me/
 imageurl: http://ichaiwut.github.io/img/
 comments: true
 
@@ -16,4 +16,4 @@ comments: true
 analytics :
   provider : google
   google :
-      tracking_id : 'UA-65871198-1'
+      tracking_id : 'UA-87576538-1'
