@@ -83,6 +83,8 @@ Lone Peak 3.5 มาพร้อมกับ Zero Drop เช่นเคย ซ
 
 20km 30km ทุกอย่างราบรื่นไม่มีปัญหา สบายเท้าวิ่งไกลได้ดีมาก ผมรู้สึกชอบแล้วสิ เหมือนที่หลายๆคนบอกจริงๆ ลองใส่แล้วจะชอบ
 
+<center><img src="https://scontent.fbkk5-7.fna.fbcdn.net/t31.0-8/15068281_1812449272370761_3258967554698049322_o.jpg" alt=""></center>
+
 <center><img src="https://bestrangers.files.wordpress.com/2016/11/15068517_1812122852403403_79306162891951679_o.jpg?w=736" alt=""></center>
 
 <center>
