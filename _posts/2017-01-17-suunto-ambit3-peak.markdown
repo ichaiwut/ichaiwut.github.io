@@ -133,3 +133,5 @@ Peak มาพร้อมกับโหมด Multisport ซึ่งเรา
 พอละเดี๋ยวจะยาวไป โพสนี้ผมอ้างอิงมาจากเว็บไซต์ของ Suunto นะครับลองไปอ่านทั้งหมดได้ที่ [http://www.suunto.com/Compare-Products/?products=12655](http://www.suunto.com/Compare-Products/?products=12655) เลยครับเยอะอยู่เหมือนกัน 
 
 ส่วนเจ้าอื่นๆ ที่ความสามารถใกล้ๆ กันนั้นก็ไม่ทราบเพราะผมไม่เคยใช้ครับ 555 เช่น Garmin Fenix 3 อาจจะดีกว่า หรืออาจจะแย่กว่า อันนี้ไม่ทราบจริงๆ เพราะเคยใช้แค่ 235 ครับ
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sdfCxZ9nTl0" frameborder="0" allowfullscreen></iframe></center>
