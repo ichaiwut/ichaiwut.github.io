@@ -14,48 +14,48 @@ description: "สำหรับนั่งวิ่งสายเทรลน
 ### Maps.me คืออะไร?
 [Maps.me](http://maps.me/en/home) เป็นบริการสำหรับดูแผนที่ซึ่งจุดเด่นคือเราสามารถดูแผนที่และตำแหน่งของเราแบบ Offline ได้ด้วยครับเหมาะสำหรับเอาไว้ใช้เดินป่า หรือเวลาเราไปในที่ที่ต้องการดูแผนที่แต่ไม่มีสัญญาณโทรศัพท์ หรืออินเตอร์เน็ต สามารถไปเขาไปดูรายละเอียดได้ที่และดาว์โหลดได้ที่ [Maps.me](http://maps.me/en/home) เลย
 
-<center><img src="https://7wuknw.dm2301.livefilestore.com/y4psWjKydnqkvcvlRGM2f9b4DGGuAZ3WtYTFHYVxKhm-F7ymOUvwlogHexRoU5vDRS5zANRZnCj0dX8I7_klyukRVYdew4QuwfzGEEXKzW_vMK1WBkPXcAtjxob1Pk9iUjZt74nU11FRsdVnrToHT3Gu7rzC-hnqjZmSZJG5pxyaP638T7apS8qsiXZqAaQ7BSGUpMBf1nug0CtNePOHX1yIw/Screenshot_20170702-220228.jpg?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4258/35551846981_b40db28cbe_b.jpg"></center>
 
 หลังจากเราติดตัง Maps.me เรียบร้อยแล้ว ขั้นตอนต่อไปเราต้องโหลด Map เพื่อเอาไว้ดู Offline มาก่อน (ผมแนะนำให้ใช้ Wifi ในการโหลด) โดยเราสามารถเลือกโหลดเป็นจังหวัดได้เราจะใช้ที่ไหนก็โหลดของจังหวัดนั้นเอาครับ เมมจะได้ไม่เต็มซะก่อน อย่างตัวอย่างผมก็จะโหลดส่วนของเชียงใหม่มาไว้ โดยไปที่ `Settings > Download Maps` จากนั้นเราก็สามารถค้นหาจังหวัดที่เราต้องการโหลดแล้วโหลดโลดดดดดด
 
 ### สร้าง Route ด้วย Strava
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4p_fCWsSztyfoc-Vl21vdZG-VL2oWA8wZdNhjnzYAqNXQqURRaEAx-AZ4Jn3rzAnC4BDjpESnKrtZHlh-jRU3PSEjgGr8-ZeV6n6CdhQA_MgUOR8EH3N7jLxchG7P6nmVuXZF0qezvltwqc4eMK8FA4FapCvDcG57IoDOMSEkzm9enFmlJodgLW31_njFMn8Tm6jlIoN_U_kI0YDkwewTFWw/Screen%20Shot%202560-07-02%20at%2010.15.21%20PM.png?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4262/34873053243_5f3825f05a_b.jpg"></center>
 
 สำหรับใครที่ใช้ [Strava](http://www.strava.com) เราสามารถเข้าไปสร้างแผนที่ของเราเองได้ด้วยครับ โดยไปที่ Dashboard -> My Routes เราก็จะเห็น Route ทั้งหมดที่เราเคยสร้างเอาไว้นั่นเองหากใครยังไม่มี ก็กดที่ `Create New Route` ได้เลย และใครไม่สร้างไม่เป็นลองอ่านบทความของเขาดูนะ [Strava Routes](https://support.strava.com/hc/en-us/articles/216918387-Strava-Routes) ส่วนใครที่ไม่มี Strava ก็ไม่ต้องน้อยใจครับ สามารถสร้างผ่าน [Google Map Route Planer](https://www.google.com/maps/d/u/0/edit?mid=1DjR5JjL9zJ0HZ4dfXA6exJU7E3k&ll=18.4558348498376%2C98.96548853125&z=7) ได้เลยนะ
 
 ### Export Route
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4pPtrJKIjNekl2VqjEBK4kf2tKsLjqbs67Orlm35vy22mimTa64wtEr8ijX0OBusjtHg6mgY3i8gC1fmbLf_J5iMxmRdyLPKAwLS3WCJy6ahNWfu-rM_MkkdQKk4TxHenJ3mkjnpbWxk4UeY0tgqoT4u4qdEaJIxdmZwib9jFWwa2_ZuEAsROI6Y0pe3Dk4zX7IB5B9hpWW5gdjLMBU9WBPA/Screen%20Shot%202560-07-02%20at%2010.24.23%20PM.png?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4242/34873053053_7f9e22877d_b.jpg"></center>
 
 สำหรับ Strava เราสามารถ Export แผนที่ออกมาได้สองแบบผมเลือกที่จะส่งออกเป็นแบบ .gpx แล้วเซฟลงเครื่องไว้เลย มาถึงตอนนี้เท่าที่ผมลองเปิด Maps.me เครื่องผม (Android) ไม่ยอมเปิดไฟล์ .gpx ผมเลยต้องแปลงไฟล์ก่อนโดยเปิด [Google My Maps](https://www.google.com/maps/about/mymaps/) ให้เลือก **"สร้างแผนที่ใหม่"** แล้วจากนั้นให้เราเลือก **"นำเข้า"**
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4phR6u7hGBNaRn1jsxgEnyFfBvGFlPqDmRZnqPYh3VrZfxb9MUn46JtIbi1roFBO47TahX-HPNZjWT69CIVR-fhYT19faPFMj_ZeY5zLIGtk8Nz7-qXaDKLhWwQET_YKXFP2M4EMSfMVbT613KT4_XUzGdARinaVjAGeU1z_GeGK396iYG463IfwNvXx0M3GtL1fMdQ0YEoPNudyp_fQrndg/Screen%20Shot%202560-07-02%20at%2010.30.45%20PM.png?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4230/35551847301_869d134eac_b.jpg"></center>
 
 ให้เราเลือกไฟล์ .gpx ที่เรา export มาจาก Strava ได้เลย เมื่อเสร็จแล้วเราก็จะได้แผนที่ของเราใน Google My Map ตามภาพครับ
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4p2kPYNC5-qUsyViIlRaLsTm3MfJt2Zps1kQdNjJgYx0vBtY6dPCQGj0_LsObnUUlhQtLQsUi8V7Qx74wwZ9abKwFA4TI7DfvRZlbZX9J6KO7zEUHt2BmoUUGjfoBeqf_6vOt23SaBbqfNrJ0M9QMdjPoNy00yh6toDAEbR1yJKLSSl3-SzbnChzsaPMIiblzbscHjr1Xpu3h6RPnb1laF1w/Screen%20Shot%202560-07-02%20at%2010.33.02%20PM.png?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4083/35551847171_6825f4e172_b.jpg"></center>
 
 ### นำ Route มาไว้ใน Maps.me
 
 สำหรับ Android ผมใช้วิธีเปิด Google My Map แล้วโหลดลงมาที่เครื่องเลย แต่สำหรับ iPhone ผมไม่แน่ใจอาจจะทำได้เหมือน Android วิธีข้างล่าง เพราะยังไม่เคยลอง (ไม่มี iPhone T-T) หากลองแล้วไม่ได้ ให้ export ไฟล์ KML ใน Google My Map แล้วลองส่งเมล์ให้ตัวเองดูครับ แล้วเปิดเมล์ใน Mail app จากนั้นลองเปิดไฟล์แนบดูนะครับ
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4p5iKqxP8ffXbSC2FClbt5BYI81w0A9BcEF9m0PwnliTbEWHD78Mqb8mrysPTxvkm1mmQuRi7jvuSVO7Y3kpI9dUI7oz46gDApTipm97rs3OL6TzzRq2W_5BQEPEVjomlhVDrrAb4pe3WSOeBFS78Ey_0Sz1gjwS3gP0XxYgDPD7DMl5-yV-S3cN2wwL8zw0BaRZuYS2HBECEQ0POK2YRjeA/Screenshot_20170702-224604.jpg?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4152/35551846941_5b1d5d8f38_b.jpg"></center>
 
 เข้า Google My Maps ผ่าน Browser ในโทรศัพท์ครับ
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4ptG0WH9m_dfXafkQbxQBesleYdJwY8fEcwoF_pLSA3OA8ICGGEl0k5Lrk26nNjQTEb3SIn6KJ7lx7xvPVhHD5EIZ1fXwmbrT1KaufPHOTjFFzGW7jP5Y6VdAiw90RdUKijDaI0nQJMslOl1Mpw2ydtnXHtu8flbzFsdTtQKZ5EnrRXZJj_PakteHSs_6Mjmtd-4oFxhBXYLZi45EDcOB7GA/Screenshot_20170702-224705.jpg?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4002/35551846861_1681763b29_b.jpg"></center>
 
 เลือกแผนที่ของเราได้เลย กดเข้าไปดูแผนที่แล้วกดที่ **LEGEND**
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4pLfT-QUz0AcOhE6b12o-V55uDpQcpemMBTUT3RvQ39EdB7k3Jw1qQ8EEhRmaT-7X5RewCybIw2MDxDLyynzOngllLexm2y143GXTQWFKOGh69LCmZGdjm4L1Al-U3BlMI6vGnMxoHXRcJuwNUsmGP4V_llGufG4X8kJYlawmS6EI0jbLjsjLU2ZlCh2RmJ4DbQ-a_4OwLH2zj0o40oOoGSg/Screenshot_20170702-224712.jpg?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4042/35551846791_4fc280fbab_b.jpg"></center>
 
 กดที่จุดสามจุดด้ายหลังชื่อแล้วเลือก **ส่งออกไปยัง KML** กดดาว์โหลดแล้วเราก็จะได้ไฟล์ KML เก็บไว้ในเครื่อง
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4pgKP-OTlYN5HAwWYdTbL1Y-5nPuQMy6ly6_3cc6iLvL8Se-5pfZWQotJK5m7TScbLE9S4QiYkyw2oLkhio_r98tLk49gg174bsRiJQlCHuWSKlkQQpN9jp_uiiswuvP3QOXJE0oRMhd3Ff2A_Hzvrlo-pJmcWGpRljJJrvNEnYyvx9bMDY-DudAU0Im4oOQNdIgm2DPlHnyt9-rXjaWGVFw/Screenshot_20170702-224803.jpg?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4142/34873052123_366d63a5b0_b.jpg"></center>
 
 ไปที่ดาว์โหลดแล้วกดที่ไฟล์ KML ได้เลย แผนที่จะถูกเปิดโดย maps.me ครับ ไปดูแผนที่ของเราได้ที่ Bookmarl Sets ในแอฟ maps.me ได้เลยยยยย
 
-<center><img src="https://uryfca.dm2301.livefilestore.com/y4pI0bhuUy8s7LR_or408DbaFwuPXQ56amI69PaZ2IgdjDan1CnxQqFsxHWwuYMVFI_IVXM5Z8dyi36av87rqdCIB7WHm9cs8xLlNObqWVwFbUMHw19Dm5j9KJiXBo2A7jMW5qSm46iJ9VjbOf8_EeaqcRRxWT8wveDCbwgdvMoucyJyPsEEl2DKlivi4ax8xaRjlJHWykh3wOSWE_UDEgVpw/Screenshot_20170702-224818.jpg?psid=1"></center>
+<center><img src="http://farm5.staticflickr.com/4240/35551846601_fc5fe024a4_b.jpg"></center>
 
 คราวนี้ก็เอาไปวิ่งแบบไม่ต้องกลัวหลงกันได้แล้วครับ ^^
 
