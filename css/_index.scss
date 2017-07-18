@@ -1,8 +1,9 @@
 body {
-  padding: rem-clac(20);
+  padding: rem-calc(20);
   background: #f7f7f7;
-  font-family: 'Fira Sans';
+  font-family: 'boonregular';
   font-weight: 300;
+  letter-spacing: 0.25px;
 
   @include breakpoint(large) {
     padding: rem-calc(20);
@@ -19,8 +20,12 @@ body {
   &__blog-con {
     position: relative;
     margin-bottom: rem-calc(40);
-    padding: rem-calc(50) 0;
+    padding: rem-calc(86) 0 rem-calc(50);
     background: #ffffff;
+
+    @include breakpoint(large) {
+      padding: rem-calc(50) 0 rem-calc(50);
+    }
   }
 
   &__blog-date {
@@ -29,6 +34,7 @@ body {
   }
 
   &__blog-title {
+    font-family: "boonbold";
     font-size: rem-calc(26);
     margin-bottom: rem-calc(30);
 
@@ -45,7 +51,7 @@ body {
     color: #222222;
     font-size: rem-calc(26);
     font-weight: 500;
-    font-family: 'Fira Sans';
+    font-family: 'boonbold';
   }
 
   &__image {
@@ -87,12 +93,18 @@ body {
   &__back {
     position: absolute;
     top: 20px;
-    left: 50px;
+    left: 50%;
+    transform: translateX(-50%);
     padding: rem-calc(10) rem-calc(24);
     border: 1px solid #cccccc;
     color: #000000;
     font-size: 1.2rem;
     font-weight: 500;
+
+    @include breakpoint(large) {
+      left: 50px;
+      transform: translateX(0);
+    }
 
     &:hover {
       color: #ffffff;
@@ -107,7 +119,7 @@ body {
     background: #ffffff;
 
     h2 {
-      font-family: "Fira Sans";
+      font-family: "boonbold";
       font-size: 20px;
       font-weight: 500;
     }
@@ -213,6 +225,7 @@ ul.wrapper__blog-description {
 
 .post-detail {
   h3 {
+    font-family: "boonbold";
     margin: rem-calc(50) 0 rem-calc(15);
     font-size: 1.6rem;
   }

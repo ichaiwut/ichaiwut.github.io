@@ -1,12 +1,12 @@
 name: iChaiwut
 markdown: redcarpet
 highlighter: true
-permalink: /:year/:month/:day/:title
+permalink: pretty
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "/blog/page:num/"
-url: http://chaiwut.me/
-imageurl: http://ichaiwut.github.io/img/
+url: https://chaiwut.me/
+imageurl: https://ichaiwut.github.io/img/
 comments: true
 
 # Settings for analytics helper

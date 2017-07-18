@@ -5,14 +5,19 @@
     <meta name="google-site-verification" content="dv2lXBKU0GhZxMQ1e-jEC0HnM90xFlaklKpsoH-NX84" />
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="http://faviconist.com/icons/4b74539ba5239a84fd4b6aec29ae34af/favicon.ico" />
+    <link rel="shortcut icon" <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
     <meta name="description" content="My name is Chaiwut. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai" />
 
     <!-- open graph meta tags -->
   {% if page.pagename == "home" %}
     <meta property="og:title" content="chaiwut.me">
     <meta property="og:description" content="My name is Chaiwut. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai">
-    <meta property="og:image" content="http://chaiwut.me/img/avatar-me.jpg">
+    <meta property="og:image" content="//chaiwut.me/img/avatar-me.jpg">
   {% else %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.description }}">
@@ -28,9 +33,9 @@
     <!-- twitter card meta tags -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@bestrangers">
-    <meta name="twitter:domain" content="http://chaiwut.me">
+    <meta name="twitter:domain" content="//chaiwut.me">
     <meta name="twitter:creator" content="@bestrangers">
-    <meta name="twitter:url" content="http://chaiwut.me/index.html">
+    <meta name="twitter:url" content="//chaiwut.me/index.html">
     <meta name="twitter:title" content="Home">
     <meta name="twitter:description" content="">
 
