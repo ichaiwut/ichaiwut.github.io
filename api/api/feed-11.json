@@ -1,0 +1,31 @@
+{
+  "pages": [
+    
+    {
+      "title": "Heading to Stuttgart Part 1",
+      "link": "/2015/12/Heading-to-Stuttgart-Part-1.html",
+      "image": "https://c1.staticflickr.com/1/625/23048204044_0c8df64de5_b.jpg",
+      "content": "การเดินทางไปเยอรมันครั้งที่อย่างเป็นทางการ จะมีบันทึกให้อ่านเรื่อยๆ ตอนแรกเริ่มเดินทาง แค่เริ่มเดินทางก็สนุก มันส์ ฮาแล้วต้องติดามๆ"
+    }
+    ,
+    {
+      "title": "Chrome Device Inspect",
+      "link": "/2015/08/Chrome-Device-Inspect.html",
+      "image": "https://c1.staticflickr.com/1/289/19668650633_3d6e7472f4_b.jpg",
+      "content": "โพสนี้ขอมาเล่าการใช้งานพวก tools ของ Google Chrome ซึ่งทำให้เราสะดวกสบายในการใช้งาน สำหรับผู้ที่เป็นนักพัฒนา Hybrid App หรือนักพัฒนาเว็บที่ต้องทำงานแบบ Mobile First ทุกอย่างเริ่มจากโทรศัพท์ก่อนนั่นเอง"
+    }
+    ,
+    {
+      "title": "Back to my way.",
+      "link": "/2015/07/Back-to-my-way.html",
+      "image": "http://farm1.staticflickr.com/523/20075971036_aac166ec1b_b.jpg",
+      "content": "การหวนลับมาครั้งนี้ ได้อะไรกลับมามากมายหลายอย่าง และได้รู้ความจริงแล้วว่าอะไรที่เหมาะกับตัวเองมากที่สุด อะไรคือสิ่งที่เราเป็น และอะไรคือความฝันของเรา หลังจากที่ลองออกไปเพื่อต้องการรู้ว่าเด็กที่จบออกมาทำไม ทำไม ทำไม ถึงไม่ได้อะไรออกมาเลย"
+    }
+  ]
+  
+  ,"next": "/api/feed-12.json"
+  
+  
+  ,"prev": "/api/feed-10.json"
+  
+}

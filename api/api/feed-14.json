@@ -1,0 +1,29 @@
+{
+  "pages": [
+    
+    {
+      "title": "Foundation With iChaiwut Part 1",
+      "link": "/2014/02/foundation-with-ichaiwut-1.html",
+      "image": "http://farm8.staticflickr.com/7445/12324998825_d18c0a5dee_o.jpg",
+      "content": "หลังจากที่ผมใช้ Bootstrap มาพักใหญ่ในที่สุดก็ตัดสินใจเปลี่ยนข้างหันมาลองใช้ Foundation ดูบ้าง ใช้ได้สักพักรู้สึกชอบติดใจเลยเอามาใช้กับ iChaiwut.me มันซะเลย"
+    }
+    ,
+    {
+      "title": "Jekyll with GitHub Page",
+      "link": "/2014/02/jekyll-with-github-page.html",
+      "image": "http://farm8.staticflickr.com/7336/12315488693_bbe5729572_o.jpg",
+      "content": "มีคนถามมาหลายคนเหมือนกันว่าใช้ Wordpress ทำบล็อกนี้เหรอ? ผมตอบตรงนี้เลยแล้วกันครับว่าไมใช่ครับ บล็อกนี้ผมใช้ Jekyll แล้วเก็บไว้บน Repository ของ GitHub จากนั้นก็ชี้โดเมนเนมไปที่ GitHub Pageของผมครับ"
+    }
+    ,
+    {
+      "title": "Time to change!",
+      "link": "/2014/02/time-to-change.html",
+      "image": "http://farm8.staticflickr.com/7399/14083112041_4a95e20439_b.jpg",
+      "content": "ในที่สุดผมก็ตัดสินใจจนได้ ที่จริงผมก็คิดมานานเหมือนกันนะ ว่าควรจะไปหรือควรจะอยู่แต่น้ำหนักมันลงไปที่ควรจะไปมากกว่าควรจะอยู่ หลายครั้งผมคิดว่าผมเองน่าจะอยู่เพื่อพัฒนาตัวเอง ให้มากกว่านี่แต่ในที่สุดแล้วผมก็ไม่สามารถทำงานโดยไม่มีความตื่นเต้น หรือไม่มีอะไรใหม่ๆเข้ามา"
+    }
+  ]
+  
+  
+  ,"prev": "/api/feed-13.json"
+  
+}

@@ -1,0 +1,29 @@
+{
+  "pages": [
+    
+    {
+      "title": "สร้าง Strava Route เอาไว้ใช้กับ Maps.me",
+      "link": "/2017/07/create-route-maps-me.html",
+      "image": "https://corp.imgsmail.ru/media/images/mapsme11.jpg",
+      "content": "สำหรับนั่งวิ่งสายเทรลนั้น หลายคนอยากซ้อมในพื้นที่ที่เป็นภูเขา ซึ่งครั้นจะไปกับเพื่อนก็ไม่รู้ทาง จะตาม Maps ทั้งหลายก็ไม่รู้ว่าจะไปตามเส้นทางได้ถูกหรือเปล่า โหลดแอพ Maps.me มาเพื่อใช้ตอนไม่มีเน็ตก็ไม่รู้ว่าจะ Import Map เข้ามาได้อย่างไร วันนี้เราจะมาคุยเรื่องนี้กันครับ"
+    }
+    ,
+    {
+      "title": "Ionic 2–3 Nav Guards",
+      "link": "/2017/06/Ionic-2-3-Nav-Guards.html",
+      "image": "https://cdn-images-1.medium.com/max/800/1*d_w0M8RoJdXy4l84fsePhg.jpeg",
+      "content": "หากใครที่เขียน Angular 2 ~ 4 คงรู้จัก และคุ้นเคยกับ Routing Guards กันอยู่แล้ว พอหันกลับมาเขียน Ionic 2–3 กันบ้างซึ่งเราไม่ได้ใช้ Routes แต่เราใช้ NavController สำหรับการ Push หรือ Pop หน้าต่างๆ ภายใน Ioninc App ทาง Ionic 2–3 ก็มี Feature นี้ให้เหมือนกันนะครับ ชื่อว่า Nav Guards"
+    }
+    ,
+    {
+      "title": "Suunto Ambit3 Peak",
+      "link": "/2017/01/suunto-ambit3-peak.html",
+      "image": "https://bestrangers.files.wordpress.com/2017/01/suunto-ambit3-peak-foto.jpg?w=1462",
+      "content": "เปิดหัวเรื่องมาขนาดนี้แล้วคงหนีไม่พ้นรีวิวนาฬิกาแน่นอนครับบบ Suunto Ambit3 Peak คือเจ้านาฬิกาวัดค่าการออกกำลังกายตัวใหม่ของผมแทนที่อันเดิม Garmin Forerunner 235 ที่ปลดประจำการไปเรียบร้อยแล้วใช้ได้ไม่ถึงปีเลย ใครได้เป็นเจ้าของนี่ถือว่าโชคดีมากเลยนะครับ สำหรับบทความนี้จะมารีวิวเจ้านาฬิกาตัวใหม่นี้กันสักหน่อย ถึงแม้ตัว Spatan จะออกมาแล้วแต่ผมก็ยังคงเลือก Ambit3 Peak เพราะอะไรกันนน"
+    }
+  ]
+  
+  ,"next": "/api/feed-2.json"
+  
+  
+}
