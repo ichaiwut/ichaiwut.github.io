@@ -1,0 +1,30 @@
+{
+  "name": "ichaiwut.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "mustache": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "scripts": {
+    "watch": "webpack-cli --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichaiwut/ichaiwut.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichaiwut/ichaiwut.github.io/issues"
+  },
+  "homepage": "https://github.com/ichaiwut/ichaiwut.github.io#readme"
+}
