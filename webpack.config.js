@@ -68,8 +68,7 @@ module.exports = {
       filesToConcat: [
         'jquery',
         './js/ease.min.js',
-        './js/segment.min.js',
-        './node_modules/vanilla-lazyload/dist/lazyload.js'
+        './js/segment.min.js'
       ],
       attributes: {
         async: true

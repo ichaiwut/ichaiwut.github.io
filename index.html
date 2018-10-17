@@ -45,12 +45,6 @@
 		<link rel="author" href="https://plus.google.com/107399702829359268779">
 		<link href="https://fonts.googleapis.com/css?family=Krub:300,700" rel="stylesheet">
 		<link rel='stylesheet' type='text/css' href='dist/main.css'>
-
-		<script>
-			window.lazyLoadOptions = {
-					elements_selector: '.lazy'
-				};
-		</script>
 	</head>
 
 	<body class="home">
@@ -59,7 +53,7 @@
 				<img src='img/loader.gif' alt>
 			</div>
 		</div>
-		<div class="lazy" data-src="img/person-img.jpeg"></div>
+		<div class="col-img" style="background-image: url(img/person-img.jpeg)"></div>
 		<div id='main-wrapper'>
 			<div id='menu-icon-wrapper' class='menu-icon-wrapper' style='visibility: hidden'>
 				<button id='menu-icon-trigger' class='menu-icon-trigger'>
@@ -209,7 +203,7 @@
 		<script id="blog-template" type="x-tmpl-mustache">
 			<li>
 				<div class='blog-post'>
-					<figure><img class="lazys" data-src='{{ image }}' alt="{{ title }}"></figure>
+					<figure><img src='{{ image }}' alt="{{ title }}"></figure>
 					<div class='content'>
 						<h4>{{ title }}</h4>
 					</div>
