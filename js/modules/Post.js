@@ -108,6 +108,12 @@ export default class Post {
         el.addEventListener("click", this.showPost)
       );
     }
+
+    let lazyLoadOptions = {
+      elements_selector: '.lazys'
+    };
+
+    let lazy = new window.LazyLoad(lazyLoadOptions);
   }
 
   renderPost() {

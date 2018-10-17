@@ -121,7 +121,8 @@ body.section-animate .section.active {
 .section-block {
   padding-top: 80px;
 }
-.col-img {
+.col-img,
+.lazy.initial {
   position: fixed;
   top: 0;
   left: 0;
@@ -131,6 +132,7 @@ body.section-animate .section.active {
   background-size: cover;
   background-position: center top;
 }
+
 .bg-left {
   background-position: 0 0;
 }
