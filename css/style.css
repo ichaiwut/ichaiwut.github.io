@@ -1,36 +1,8 @@
-/*==============================================================
-
-	Item	:	Myers - Responsive Resume/CV/vCard Template
-
-	Author	:	Noman Ali Samejo
-
-----------------------------------------------------------------
-	List of Contents
-----------------------------------------------------------------
-
-	01. General Styles
-	02. Preloader
-	03. Menu Styles
-	04. Intro Section
-	05. About Section
-	06. Resume Section
-	07. Portfolio Section
-	08. Blog Section
-	09. Contact Section
-	10. Single Post Page
-	11. Responsive CSS
-
-==============================================================*/
-
-/*==============================================================
-	General Styles
-==============================================================*/
-@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:100,200,300,400,500,600,700,800,900|Lora:400,400i,700,700i";
 * {
   font-family: inherit;
 }
 body {
-  font-family: "Work Sans", serif;
+  font-family: "Krub", serif;
 }
 .menu-items,
 .btn-custom,
@@ -41,7 +13,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
+  font-weight: 800;
 }
 body,
 html {
@@ -263,9 +236,14 @@ body.loaded #preloader {
   margin: 0;
   padding: 0;
 }
+
 .menu-icon-wrapper .menu-icon-trigger:hover,
 .menu-icon-wrapper .menu-icon-trigger:focus {
   outline: none;
+}
+
+.menu-icon-wrapper .menu-icon-trigger span {
+  font-size: 0px;
 }
 #menu {
   position: absolute;
@@ -413,7 +391,7 @@ body.show-menu .menu-items > li > a {
 .intro-text > p {
   font-size: 18px;
   margin-top: 5px;
-  color: #808080;
+  color: #666;
   margin-bottom: 45px;
 }
 .intro-footer {
@@ -457,13 +435,18 @@ body.show-menu .menu-items > li > a {
   color: #202020;
   text-decoration: none;
 }
+
+.footer-social span {
+  font-size: 0px;
+}
+
 .pre {
   margin: 0;
-  font-family: Lora, serif;
+  /* font-family: Lora, serif; */
   letter-spacing: 4px;
   font-style: italic;
   color: #898989;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   font-weight: bold;
   line-height: 1.6em;
 }

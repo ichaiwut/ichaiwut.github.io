@@ -43,26 +43,8 @@
 		<meta name="twitter:description" content="My name is Chaiwut. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai">
 
 		<link rel="author" href="https://plus.google.com/107399702829359268779">
-
 		<link href="https://fonts.googleapis.com/css?family=Krub:300,700" rel="stylesheet">
-
-		<link rel='stylesheet' type='text/css' href='bootstrap/css/bootstrap.min.css'>
-		<link rel='stylesheet' type='text/css' href='css/ionicons.min.css'>
-		<link rel='stylesheet' type='text/css' href='css/style.css'>
-
-		<link rel="stylesheet" href="/css/style.css">
-		<script>
-			(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-				(i[r].q = i[r].q || []).push(arguments)
-			}, i[r].l = 1 * new Date(); a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-			})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-			ga('create', 'UA-87576538-1', 'auto');
-			ga('send', 'pageview');
-
-		</script>
+		<link rel='stylesheet' type='text/css' href='dist/main.css'>
 	</head>
 
 	<body class="home">
@@ -74,12 +56,14 @@
 		<div class='col-img' style='background-image:url(img/person-img.jpeg);'></div>
 		<div id='main-wrapper'>
 			<div id='menu-icon-wrapper' class='menu-icon-wrapper' style='visibility: hidden'>
-				<svg width='1000px' height='1000px'>
-					<path id='pathA' d='M 300 400 L 700 400 C 900 400 900 750 600 850 A 400 400 0 0 1 200 200 L 800 800'></path>
-					<path id='pathB' d='M 300 500 L 700 500'></path>
-					<path id='pathC' d='M 700 600 L 300 600 C 100 600 100 200 400 150 A 400 380 0 1 1 200 800 L 800 200'></path>
-				</svg>
-				<button id='menu-icon-trigger' class='menu-icon-trigger'></button>
+				<button id='menu-icon-trigger' class='menu-icon-trigger'>
+					<span>menu trigger</span>
+					<svg width='1000px' height='1000px'>
+						<path id='pathA' d='M 300 400 L 700 400 C 900 400 900 750 600 850 A 400 400 0 0 1 200 200 L 800 800'></path>
+						<path id='pathB' d='M 300 500 L 700 500'></path>
+						<path id='pathC' d='M 700 600 L 300 600 C 100 600 100 200 400 150 A 400 380 0 1 1 200 800 L 800 200'></path>
+					</svg>
+				</button>
 			</div>
 			<div id='menu'>
 				<nav class='menu-main'>
@@ -93,9 +77,6 @@
 						<li>
 							<a href='#blog'>Blog</a>
 						</li>
-						<li>
-							<a href='#podcast'>Podcast</a>
-						</li>
 					</ul>
 				</nav>
 			</div>
@@ -107,7 +88,7 @@
 								<h1>TingSter</h1>
 								<p>
 									Front-end Trooper at
-									<a href="https://buzzwoo.de" title="https://buzzwoo.de" target="_blank">BUZZWOO!</a>
+									<a href="https://buzzwoo.de" title="https://buzzwoo.de">BUZZWOO!</a>
 								</p>
 								<a href='#about' class='btn-custom section-link'>About Me</a>
 							</div>
@@ -125,7 +106,8 @@
 								<!-- social buttons -->
 								<ul class='footer-social'>
 									<li>
-										<a href='https://facebook.com/ichaiwut' target="_blank">
+										<a href='https://facebook.com/ichaiwut'>
+											<span>facebook</span>
 											<i class='ion-social-facebook'></i>
 										</a>
 									</li>
@@ -140,9 +122,6 @@
 				<div class='section-block about-block'>
 					<div class='container-fluid'>
 						<div class='about-text'>
-
-							<h4 class='pre'>About Me</h4>
-
 							<h2>
 								I'm TingSter,
 							</h2>
@@ -156,50 +135,9 @@
 						</div>
 					</div>
 				</div>
-				<div class='section-block funfacts-block'>
-					<div class='container-fluid'>
 
-						<!-- funfacts -->
-						<h4 class='pre'>The Surprising Facts</h4>
-						<div class='row'>
-							<div class='col-sm-4 col-xs-6'>
-
-								<div class='funfact'>
-									<h2>
-										1
-									</h2>
-									<p>Wife (of couase)</p>
-								</div>
-
-							</div>
-							<div class='col-sm-4 col-xs-6'>
-
-								<div class='funfact'>
-									<h2>
-										1
-									</h2>
-									<p>Life</p>
-								</div>
-
-							</div>
-							<div class='col-sm-4 col-xs-12'>
-
-								<div class='funfact'>
-									<h2>
-										1
-									</h2>
-									<p>Love</p>
-								</div>
-
-							</div>
-						</div>
-					</div>
-				</div>
 				<div class='section-block services-block'>
 					<div class='container-fluid'>
-
-						<h4 class='pre'>What I can do.</h4>
-
 						<div class='row'>
 							<div class='col-sm-6'>
 
@@ -228,9 +166,6 @@
 				</div>
 				<div class='section-block skills-block'>
 					<div class='container-fluid'>
-
-						<h4 class='pre'>Nobody perfect</h4>
-
 						<div class='skill' data-percent='99'>
 							<h4>Web Development</h4>
 						</div>
@@ -249,7 +184,6 @@
 			<section id='blog' class='section blog-section'>
 				<div class='section-block blog-block'>
 					<div class='container-fluid'>
-						<h4 class='pre'>Take a look at my blog</h4>
 						<ul class='blog-posts' id="blog-wrapper">
 
 						</ul>
@@ -258,17 +192,6 @@
 								More Post
 							</li>
 						</ul>
-					</div>
-				</div>
-			</section>
-
-			<section id='podcast' class='section about-section'>
-				<div class='section-block about-block'>
-					<div class='container-fluid'>
-						<div class='about-text'>
-							<h4 class='pre'>Keep calm and listen</h4>
-							<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/121485186&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-						</div>
 					</div>
 				</div>
 			</section>
@@ -286,24 +209,19 @@
 				</div>
 			</li>
 		</script>
-
-		<script src='js/jquery.min.js'></script>
-		<script src='js/segment.min.js'></script>
-		<script src='js/ease.min.js'></script>
-		<script src='js/fitvids.js'></script>
-		<script src='js/script.js'></script>
+		<script src='dist/libs.js'></script>
 		<script src='dist/bundle.js'></script>
 
 		<script>
 			(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-				(i[r].q = i[r].q || []).push(arguments)
-			}, i[r].l = 1 * new Date(); a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+				i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date(); a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+				})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-			ga('create', 'UA-47772460-1', 'ichaiwut.me');
-			ga('send', 'pageview');
+				ga('create', 'UA-87576538-1', 'auto');
+				ga('send', 'pageview');
 
 			// just for fun
 			if (window.console) {
@@ -313,7 +231,7 @@
 					'Go to https://github.com/ichaiwut/ichaiwut.github.io/issue'
 				];
 
-				console.log(welcomeText.join('\n'));
+				console.warn(welcomeText.join('\n'));
 			}
 		</script>
 	</body>
