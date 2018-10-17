@@ -3,6 +3,14 @@ import Post from './modules/Post';
 document.onreadystatechange = () => {
   if (document.readyState === "complete") {
     const post = new Post();
-    post.get();
+
+    let body = document.querySelector("body");
+    if (body.classList.contains("home")) {
+      post.get();
+    }
+
+    if (body.classList.contains("post")) {
+      post.renderPost();
+    }
   }
 }
