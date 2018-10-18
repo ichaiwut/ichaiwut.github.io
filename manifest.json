@@ -38,8 +38,8 @@
    "density": "4.0"
   }
  ],
-  "start_url": "/chaiwut.me/",
-  "scope": "/chaiwut.me/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff"
