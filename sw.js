@@ -1,6 +1,7 @@
 var CACHE_NAME = "tingster-v1";
 var urlsToCache = [
   "/",
+  "ting.png",
   "dist/24712f6c47821394fba7942fbb52c3b2.ttf",
   "dist/2c2ae068be3b089e0a5b59abb1831550.eot",
   "dist/621bd386841f74e0053cb8e67f8a0604.svg",
