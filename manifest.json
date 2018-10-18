@@ -3,13 +3,13 @@
  "short_name": "TingSter",
  "icons": [
   {
-   "src": "android-icon-36x36.png",
+   "src": "/android-icon-192x192.png",
    "sizes": "512x512",
    "type": "image\/png",
   "density": "0.75"
   },
   {
-   "src": "android-icon-48x48.png",
+   "src": "/android-icon-192x192.png",
    "sizes": "512x512",
    "type": "image\/png",
    "density": "1.0"
