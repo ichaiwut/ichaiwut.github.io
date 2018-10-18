@@ -1422,3 +1422,25 @@ ul.paginate {
   font-size: 16px;
   line-height: 1.6;
 }
+
+.notfound-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.not-found .container-fluid,
+.not-found .section-block.single-post-block {
+  height: 95%;
+}
+
+.not-found h1 {
+  font-size: 100px;
+}
+
+.not-found p {
+  font-size: 20px;
+}
