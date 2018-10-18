@@ -63,7 +63,7 @@ export default class Post {
     // Save post content to localstorage.
     // Then redirect to the `post.html`
     localStorage.setItem("post", JSON.stringify(postContent));
-    window.location.href = "post.html?" + postContent.slug;
+    window.location.href = "post.html?p=" + postContent.slug;
   }
 
   /**
