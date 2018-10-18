@@ -1,6 +1,6 @@
 {
   "pages": [
-    
+
     {
       "title": "I am not a teacher yet.",
       "link": "/2014/11/I-am-not-a-teacher-yet.html",
@@ -29,7 +29,7 @@
     }
   ]
   ,"next": "/api/feed-13.json"
-  
+
   ,"prev": "/api/feed-11.json"
-  
+
 }

@@ -1,6 +1,6 @@
 {
   "pages": [
-    
+
     {
       "title": "Earthquake Detects History",
       "link": "/2014/05/earthquake-detect-history.html",
@@ -29,7 +29,7 @@
     }
   ]
   ,"next": "/api/feed-14.json"
-  
+
   ,"prev": "/api/feed-12.json"
-  
+
 }

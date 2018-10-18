@@ -1,6 +1,6 @@
 {
   "pages": [
-    
+
     {
       "title": "Columbia Trail Master XI",
       "link": "/2016/06/columbia-trail-master.html",
@@ -29,7 +29,7 @@
     }
   ]
   ,"next": "/api/feed-5.json"
-  
+
   ,"prev": "/api/feed-3.json"
-  
+
 }

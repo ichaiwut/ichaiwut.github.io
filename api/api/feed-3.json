@@ -1,6 +1,6 @@
 {
   "pages": [
-    
+
     {
       "title": "Nike Zoom Superfly R4",
       "link": "/2016/11/Nike-Zoom-Superfly-R4.html",
@@ -29,7 +29,7 @@
     }
   ]
   ,"next": "/api/feed-4.json"
-  
+
   ,"prev": "/api/feed-2.json"
-  
+
 }
