@@ -1,0 +1,23 @@
+{
+ "name": "tingster-v1",
+ "short_name": "TingSter",
+ "icons": [
+  {
+   "src": "/ting.png",
+   "sizes": "512x512",
+   "type": "image\/png",
+  "density": "0.75"
+  },
+  {
+   "src": "/ting.png",
+   "sizes": "512x512",
+   "type": "image\/png",
+   "density": "1.0"
+  }
+ ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}

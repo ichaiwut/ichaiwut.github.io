@@ -1,0 +1,45 @@
+{
+  "name": "ichaiwut.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "mustache": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^2.0.0",
+    "mini-css-extract-plugin": "^0.4.4",
+    "node-sass": "^4.9.4",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "postcss-loader": "^3.0.0",
+    "resolve-url-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "url-loader": "^1.1.2",
+    "vanilla-lazyload": "^8.17.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-concat-plugin": "^3.0.0",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "scripts": {
+    "watch": "webpack-cli --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichaiwut/ichaiwut.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichaiwut/ichaiwut.github.io/issues"
+  },
+  "homepage": "https://github.com/ichaiwut/ichaiwut.github.io#readme"
+}
