@@ -1,12 +1,12 @@
 # Site
 name: "TingSter"
 title: "TingSter"
-description: "My name is TingSter. I am a web designer and front-end developer, as well as a web developer too."
+description: "My name is TingSter. I am a Front-end Trooper at BUZZWOO!"
 logo: 'assets/images/logo_ting.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+disqus: 'tingster'
 include: ["_pages"]
 permalink: /:title/
 email: tingstercnx@gmail.com
@@ -16,20 +16,19 @@ authors:
   sal:
     name: Sal
     display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 1338eb3c06922bbc007d92a3e6114c1e
     email: wowthemesnet@gmail.com
-    web: https://tingster.xyz
+    web: tingstercnx@gmail.com
     twitter: https://twitter.com/bestrangers
     description: "My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai"
   john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    name: Sal
+    display_name: Sal
+    gravatar: 1338eb3c06922bbc007d92a3e6114c1e
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    web: tingstercnx@gmail.com
+    twitter: https://twitter.com/bestrangers
+    description: "My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai"
 
 # Plugins
 plugins:
@@ -49,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
 
 # Pagination
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
 
 # Other
