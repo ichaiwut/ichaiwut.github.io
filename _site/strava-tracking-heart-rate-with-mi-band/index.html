@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/logo_ting.jpg">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/assets/images/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<title>Strava tracking heart rate with MI Band | TingSter</title>
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Strava tracking heart rate with MI Band | TingSter</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Strava tracking heart rate with MI Band" />
+<meta name="author" content="sal" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="หลังจากที่ได้ Review เรื่องของ MI Band ไปเรียบร้อยแล้วเมื่อบล็อกที่แล้ว (อยู่ในเว็บส่วนตัว) ตอนนี้ก็ถึงเวลามาดูกันว่าจะใช้ตรวจวัดอัตตราการเต้นของหัวใจคู่กับ Strava ได้อย่างไร" />
+<meta property="og:description" content="หลังจากที่ได้ Review เรื่องของ MI Band ไปเรียบร้อยแล้วเมื่อบล็อกที่แล้ว (อยู่ในเว็บส่วนตัว) ตอนนี้ก็ถึงเวลามาดูกันว่าจะใช้ตรวจวัดอัตตราการเต้นของหัวใจคู่กับ Strava ได้อย่างไร" />
+<meta property="og:site_name" content="TingSter" />
+<meta property="og:image" content="https://bestrangers.files.wordpress.com/2016/03/mi-band.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2016-03-18T00:00:00+07:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","image":"https://bestrangers.files.wordpress.com/2016/03/mi-band.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"/strava-tracking-heart-rate-with-mi-band/"},"url":"/strava-tracking-heart-rate-with-mi-band/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/logo_ting.jpg"},"name":"sal"},"author":{"@type":"Person","name":"sal"},"description":"หลังจากที่ได้ Review เรื่องของ MI Band ไปเรียบร้อยแล้วเมื่อบล็อกที่แล้ว (อยู่ในเว็บส่วนตัว) ตอนนี้ก็ถึงเวลามาดูกันว่าจะใช้ตรวจวัดอัตตราการเต้นของหัวใจคู่กับ Strava ได้อย่างไร","headline":"Strava tracking heart rate with MI Band","dateModified":"2016-03-18T00:00:00+07:00","datePublished":"2016-03-18T00:00:00+07:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link href="/assets/css/prism.css" rel="stylesheet">
+
+<link href="/assets/css/theme.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body>
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+<!-- Begin Sidebar Navigation
+================================================== -->
+
+<div class="sidebar">
+</div>
+<div class="nav-icon">
+    <div class="hamburger-bar"></div>
+</div>
+<div id="blackover-nav" class="blackover"></div>
+<nav id="menu">
+    <ul>
+        <h3>Navigation</h3>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="https://www.youtube.com/channel/UCz1zLf7DyNxe7RHV5hi7lSA" target="_blank">YouTube</a></li>
+        <li><a href="/podcast">Podcast</a></li>
+    </ul>
+</nav>
+
+<script src="/assets/js/lunr.js"></script>
+
+<style>
+    
+</style>
+
+<div class="wrap-search">
+    <div class="d-flex align-items-center ml-auto">
+        <i class="fas fa-search show-search"></i>
+        <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+            <input type="text" class="form-control bigradius text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+        </form>
+    </div>
+</div>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+
+<!-- End Sidebar Navigation
+================================================== -->
+
+<div class="site-content ">
+
+<div class="container">
+
+    <!-- Site Logo/Name
+    ================================================== -->
+
+    <a class="navbar-brand" href="/">
+        <img src="/assets/images/logo_ting.jpg" alt="TingSter">
+    </a>
+
+
+    <!-- Site Tag
+    ================================================== -->
+    
+
+    <!-- Content
+    ================================================== -->
+    <div class="main-content">
+        <div class="entry-header">
+    <!-- Post Title -->
+    <h1 class="posttitle">Strava tracking heart rate with MI Band</h1>
+    <!-- Author & Date  Box -->
+    <!-- 
+    
+    <div class="d-flex align-items-center mt-4 text-right">
+        <time class="post-date" datetime="2016-03-18">18 Mar 2016</time>
+        
+    </div>
+     -->
+</div>
+
+<!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
+
+
+<!-- Featured Image -->
+
+<div class="entry-featured-image">
+    
+    <img class="featured-image " src="https://bestrangers.files.wordpress.com/2016/03/mi-band.jpg" alt="Strava tracking heart rate with MI Band">
+    
+</div>
+
+
+<!-- Content -->
+<!-- Post, Page Content
+================================================== -->
+<div class="article-post">
+    <!-- Toc if any -->
+    
+    <!-- End Toc -->
+    <p>หลังจากที่ได้ Review เรื่องของ MI Band ไปเรียบร้อยแล้วเมื่อบล็อกที่แล้ว (อยู่ในเว็บส่วนตัว) ตอนนี้ก็ถึงเวลามาดูกันว่าจะใช้ตรวจวัดอัตตราการเต้นของหัวใจคู่กับ Strava ได้อย่างไร</p>
+
+<h3 id="เตรียมแอพ">เตรียมแอพ</h3>
+<p>ก่อนอื่นต้องตรวจสอบดูก่อนว่าเราจะใช้แอพไหนบ้างในการจับคู่อุปกรณ์สองอย่างนี้ และให้ทำงานคู่กับ Strava  มาถึงตรงนี้ต้องขอเรียนให้ทุกท่านทราบไว้ก่อนว่า ใช้งานได้เฉพาะ iOS เท่านั้นนะครับ Android ยังไม่ได้</p>
+
+<p>ปรกติแล้ว Heart Rate ของ Mi Band จะไม่เปิดตลอดครับจะเปิดแค่ตอนเราสั่งผ่านแอพของ MiFit เท่านั้นครับ แต่ไม่ต้องห่วง เรามีแอพช่วยครับที่จะให้มันสั่งเปิด Mi Band Heart Rate ได้ สิ่งที่ต้องเตรียมคือ</p>
+
+<ul>
+  <li>Strava App (for iPhone) ใช้สำหรับ Track การวิ่งของเราครับ</li>
+  <li>Mi Band 1S ใช้วัดอัตราการเต้นของหัวใจ และนับก้าวตอนวิ่ง</li>
+  <li>MiFit ใช้ปิด Heart Rate</li>
+  <li>Mi Heart rate continuous monitoring ใช้เปิด Heart Rate</li>
+</ul>
+
+<h3 id="mi-heart-rate-continuous-monitoring">Mi Heart rate continuous monitoring</h3>
+<p>มาถึงตรงนี้ผมจะขอข้ามอธิบายเรื่อง Strava กับ MiFit นะครับ เพราะหลายๆท่านคงใช้อยู่แล้ว พระเอกของเราคือ MI Heart Rate นี่แหละครับ ลองค้นหาดูใน App Store สามารถดาวโหลดมาใช้งานได้ฟรีๆ เลยครับ</p>
+
+<p>ป็นแอพที่หน้าตาธรรมดาๆ ครับมีอยู่ 2 options ด้วยกัน คือสั่งเปิด/ปิด heart rate และตั้งให้สั่นกับไม่สั่นครับ แล้วก็แสดงผลตัวเลขเท่านั้นเอง</p>
+
+<p>แอพนี้ต้องลงทุนครับ เวอร์ชั่นฟรีจะสั่งเปิด Heart Rate ได้แค่ 10นาทีเท่านั้น แต่ถ้าเสียเงิน $0.99 จะเปิดได้ตลอดเวลาครับ ซื้อเถอะครับ 30 กว่าบาทเอง</p>
+
+<h3 id="working-with-strava">Working With Strava</h3>
+<p>พอเราจะเริ่มวิ่ง รัดสายให้แน่น เปิด MiFit ขึ้นมาครับ จากนั้นรอให้ Connect กับสายรัดข้อมือของเราแล้วลองกดวัด Heart Rate สักหนึ่งครั้ง ซ่อนแอพลงไปแล้วเปิดแอพ MI Heart Rate กดเปิด Heart Rate จากนั้นรอสักพักครับ จะมีตัวเลขอัตราการเต้นของหัวใจขึ้นมาให้เราเห็น ซ่อนแอพลงไป</p>
+
+<p><img src="https://bestrangers.files.wordpress.com/2016/03/img_0852.jpg?w=553&amp;h=981&amp;zoom=2" /></p>
+
+<p>เปิดแอพ Strava หากพร้อมที่จะวิ่งแล้วกด Record ทีนี้กดที่ Connect (ปุ่มสามเหลี่ยมมุมล่างขวา) เลื่อนลงไปที่ Manage Sensors หาคำว่า Heart Rate จากเปิดครับ รอสักครู่จะขึ้นว่า Connected กดกลับมาก็จะเห็นปุ่มรูปสามเหลี่ยมเมื่อกี้กลายเป็นรูปหัวใจครับ</p>
+
+<p><img src="https://bestrangers.files.wordpress.com/2016/03/img_0853.jpg?w=553&amp;h=981&amp;zoom=2" /></p>
+
+<p>ทีนี้เราก็เริ่มวิ่งได้ครับ หากเราสังเกตให้ดีจะเห็นว่ามีช่อง HEARTE RATE ขึ้นมาบอกให้เราใน Strava app หลังจากเราเริ่มกด Start</p>
+
+<p><img src="https://bestrangers.files.wordpress.com/2016/03/img_0854.jpg?w=553&amp;h=981&amp;zoom=2" /></p>
+
+<p>Disable Heart Rate
+เมื่อวิ่งเสร็จแล้วเราจำเป็นต้องปิด Heart Rate สามารถเปิดแอบ MI Heart Rate ขึ้นมาแล้วปิดครับสังเกตไฟที่เซ็นเซอร์ข้อมือเรา หากไม่ยอมดับให้ปิดแอพไปครับ แล้วเปิดแอพ Mi Fit ขึ้นมา กดวัด Heart Rate สักครั้งพอวัดเสร็จมันจะสั่งปิดเองครับ</p>
+
+<p>ผมลองใช้งานแล้วใช้งานได้จริงครับถือว่าคุ้มสำหรับคนงบน้อยแต่ต้องการ Heart Rate ครับ</p>
+
+<p>แวะทักทายกันได้ที่ <a href="https://www.strava.com/athletes/11408799">strava.com/athletes/11408799</a> ครับ</p>
+
+</div>
+
+<!-- Rating -->
+<!--  -->
+
+<!-- Author Box if enabled from _config.yml -->
+<!-- Author Box -->
+
+
+
+
+<!-- Comments if not disabled with comments: false -->
+<!-- Comments
+================================================== -->
+ 
+<div class="comments">
+    <button class="btn btn-dark show-comments">Load Comments</button>         
+    <div id="comments">  
+        <h4 class="mb-4">Comments</h4>                 
+            <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'tingster'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+     
+    <div class="clearfix"></div>              
+    </div>    
+</div>       
+
+
+<!-- Share -->
+<div class="share">
+    <p>
+        Share
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Strava tracking heart rate with MI Band&url=/strava-tracking-heart-rate-with-mi-band/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/strava-tracking-heart-rate-with-mi-band/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/strava-tracking-heart-rate-with-mi-band/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+
+    </div>
+</div>
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+                ©2020 TingSter
+            </div>
+            <div class="col-md-6 col-sm-12 text-center text-lg-right">
+                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs</a> by WowThemes
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
+================================================== -->
+
+<script src="/assets/js/prism.js"></script>
+
+<script src="/assets/js/theme.js"></script>
+
+
+
+
+<script id="dsq-count-scr" src="//tingster.disqus.com/count.js"></script>
+
+
+</body>
+</html>
