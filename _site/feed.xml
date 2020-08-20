@@ -3,1198 +3,397 @@
   <channel>
     <title>TingSter</title>
     <description>My name is TingSter. I am a Front-end Trooper at BUZZWOO!</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Aug 2020 20:51:10 +0700</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2020 20:51:10 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 20 Aug 2020 21:31:31 +0700</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2020 21:31:31 +0700</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>From Tenkeyless to 47 keys</title>
-        <description>&lt;p&gt;หลังจากใช้ Compact keyboard อยู่พักใหญ่ ในการทำงานจนคิดว่าทุกอย่างน่าจะลงตัวแล้วสำหรับคีย์บอร์ด แต่เปล่าเลย…
-พยายามป้ายยาน้องที่ทำงานให้เสียเงินให้กับ Machanical Keyboard ให้มาเป็นครอบครัวเดียวกัน แต่หารู้ไหมว่าน้องเขาหงายการ์ดสะท้อนกลับ กลายเป็นป้ายยาให้กับตัวเองซะงั้นไป เข้าเรื่องกันเลยดีกว่า&lt;/p&gt;
+        <title>ลืมทานยาป่ะเนี่ย?</title>
+        <description>&lt;p&gt;ตั้งแต่เริ่มทานยามาเกือบๆ สองปี เหมือนทุกอย่างเริ่มดีขึ้นจนคิดว่าน่าจะหายได้แล้วนะ พยายามเป็นอย่างมากเพื่อที่จะลดยาลง คือทานยาตัวนี้มานานมากจริงๆ และยามันก็ดีจริงด่้วย จนกระทั่งตอนนี้มันเริ่มกลับมาอีกแล้ว มันเอาอีกแล้ว ดูเหมือนว่ายาที่ฉันใช้เริ่มจะไม่ได้ผลเสียแล้ว&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*8xtfOZcFbSVYYx0dJ_j46A.jpeg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ผมจะเป็นคนที่ชอบความมินิมอล ผมมีคีบอร์ดเจ้าหนึ่งซึ่งผมชอบเอามากๆ และเคยเกือบจะซื้อมาแล้วครั้งหนึ่ง แต่ด้วยราคาที่ไม่ค่อยเป็นมิตรกับกระเป๋าเงินสักเท่าไหร่จึงได้แต่สบตามองแบบจำใจ เจ้าคีบอร์ดตัวนั้นมีชื่อว่า ErgoDox EZ ซึ่งราคามันก็ไม่เบาทีเดียว เริ่มต้นที่ $299 เท่านั้นเอง แม่เจ้า มาดูหน้าตากันหน่อย&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*BBqwaG86fQy2OhOOsv2fug.jpeg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;กลับไปเรื่องป้ายยา ในขณะที่ผมกำลังเข้าเว็บ &lt;a href=&quot;https://ergodox-ez.com/&quot;&gt;https://ergodox-ez.com/&lt;/a&gt; เพื่อจะป้ายยาให้น้องดันไปเจอคีย์บอร์ดอีกตัวหนึ่งของเจ้าเดียวกัน ผมไม่รู้ด้วยซ้ำว่าออกมาใหม่ ทำผมซะงักไป 10 วินาที ก้มลงมองคีย์บอร์ดตัวเองซึ่งผมใช้ &lt;a href=&quot;https://www.coolermaster.com/catalog/peripheral/keyboards/masterkeys-pro-s/&quot;&gt;Cooler Master MasterKeys Pro S RGB&lt;/a&gt; ในใจตอนนั้นคือไม่น่ารอด และก็ไม่รอดจริงๆ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1270/1*6HpMGHvRwuyYJdLPxcfWQQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ergodox-ez.com/pages/planck&quot;&gt;Planck EZ&lt;/a&gt; เป็นคีย์บอร์ดขนาด 47 คีย์เท่าเอง มันเล็กพอดีกับกระเป๋าสามารถพกพาไปไหนมาไหนได้ง่าย ผมเห็นครั้งแรกก็คิดว่ามันใช่เลย จริงๆ ทีแรกก็คิดอยู่ว่ามันจะเล็กไปหรือเปล่านะ แต่พอได้ของมาจริง ไม่ก็ไม่ได้เล็กมากมายนะ พอดีมือเลยทีเดียว เพื่อนๆ ที่เห็น ต่างบอกว่าจะไหวเหรอเล็กเกินนนนน&lt;/p&gt;
-
-&lt;p&gt;ผมใช้เวลาปรับตัวกับมันอยู่ประมาณสามวันสำหรับภาษาอังกฤษ ใช้ทำงานเลย แรกๆ มีปัญหากับปุ่ม Space Bar, Enter, Tab, ESC, Arrow กดไม่โดนบ้าง กดผิดบ้าง โดยเฉพาะ Arrow ว่ากันไป ก็ปรับตัวกันไป&lt;/p&gt;
-
-&lt;p&gt;พอเริ่มทำงานได้ ก็เริ่มรู้ว่าเราควรที่จะ Customize มันแล้วล่ะซึ่งทาง ZSA Technology Labs เขาก็มี Tools และ Application มาให้ด้วยอยู่แล้ว ทำให้การ Customize และการ Flash ไม่ใช่เรื่องยากอีกต่อไป
-Customising Layout&lt;/p&gt;
-
-&lt;h3 id=&quot;customising-layout&quot;&gt;Customising Layout&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/540/1*vNbyfO2gDcgl8aaZQR97Jg.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ORYX&lt;/strong&gt; เป็น Configuration Tools สำหรับสร้าง Layout Keyboard ซึ่งเราสามารถกำหนด และจัดการปุ่มต่างได้ตามที่เราต้องการ อีกทั้งเราสามารถ Clone Layout ของคนอื่นที่แชร์ไว้มาใช้ได้อีกด้วยนะ
-ส่วนตัวผมเองใช้งาน Colemak เป็น Layout หลัก การ Customize ของผมจะออกมาแบบนี้&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*3NiEaPxhyAE49CpfXaDi0g.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;หากสังเกตด้านบนจะมี Tab อยู่ ซึ่งเราสามารถเปลี่ยน Layout ได้ตลอดเวลา โดยการกดปุ่ม Lower, Raise, Hyper หรือ Key อื่นๆ ที่เราตั้งเอาไว้ ลองดูตัวอย่าง Layout ที่ผมใช้งานอยู่&lt;/p&gt;
-
-&lt;h4 id=&quot;lower&quot;&gt;Lower&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*WrhhC9USr4HQfccyXe04oA.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;raise&quot;&gt;Raise&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*e2QmdvnosrLmH8xZmedgpQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;adjust-lower--raise&quot;&gt;Adjust (Lower + Raise)&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*0jUCqyzcnCm4LHPLWtKFaQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;special-layout-holding-hyper-key&quot;&gt;Special Layout (Holding Hyper Key)&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*GTGbn4t_sI6mFJvged_7ag.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;พอเราตั้งค่า Layout เสร็จแล้ว เราสามารถ Compile แล้ว Download Layout เพื่อ Flash ลง Keyboard เราได้เลย สำหรับใครที่อยากเอา Layout ผมไปลองใช้ก็เข้าไปดูได้นะครับ &lt;a href=&quot;https://configure.ergodox-ez.com/planck-ez/layouts/9DbEK/latest/0&quot;&gt;https://configure.ergodox-ez.com/planck-ez/layouts/9DbEK/latest/0&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;หากไม่ทราบว่า ปุ่ม Lover, Raise, Hyper คืออะไรลองดูที่รูปด้านล่างครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*wOcbwOgUireOXDxA70EipA.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;หรือสามารถเข้าไปดูเพิ่มเติมได้ที่ &lt;a href=&quot;https://ergodox-ez.com/pages/planck&quot;&gt;https://ergodox-ez.com/pages/planck&lt;/a&gt; ครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;flashing&quot;&gt;Flashing&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*YjyX9CytIo_XPXUxrfCufQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;หลังจากเรา Customize Layout ได้ดั่งใจแล้ว ขั้นตอนต่อไปก็คือการ Flash ซึ่งทาง Ergodox เขาก็มี Application มาช่วยจัดการเรื่องนี้โดยเฉพาะ นั่นก็คือ Wally ซึ่งสามารถเข้าไป Download ได้เลย&lt;/p&gt;
-
-&lt;p&gt;วิธีการก็ง่ายแสนง่าย แค่เปิด Application ​ขึ้นมา แล้วเลือกไฟล์ Layout ที่เราได้ Complie ไว้ก่อนหน้า ทำตามขั้นที่ Application บอกได้เลยไม่ยาก&lt;/p&gt;
-
-&lt;h3 id=&quot;ใช้งานจริง&quot;&gt;ใช้งานจริง&lt;/h3&gt;
-
-&lt;p&gt;ถึงแม้จะเป็น Keyboard ที่เล็กมาก แต่การใช้งานสำหรับผมแล้วถือว่าดีมากเลย&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ไม่ต้องยกมือเยอะในกรณีที่ต้องการพิมพ์ตัวอักษรที่อยู่แถบบนของ keyboard แบบทั่วไป เช่น ตัวเลข หรือเครื่องหมายต่างๆ&lt;/li&gt;
-  &lt;li&gt;สลับ Layout แสนง่าย&lt;/li&gt;
-  &lt;li&gt;พิมพ์เร็วขึ้น โดยเฉพาะ Layous Colemak&lt;/li&gt;
-  &lt;li&gt;ภาษาไทย ตอนแรกเหมือนฝันร้าย พอเริ่มใช้ไปสักพักเริ่มดี และชอบ&lt;/li&gt;
-  &lt;li&gt;Customize ได้ทุกอย่าง&lt;/li&gt;
-  &lt;li&gt;เปลี่ยน Switch ได้ โดยไม่ต้องกลัวหมดประกัน&lt;/li&gt;
-  &lt;li&gt;มีโหมดใช้งานแทนเมาส์&lt;/li&gt;
-  &lt;li&gt;มีลูกเล่นอีกหลายอย่าง ไว้ผมลองแล้วจะมาเล่าให้ฟังนะครับ&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 05 Jan 2019 00:00:00 +0700</pubDate>
-        <link>/from-tenkeyless-to-47-keys/</link>
-        <guid isPermaLink="true">/from-tenkeyless-to-47-keys/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>จาก QWERTY สู่ Colemak</title>
-        <description>&lt;p&gt;ครึ่งชีวิตที่ใช้งาน QWERTY หลายครั้งที่มีความคิดว่า อยากจะเปลี่ยนเลย์เอาท์ของคีย์บอร์ดดูบ้าง ในการทำงานแต่ละครั้ง (เฉพาะภาษาอังกฤษ) รู้สึกได้ว่าระยะห่างในระหว่างแต่ละตัวอักษรไม่ค่อยจะเข้ากับการวางมือสักเท่าไหร่ เลยลองศึกษาดูว่านอกจาก QWERTY แล้ว ยังมีเลย์เอาท์แบบไหนอีก ซึ่งมีหลายเลย์เอาท์มาก ในที่สุดก็ตัดสินใจลองอยู่ 3 เลย์เอาท์คือ&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&quot;&gt;Dvorak&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://colemak.com/&quot;&gt;Colemak&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://workmanlayout.org/&quot;&gt;Workman&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ทั้งสามเลย์เอาท์แล้ว มีความต่างกันในการวางตำแหน่งคีย์อย่างชัดเจน ทีนี้ก็ต้องมาดูอีกว่า แบบไหนเหมาะกับการใช้งานในชีวิตประจำวัน และการทำงานของเรามากที่สุด และที่สำคัญเราใช้ QWERTY มาตั้งแต่พิมพ์ดีด การที่จะเปลี่ยนเราจะใช้เวลาในการปรับตัวนานแค่ไหนด้วย&lt;/p&gt;
-
-&lt;h3 id=&quot;แบบไหนที่ต้องการ&quot;&gt;แบบไหนที่ต้องการ?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ข้อแรกที่ต้องการคือ ระยะห่างระหว่างคีย์ที่ต้องใช้บ่อยๆ เนื่องจากการที่ต้องเขียนโค๊ดทั้งวันยอมรับเมื่อยนิ้วมือเลย และถึงขั้นนิ้วล็อคมาแล้ว จึงคิดว่าควรที่จะรวมคีย์ที่ใช้บ่อยๆ มาอยู่ใกล้ๆ กัน&lt;/li&gt;
-  &lt;li&gt;ข้อที่สอง บางตำแหน่งของ QWERTY ดีอยู่แล้ว ไม่อยากเปลี่ยนเพราะเราใช้ต้องตัวอักขระพิเศษในการเขียนโค๊ดซึ่งบางตำแหน่งมันเหมาะสมกับการวางนิ้วอยู่แล้วจึงอยากให้อยู่ที่เดิม&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ด้วยเหตุผลสองข้อด้านบน พอสรุปความต้องการของตัวเองได้คร่าวๆ ยังหวง QWERTY เลยอยากเปลี่ยนแค่บางตำแหน่ง พอลองทดสอบกับเว็บ &lt;a href=&quot;https://thetypingcat.com/&quot;&gt;TypingCat&lt;/a&gt; เพื่อหาแบบที่ถูกใจ เข้ากับการใช้งาน และไม่ลำบากที่จะเปลี่ยนคือ &lt;strong&gt;Colemak&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;qwerty&quot;&gt;QWERTY&lt;/h3&gt;
-
-&lt;p&gt;ก่อนอื่นเรามาดู QWERTY กันก่อน เริ่มจากชื่อของมันก่อนเลย ก็มาจากคีย์แถวแรกที่มีตัวอักษร Q, W, E, R, T, Y อยู่เรียงกันนั่นเอง โดยมันถูกสร้างมาพร้อมๆ กับเครื่องพิมพ์ดีดเมื่อปี 1873&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1200/1*hN9_CJtLG61EwqDOQvywsA.jpeg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;และมันถูกออกแบบมาให้ตัวอักษรที่ใช้ร่วมกันบ่อยๆ (commonest letters) อยู่คนละด้านกัน เพื่อไม่ให้ก้านพิมพ์ติดกันเวลาพิมพ์ ตั้งแต่นั้นมาเราก็ใช้ QWERTY กันมาเรื่อยๆ ไม่ใช่ว่าไม่มีเลย์เอาท์อื่น หากเพียงแต่ว่าไม่ค่อยได้รับความนิยม เพราะคนยุคก่อนโตมากับพิมพ์ดีด จะเห็นว่าปันจุบันเด็กรุ่นใหม่ที่โตมากับสมาร์ทโฟน และเครื่องคอมพิวเตอร์ ไม่ได้ใช้ หรือเริ่มต้นด้วย QWERTY แล้ว&lt;/p&gt;
-
-&lt;h3 id=&quot;colemak&quot;&gt;Colemak&lt;/h3&gt;
-
-&lt;p&gt;ถูกคิดขึ้นมาโดย Shai Coleman เมื่อปี 2006 ที่ผ่านมานี่เองโดยมาจากแนวคิดที่ต้องการรวมตัวอักษรที่ใช้งานบ่อยที่สุดมาไว้ในตำแหน่งของนิ้วที่สามารถเคลื่อนไหวได้เร็ว เช่น นิ้วชี้ นิ้วกลาง เป็นต้น หรือตำแหน่งตรงกลางของคีย์บอร์ดนั่นเอง&lt;/p&gt;
-
-&lt;p&gt;อีกข้อที่ทำให้ผมตกลงปลงใจคือมีเพียงแค่ 13 คีย์เท่านั้นที่เปลี่ยนไปจากเดิม ทำให้การเปลี่ยนมาใช้ Colemak ง่ายสำหรับผม ซึ่งแถวบนที่เป็นตัวเลขจะเห็นว่าไม่เปลี่ยนเลย รวมไปถึงอักขระพิเศษต่างๆ ยังอยู่ที่เดิมอีกด้วย&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1384/1*hJF-jvFhnQX7LfluLrvGFQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*o3c25XZ-Th_jy9FwyCiv2A.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/828/1*oVRu4PFJHSVXmGD5wBQJuw.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ข้อแตกต่าง&quot;&gt;ข้อแตกต่าง&lt;/h3&gt;
-&lt;p&gt;หลังจากหาข้อมูลมาหลายๆ เว็บไซต์เพื่อเปรียบเทียบตำแหน่งการกด รวมไปถึงคีย์ที่เราใช้บ่อยที่สุดในเว็บไซต์ &lt;a href=&quot;https://www.patrick-wied.at/projects/heatmap-keyboard/&quot;&gt;https://www.patrick-wied.at/projects/heatmap-keyboard/&lt;/a&gt; เราสามารถดู Heatmap การใช้คีย์ โดยลองใช้คำว่า&lt;/p&gt;
+&lt;h3 id=&quot;ทำไมไม่ไปหาหมอ&quot;&gt;ทำไมไม่ไปหาหมอ?&lt;/h3&gt;
+&lt;p&gt;ทุกครั้งที่เรามีอาการ แล้วบางครั้งเราเผลอบอกใครไปสักคน “ทำไมไม่ไปหาหมอล่ะ?” ใช่ที่จริงก็เหมือนที่เขาบอกนะ เราควรไปหาหมอเพื่อพิจารณาการปรับยา แต่รู้ไหม แรกทีไปหาหมอก็ดีนะ หมอก็ดูแลดี ส่วนหนึ่งคงเป็นเพราะยาที่ท่านด้วยแหละ พักหลังๆ หมอเริ่มเปลี่ยนมาใช้ธรรมะสอนเราควบคู่ไปด้วย  จนตอนนี้เราไม่อยากไปละ&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+  &lt;p&gt;ไม่อยากฟังธรรมะ&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;และนี่คือ Heatmap ของ QWERTY และ Colemak&lt;/p&gt;
+&lt;h3 id=&quot;ไม่อยากบอกใครว่าแย่-หรือมีอาการ&quot;&gt;ไม่อยากบอกใครว่าแย่ หรือมีอาการ&lt;/h3&gt;
+&lt;p&gt;เป็นเพราะสีหน้าเราบ่งบอกอาการได้ชัดเจนเกินไป ทุกคนใกล้ตัวจึงรู้และ พยายามจะแนะนำและคอยช่วยเหลือเราตลอดเวลา จริงๆ เราควรขอบคุณพวกเขามากกว่า ที่คอยช่วยเหลือเราตลอดด้วยซ้ำ&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*AEFZ1QUpcgskk0GxwHE6JA.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;บางทีพวกเขาก็คอยพยามเสาะหาต้นตอของการเกิดอาการของเรา ถึงแม้ฉันจะบอกกับพวกเขาครั้งแล้ว ครั้งเล่าว่ามันเกิดเอง บางครั้งมันอยากจะดิ่ง มันก็เป็นของมันเอง พวกเขาก็จะไม่ยอมเชื่อ จนฉันเหนื่อยที่จะบอก เหนื่อยที่จะทำให้พวกเขาเข้าใจ จนสุดท้ายมันทำให้ฉันแย่ลงไปกว่าเดิม เฮ้อ ฉันจะหลบไปจากพวกเขาได้อย่างไร&lt;/p&gt;
 
-&lt;h4 id=&quot;colemak-1&quot;&gt;Colemak&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*twENOqkeHrH3mh7l_kCYRQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;หากสังเกตุจาก Heatmap จะเห็นได้ว่าคีย์ที่ใช้มากที่สุดจะเป็น T และ E ซึ่งคีย์ที่มีการกดมากที่สุดจะอยู่ช่วงแถวตรงกลางคีย์บอร์ด Colemak จัดคีย์ได้ดีกว่าเพราะไม่ต้องยกนิ้วเปลี่ยนคีย์มากเหมือน QWERTY ซึ่งต้องเลื่อนนิ้วขึ้นไปกดคีย์แถวบนบ่อยพอสมควร&lt;/p&gt;
-
-&lt;p&gt;โดยส่วนตัวคิดว่าการเปลี่ยนมาใช้ Colemak ไม่ได้ใช้เวลานานอย่างที่คิด พิมพ์ได้คล่องขึ้นกว่าเดิมด้วยซ้ำ รวมแล้วในเวลาในการทดสอบอยู่ 1 อาทิตย์และตอนนี้ก็เปลี่ยนมาใช้ Colemak แบบถาวรเรียบร้อยแล้ว&lt;/p&gt;
-
-&lt;h3 id=&quot;การติดตั้ง&quot;&gt;การติดตั้ง&lt;/h3&gt;
-&lt;p&gt;สำหรับ Mac user นั้น ไม่ต้องติดตั้งหรือลงซอฟท์แวร์ใดๆ เลยสามารถเข้าไปตั้งค่าที่คีย์บอร์ดได้เลยครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*O1D_8Zfg7d4icm3g2wQIUQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;referents&quot;&gt;Referents:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ideafinder.com/history/inventions/qwerty.htm&quot;&gt;http://www.ideafinder.com/history/inventions/qwerty.htm&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/QWERTY&quot;&gt;https://en.wikipedia.org/wiki/QWERTY&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://colemak.com/&quot;&gt;https://colemak.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://workmanlayout.org/&quot;&gt;https://workmanlayout.org/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Colemak&quot;&gt;https://en.wikipedia.org/wiki/Colemak&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://mkweb.bcgsc.ca/carpalx/?colemak&quot;&gt;http://mkweb.bcgsc.ca/carpalx/?colemak&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 04 Jan 2019 00:00:00 +0700</pubDate>
-        <link>/from-qwerty-to-colemak/</link>
-        <guid isPermaLink="true">/from-qwerty-to-colemak/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>Angular CLI 6.0.2 with Universal</title>
-        <description>&lt;p&gt;ความสามารถของ search engine รวมไปถึง Social media ในปัจจุบันไม่ได้แสดงเพียงแค่ลิ้งค์ แต่ยังดึงเอารายละเอียด รวมไปถึงรูปภาพแสดงออกมาให้ผู้ใช้งานเห็นก่อนตัดสินใจเข้าไปยังเว็บไซต์&lt;/p&gt;
-
-&lt;p&gt;Angular เป็น Single Page Application (SPA) framework ที่ render ในบราวเซอร์ หรือที่เราเรียกว่า client-side rendering ทำให้ search engine และ social media ไปดึงข้อมูล HTML ที่ยังไม่ได้ผ่านการ render ออกมาแสดง&lt;/p&gt;
-
-&lt;p&gt;Angular Universal จะทำหน้าที่เป็น server-side renderer เพื่อให้ search engine และ social media ได้ดึงเอา HTML ที่ถูก render ไว้ก่อนแล้วไปใช้งาน เพื่อการแสดงผลที่ถูกต้อง
-เริ่มจากการติดตั้ง Angular CLI ลงในเครื่อง&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ npm install -g @angular/cli@latest
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;สร้างโปรเจคใหม่พร้อมใช้งาน sass ในโปรดเจคด้วย ดูเพิ่มเติม : &lt;a href=&quot;https://stackoverflow.com/a/39816365/2045817&quot;&gt;https://stackoverflow.com/a/39816365/2045817&lt;/a&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ ng new --style=scss demo-universal
-$ cd demo-universal
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;จากนั้น install ts-loader angular/platform-server และ @nguniversal/module-map-ngfactory-loader&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;$ npm install --save @angular/platform-server @nguniversal/module-map-ngfactory-loader ts-loader
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;แก้ไขไฟล์ app.mudule.tsโดยเพิ่ม withServerTransition() เพื่อให้แอพของเราทำงานร่วมกับ Universal&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;@NgModule({
-  declarations: [AppComponent],
-  imports: [
-    BrowserModule.withServerTransition({appId: 'demo-universal'}),
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
-})
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;ขั้นตอนต่อไปสร้างไฟล์ module เพื่อเรียกใช้บนฝั่ง server ใน src/app/app.server.module.ts เพื่อจะเรียกใช้ AppModule ผ่านทาง ServerMudule&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;import {NgModule} from '@angular/core';
-import {ServerModule} from '@angular/platform-server';
-import {ModuleMapLoaderModule} from '@nguniversal/module-map-ngfactory-loader';
-
-import {AppModule} from './app.module';
-import {AppComponent} from './app.component';
-
-@NgModule({
-  imports: [
-    AppModule,
-    ServerModule,
-    ModuleMapLoaderModule
-  ],
-  bootstrap: [AppComponent],
-})
-export class AppServerModule {}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;ต่อไปสร้างไฟล์สำหรับ Universal bundle เอาไว้ export AppServerModule ใช้ชื่อว่า src/main.server.ts&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt; export { AppServerModule } from './app/app.server.module';
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;เสร็จแล้วให้เรากลับไปดูที่ไฟล์ tsconfig.app.json คัดลอกโค๊ดทั้งหมด แล้วสร้างไฟล์ tsconfid.server.json วางโค๊ดที่คัดลอกมาจาก tsconfig.app.json ให้เราเปลี่ยน module format จาก es2015 เป็น commonjs&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
-  &quot;extends&quot;: &quot;../tsconfig.json&quot;,
-  &quot;compilerOptions&quot;: {
-    &quot;outDir&quot;: &quot;../out-tsc/app&quot;,
-    &quot;baseUrl&quot;: &quot;./&quot;,
-    &quot;module&quot;: &quot;commonjs&quot;,
-    &quot;types&quot;: []
-  },
-  &quot;exclude&quot;: [
-    &quot;test.ts&quot;,
-    &quot;**/*.spec.ts&quot;
-  ]
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;เพิ่ม extra property เพื่อบอกให้ compile ไฟล์ app.server.module สำหรับรายละเอียดเพิ่มเติมสามารถอ่านได้ที่ https://github.com/UltimateAngular/aot-loader/wiki/tsconfig.json&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
-  &quot;extends&quot;: &quot;../tsconfig.json&quot;,
-  &quot;compilerOptions&quot;: {
-    &quot;outDir&quot;: &quot;../out-tsc/app&quot;,
-    &quot;baseUrl&quot;: &quot;./&quot;,
-    &quot;module&quot;: &quot;commonjs&quot;,
-    &quot;types&quot;: []
-  },
-  &quot;exclude&quot;: [
-    &quot;test.ts&quot;,
-    &quot;**/*.spec.ts&quot;
-  ],
-  &quot;angularCompilerOptions&quot;: {
-    &quot;entryModule&quot;: &quot;app/app.server.module#AppServerModule&quot;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;กลับไปที่ไฟล์ angular.json ใน property ที่ชื่อว่า architect เราจะเพิ่ม property ใหม่เข้าไป เพื่อกำหนดค่าการ build สำหรับ server&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;&quot;architect&quot;: {
-  ...
-  &quot;server&quot;: {
-    &quot;builder&quot;: &quot;@angular-devkit/build-angular:server&quot;,
-    &quot;options&quot;: {
-      &quot;outputPath&quot;: &quot;dist/server&quot;,
-      &quot;main&quot;: &quot;src/main.server.ts&quot;,
-      &quot;tsConfig&quot;: &quot;src/tsconfig.server.json&quot;
-    }
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;จากนั้นให้เราลอง build project ของเราได้เลยครับ&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ ng run demo-universal:server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*hmpBpny-B0C2lTftrXclPQ.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;setting-up-an-express-server&quot;&gt;Setting up an Express Server&lt;/h3&gt;
-
-&lt;p&gt;เราสร้างแอพ ตั้งค่าต่างๆ รวมไปถึง build ทุกอย่างผ่านได้แล้ว ขั้นตอนสุดท้ายเราจะ Run ได้ยังไง? เราจะใช้ Express.js สำหรับ run Universal bundle ของเรา&lt;/p&gt;
-
-&lt;p&gt;สร้างไฟล์ server.ts ไว้ใน root ของแอพ&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;import 'zone.js/dist/zone-node';
-import 'reflect-metadata';
-import {enableProdMode} from '@angular/core';
-// Express Engine
-import {ngExpressEngine} from '@nguniversal/express-engine';
-// Import module map for lazy loading
-import {provideModuleMap} from '@nguniversal/module-map-ngfactory-loader';
-
-import * as express from 'express';
-import {join} from 'path';
-
-// Faster server renders w/ Prod mode (dev mode never needed)
-enableProdMode();
-
-// Express server
-const app = express();
-
-const PORT = process.env.PORT || 4000;
-const DIST_FOLDER = join(process.cwd(), 'dist');
-
-// * NOTE :: leave this as require() since this file is built Dynamically from webpack
-const {AppServerModuleNgFactory, LAZY_MODULE_MAP} = require('./dist/server/main');
-
-// Our Universal express-engine (found @ https://github.com/angular/universal/tree/master/modules/express-engine)
-app.engine('html', ngExpressEngine({
-  bootstrap: AppServerModuleNgFactory,
-  providers: [
-    provideModuleMap(LAZY_MODULE_MAP)
-  ]
-}));
-
-app.set('view engine', 'html');
-app.set('views', join(DIST_FOLDER, 'browser'));
-
-// Example Express Rest API endpoints
-// app.get('/api/**', (req, res) =&amp;gt; { });
-
-// Server static files from /browser
-app.get('*.*', express.static(join(DIST_FOLDER, 'browser'), {
-  maxAge: '1y'
-}));
-
-// All regular routes use the Universal engine
-app.get('*', (req, res) =&amp;gt; {
-  res.render('index', { req });
-});
-
-// Start up the Node server
-app.listen(PORT, () =&amp;gt; {
-  console.log(`Node Express server listening on http://localhost:${PORT}`);
-});
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;ถึงตรงนี้เราได้ตั้งค่าสำหรับใช้ Node Expreess ไว้แล้ว ขั้นตอนต่อไป เป็นการตั้งค่า Webpack เพื่อบอกให้ Webpack ใช้ไฟล์ server.ts สำหรับ serve แอพของเรา ให้สร้างไฟล์ชื่อ webpack.server.config.js ใน root ของแอพ&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;// Work around for https://github.com/angular/angular-cli/issues/7200
-
-const path = require('path');
-const webpack = require('webpack');
-
-module.exports = {
-  mode: 'none',
-  entry: {
-    // This is our Express server for Dynamic universal
-    server: './server.ts',
-  },
-  target: 'node',
-  resolve: { extensions: ['.ts', '.js'] },
-  // Make sure we include all node_modules etc
-  externals: [/node_modules/],
-  output: {
-    // Puts the output at the root of the dist folder
-    path: path.join(__dirname, 'dist'),
-    filename: '[name].js'
-  },
-  module: {
-    rules: [
-      { test: /\.ts$/, loader: 'ts-loader' }
-    ]
-  },
-  plugins: [
-    new webpack.ContextReplacementPlugin(
-      // fixes WARNING Critical dependency: the request of a dependency is an expression
-      /(.+)?angular(\\|\/)core(.+)?/,
-      path.join(__dirname, 'src'), // location of your src
-      {} // a map of your routes
-    ),
-    new webpack.ContextReplacementPlugin(
-      // fixes WARNING Critical dependency: the request of a dependency is an expression
-      /(.+)?express(\\|\/)(.+)?/,
-      path.join(__dirname, 'src'),
-      {}
-    )
-  ]
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;กลับไปที่ไฟล์ package.json ใน property scripts เพิ่มค่าเข้าไป&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;&quot;scripts&quot;: {
-  &quot;build:universal&quot;: &quot;npm run build:client-and-server-bundles &amp;amp;&amp;amp; npm run webpack:server&quot;,
-  &quot;serve:universal&quot;: &quot;node dist/server.js&quot;,
-  &quot;build:client-and-server-bundles&quot;: &quot;ng build --prod &amp;amp;&amp;amp; ng run demo-universal:server&quot;,
-  &quot;webpack:server&quot;: &quot;webpack --config webpack.server.config.js --progress --colors&quot;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;จากนั้นใช้คำสั่ง&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ npm run build:universal &amp;amp;&amp;amp; npm run serve:universal
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&quot;หมายเหตุ&quot;&gt;หมายเหตุ:&lt;/h3&gt;
-&lt;p&gt;ขั้นตอนการใช้ Express Server นั้นเป็นการใช้เพื่อประกอบบทความ และใช้เป็นตัวอย่าง ควรจะตั้งค่าการเข้าถึง และความปลอดภัยหากนำไปใช้กับโปรเจคจริงๆ
-จากการใช้งานจริงอาจจะมองหา framework เช่น PM2 &lt;a href=&quot;http://pm2.keymetrics.io/&quot;&gt;http://pm2.keymetrics.io/&lt;/a&gt; เป็นต้น&lt;/p&gt;
-
-&lt;h3 id=&quot;ช่วยเหลือ&quot;&gt;ช่วยเหลือ&lt;/h3&gt;
-&lt;p&gt;หากเราใช้ Algular CLI ที่มาพร้อมกับ Webpack 4 อาจจะเกิดปัญหา build ไม่ผ่าน ให้เปลี่ยน tsloader กลับไปเป็นเวอร์ชั่น 4.2.0&lt;/p&gt;
-</description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 +0700</pubDate>
-        <link>/angular-cli-with-universal/</link>
-        <guid isPermaLink="true">/angular-cli-with-universal/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>Ionic 2–3 Nav Guards</title>
-        <description>&lt;p&gt;หากใครที่เขียน Angular 2 ~ 4 คงรู้จัก และคุ้นเคยกับ Routing Guards กันอยู่แล้ว พอหันกลับมาเขียน Ionic 2–3 กันบ้างซึ่งเราไม่ได้ใช้ Routes แต่เราใช้ NavController สำหรับการ Push หรือ Pop หน้าต่างๆ ภายใน Ioninc App ทาง Ionic 2–3 ก็มี Feature นี้ให้เหมือนกันนะครับ ชื่อว่า Nav Guards&lt;/p&gt;
-
-&lt;p&gt;หลักการเดียวกันกับ Routing Guards ครับ Ionic 2–3 มีเมธอด ionViewCanEnter และ ionViewCanLeave เพื่อให้เราได้ควบการการเปลี่ยนหน้าต่างๆ ในแอพของเรา&lt;/p&gt;
+&lt;h3 id=&quot;จะเป็นก็เป็น-บทจะหายก็หาย&quot;&gt;จะเป็นก็เป็น บทจะหายก็หาย&lt;/h3&gt;
+&lt;p&gt;เหมือนที่บอกข้างบน บทจะไม่เป็นก็ดูเป็นปรกติสุขมาก เคยลองพยายามทำให้เศร้า พยายามหาเรื่องที่คิดว่ามันกระทบจิตใจ ก็ไม่เป็นผล ก็ไม่เศร้าไม่ดิ่ง ถ้าหากจะเป็นมา ไม่ต้องหาอะไรมากระทบหรอก นั่งเฉยๆ ก็พังละ และมันจะพังไปทั้งวันด้วย&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;ionViewCanEnter: boolean/Promise&lt;void&gt;: Runs before the view can enter. This can be used as a sort of “guard” in authenticated views where you need to check permissions before the view can enter&lt;/void&gt;&lt;/p&gt;
+  &lt;p&gt;ถ้าหากจะเป็นมา ไม่ต้องหาอะไรมากระทบหรอก นั่งเฉยๆ ก็พัง&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;บางทีเรื่องพวกนี้ มันก็บอกอะไรใครไม่ได้แหละนะ หลายครั้งที่มีใครถามว่าวันนี้จะเป็นไหม? คือเราก็ตอบไม่ได้ไหมอ่ะ ไม่รู้มันจะเป็นตอนไหน และไม่รู้่ด้วยว่ามันจะหายไปตอนไหน&lt;/p&gt;
+
+&lt;h3 id=&quot;อยู่บ้านเลยสิเผื่อจะดีขึ้น-อย่าอยู่คนเดียว&quot;&gt;อยู่บ้านเลยสิเผื่อจะดีขึ้น อย่าอยู่คนเดียว&lt;/h3&gt;
+&lt;p&gt;จริงๆ ผมชอบการอยู่คนเดียวมากกว่า ผมกลับบ้านเมื่อไหร่ ผมก็เจอกับเรื่องที่ผมไม่อยากพบเจออยู่เสมอโดยเฉพาะเรื่องแม่ กับพ่อ อันนี้เป็นชนวนต้นเหตุชั้นดีเลยทีเดียว พอหลบไปอยู่กับครอบครัว ได้เจอลูกก็ดีขึ้น พอเจอแฟนก็พังอีก ทำไมไม่ให้กำลังใจกันบ้างเลยนะ หลังๆ มาเราเริ่มปลงมากขึ้น บางครั้งเราก็แย่จริงๆ ก็อยากจะได้กำลังใจบ้างป่าววะ ไม่ต้องเฉยชาแบบนั้นก็ได้มั้ง บางทีเราก็อยากกอดนะ แต่กอดเมื่อไหร่ ก็โดนเอามือหยิบแขนออกพร้อมกับคำถาม “เป็นอะไร?”&lt;/p&gt;
+
+&lt;p&gt;พอทนไม่ไหวจริงๆ ไม่ได้คุยกันมาหลายวัน เราเลยลองถามไปบ้าง &lt;strong&gt;“ถ้าโลกนี้ไม่มีเราอยู่อีกต่อไป จะยังคิดถึงเราอยู่ไหม?”&lt;/strong&gt; คำตอบที่ได้ Peak ยิ่งกว่า&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;ionViewCanLeave: boolean/Promise&lt;void&gt;: Runs before the view can leave. This can be used as a sort of “guard” in authenticated views where you need to check permissions before the view can leave&lt;/void&gt;&lt;/p&gt;
+  &lt;p&gt;ลืมทานยาป่ะเนี่ย?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;ionViewCanEnter&lt;/strong&gt; จะถูกเรียกก่อน เพื่อให้เราได้กระทำการใดๆ ก่อนตัดสินใจว่าจะเข้าสู่เพจนี้หรือไม่
-&lt;strong&gt;ionViewCanLeave&lt;/strong&gt; จะถูกเรียกเมื่อจะออกจากเพจนั้นๆ ก่อนที่จะไปยังเพจอื่นๆ&lt;/p&gt;
+&lt;p&gt;TingSter
+28102019&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;export class MyClass {
-  constructor (public navCtrl: NavController) {}
+&lt;hr /&gt;
 
-  //When trying to leave the page will call
-  //ionViewCanLeave()
-  pushPage() {
-    this.navCtrl.push(DetailPage)
-         .catch(()=&amp;gt; console.log(‘Something cache!’))
-  }
-
-  isValid() {
-    return (validValue);
-  }
-
-  //Make a decision to stay or leave.
-  ionViewCanLeave(): boolean {
-    return this.isValid();
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;จากตัวอย่างข้างบนเราจะเห็นว่าก่อนที่เราจะ push(DetailPage) หรือออกจากเพจนี้ไป DetailPage, ionViewCanLeave() จะถูกเรียกใช้งาน isValid() เป็น condition ที่เราใช้ตรวจสอบก่อนตัดสินใจออกจากหน้านี้ หากค่าที่ได้ False, .catch() จะทำงาน
-เช่นเดียวกับ ionViewCanEnter เพียงตรวจสอบว่าก่อนที่จะเข้าเพจนี้ จรงตาม condition ที่เราตั้งไว้หรือเปล่า&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;export class DetailPage() {
-  constructor(public navCtrl: NavController) {}
-
-  isValid() {
-    return (validValue);
-  }
-
-  ionViewCanEnter(): boolean {
-    return this.isValid();
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;ทั้งหมดคือการทำงานของ Nav Guards โดยคร่าวๆ ครับลองเอาไปใช้กันดู หรือลองอ่านดูใน Doc ของ &lt;a href=&quot;https://ionicframework.com/docs/api/navigation/NavController/#nav-guards&quot;&gt;ionic 2–3&lt;/a&gt; ก็ได้ครับ&lt;/p&gt;
+&lt;p&gt;Photo by Krista Mangulsone on Unsplash&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Jan 2019 00:00:00 +0700</pubDate>
-        <link>/ionic-2-3-nav-guards-da6c39e72d9a/</link>
-        <guid isPermaLink="true">/ionic-2-3-nav-guards-da6c39e72d9a/</guid>
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-5ce4eada7693ff097e1422c1/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5ce4eada7693ff097e1422c1/</guid>
         
         <category>France</category>
         
         
-        <category>Tech</category>
+        <category>MentalProblem</category>
         
       </item>
     
       <item>
-        <title>Suunto Ambit3 Peak</title>
-        <description>&lt;p&gt;เปิดหัวเรื่องมาขนาดนี้แล้วคงหนีไม่พ้นรีวิวนาฬิกาแน่นอนครับบบ Suunto Ambit3 Peak คือเจ้านาฬิกาวัดค่าการออกกำลังกายตัวใหม่ของผมแทนที่อันเดิม Garmin Forerunner 235 ที่ปลดประจำการไปเรียบร้อยแล้วใช้ได้ไม่ถึงปีเลย ใครได้เป็นเจ้าของนี่ถือว่าโชคดีมากเลยนะครับ สำหรับบทความนี้จะมารีวิวเจ้านาฬิกาตัวใหม่นี้กันสักหน่อย ถึงแม้ตัว Spatan จะออกมาแล้วแต่ผมก็ยังคงเลือก Ambit3 Peak เพราะอะไรกันนน&lt;/p&gt;
+        <title>สูญเสียตัวเองโดยสิ้นเชิง</title>
+        <description>&lt;p&gt;เสียงโทรศัพท์ดังขึ้นในช่วงเช้า เสียงนกร้อง เสียงผู้คนออกสู้ชีวิตในสถานะที่แตกต่างกันออกไป อากาศวันนี้ดูสดใส แดดอุ่น ๆ ยามสายทอดลงมากระทบแขนให้รู้สึกอบอุ่น วันนี้ช่างเป็นวันที่สดใสเหลือเกิน&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/partnerseite_suunto-logo.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;อาการมึน ๆ เล็กน้อยที่ยังคงค้างมาจากเครื่องดื่มแอลกอฮอล์เมื่อคืนยังคงอยู่ในหัว “ลุกขึ้น แล้วไปอาบน้ำเถอะ” บอกกับตัวเองพร้อมบิดขี้เกียจ ก่อนที่จะลุกออกจากเตียงแล้วไปเข้าห้องน้ำเพื่อทำธุระส่วนตัว&lt;/p&gt;
 
-&lt;p&gt;หลังจากหันมาเอาดีทางเทรลก็ไม่ค่อยได้ลงแข่งทางถนนอีกเลย พอมาเทรลก็กลายเป็นอัลตร้าเทรลอีกต่างหาก หลายๆ อย่างที่ต้องเปลี่ยนแปลงทั้งชุด รองเท้า ฯลฯ แต่อีกอย่างที่จำเป็นไม่แพ้กันและไม่เคยคิดเลยว่าจะต้องเปลี่ยนนั่นก็คือนาฬิกาของผมนั่นเอง ไม่น่าเชื่อเจ้า Forerunner 235 ไม่ตอบโจทย์ผมสำหรับการวิ่งเทรลเลยจริงๆ&lt;/p&gt;
+&lt;p&gt;“เมื่อคืนแม่งโคตรแย่ วันนี้เราต้องทำได้สิ” เสียงพึมพำบ่นกับตัวเองในขณะนั่งอยู่ในห้องน้ำ พร้อม ๆ กับคิดย้อนกลับไปเรื่องที่เกิดขึ้นเมื่อคืน หลังจากนั้นในหัวสมองและความคิดก็ไม่มีเรื่องอะไรเลย นอกจากความขุ่นเคืองตัวเองเมื่อคืน “มันไม่ใช่เรา ทำไมมันคุมทุกอย่างไว้ได้ทั้งหมดวะ”&lt;/p&gt;
 
-&lt;h3 id=&quot;เริ่มใช้นาฬิกากับการวิ่ง&quot;&gt;เริ่มใช้นาฬิกากับการวิ่ง&lt;/h3&gt;
-&lt;p&gt;ย้อนกลับไปเมื่อกลางปีที่แล้วหลังจากจบมาราธอนแรกที่ CMU ตอนนั้นยังใช้โทรศัพท์มือกับ Strava ในการ Track กิจกรรมการวิ่งทั้งระยะทาง ความเร็ว ฯลฯ ซึ่งทั้งหมดใช้ Strava ในการแทร็ค สิ่งที่ได้กลับมาคือโทรศัพท์พังเพราะเปียกเหงื่อ เมื่อเริ่มจริงจังกับการวิ่งมากขึ้น เริ่มเก็บสถิติมากขึ้น ก็มองหานาฬิกาที่ตอบโจทย์การวิ่ง และการซ้อม ณ เวลานั้นจนสุดท้ายไปลงเอยกับเจ้า Garmin Foreruner 235&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“สายแล้วเว้ย”&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;ใช้ 235 มาตลอดตั้งแต่ได้มา ดูทุก Feature ใช้ทุกความสามารถของมันจนมันช่วยทำให้ผมมีการวิ่งที่ดีขึ้นมาจนทุกวันนี้ ตั้งแต่งาน วิ่งรอบกว๊าน งานแรกที่ใส่นาฬิกาวิ่งจนกระทั่งงานสุดท้ายที่ใส่เจ้า 235 คือ Ultra-Trail Panoramic 100km ไม่เคยรวน ไม่เคยแฮ้ง ทำงานได้ยอดเยี่ยม แต่สุดท้ายเมื่อเปลี่ยนแผนการวิ่ง 235 จึงไม่เข้ากับกิจกรรมของผม&lt;/p&gt;
+&lt;p&gt;บ่นตัวเองพร้อมออกจากห้องน้ำเพื่อไปแต่งตัว เก็บกวาดห้อง “เชี่ย กินขนาดนี้เลยเหรอวะ” บ่นอีกครั้งเมื่อมองเห็นกระป๋องเบียร์ที่ดื่มจนหมดแล้ว ก่อนเก็บลงถุงขยะเตรียมนำไปทิ้ง พร้อมกับออกไปทำงาน&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/ambit3.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“ไม่มีความรู้สึกยินดี ไม่มีความรู้สึกดีใจ” ความคิดที่เกิดขึ้นในหัวเมื่อมองเห็นสิ่งต่าง ๆ ในขณะที่กำลังขี่มอเตอร์ไซต์ผ่านเหตุการณ์ต่าง ๆ ระหว่างทางไปทำงาน “นี่กูไม่มีเป้าหมายในชีวิตขนาดนี้เลยเหรอวะเนี่ย”&lt;/p&gt;
 
-&lt;p&gt;เทรลต้องการรายละเอียดอีกหลายอย่างๆ ในระหว่างวิ่งซึ่งงานที่ทำให้ผมตัดสินใจเปลี่ยนก็คือ Panoramic เมื่อเดือนธันวาคมที่ผ่านมา ซึ่งการวิ่งอัลตร้าเทรลระยะไกลๆ ผมต้องการความสามารถที่มากกว่านั้น และเป็นความสามารถเฉพาะทางที่เหมาะกับกิจกรรมลักษณะนี้ จนต้องมาลงเอยที่ Suunto Ambit3 Peak&lt;/p&gt;
+&lt;p&gt;“ลาเต้ร้อนครับ” สั่งกาแฟก่อนจะเดินไปที่โต๊ะเพื่อเก็บของ นั่งลงที่เก้าอี้พร้อมกับบอกตัวเอง “วันนี้ต้องทำได้สิ เราจะต้องไม่แตะมัน จะทำตามแผนที่วางไว้” เปิดคอมฯ เช็คงานที่ต้องทำวันนี้พร้อมกับยิ้มมุมปาก “วันนี้จะเก็บทุก Task เลยคอยดู” เมื่อมองเห็นที่ต้องทำวันนี้ ดูเป็นงานที่ไม่ได้ยากเย็นอะไรเลย ใช่ มันไม่ได้ยากอะไรเลย&lt;/p&gt;
 
-&lt;h3 id=&quot;ทำไมต้อง-abit3-peak&quot;&gt;ทำไมต้อง Abit3 Peak?&lt;/h3&gt;
-&lt;p&gt;ก่อนที่ผมจะตัดสินฟังธงว่าจะเอาก็ได้ทดสอบและ หาข้อมูลมามากมายพอสมควร ทั้งถามคนที่เคยใช้ ทั้งถามคนที่ไม่ใช้ว่าทำไมไม่เอา เอาข้อดีข้อเสียมาดูกัน ทั้งคนใช้ Fenix 3 และ Suunto ซึ่งจากข้อมูลที่ได้มาบอกได้เลยว่า กินกันไม่ลง แต่ที่ดูแล้วจะเขากับกิจกรรมของผมมากที่สุดก็คงจะเป็น Suunto และราคาที่เป็นมิตร บอกลา Fenix กันไปเลยทีเดียว ทีนี้ผมตัด Garmin ออกเหลือยี่ห้อเดียวต่อไปก็มาเลือกดูว่ารุ่นไหนที่ตรงกับการใช้งานของผมมากที่สุด&lt;/p&gt;
+&lt;p&gt;“เห้ย ไปทานข้าวข้าวมันไก่ ไปไหม?” เสียงชวนจากเพื่อนร่วมงานช่วงเที่ยง “อ่าาาา ยังครับ ไปกันก่อนเลยครับบบบ” มันเริ่มแล้วสินะ อยากไปแต่ไม่อยากไป ความรู้สึกที่แย้งกับอีกความรู้สึก สองความรู้สึกในหนึ่งคน ดูเหมือนว่าอีกคนนึงมันตื่นแล้ว&lt;/p&gt;
 
-&lt;h4 id=&quot;suunto-spartan&quot;&gt;Suunto Spartan&lt;/h4&gt;
+&lt;p&gt;แกะยาออกมาแล้วยัดมันเข้าปาก พร้อมดื่มน้ำแล้วกลืนมันลงไป “จะต้องกินเจ้านี่ไปอีกนานสักแค่ไหนกันวะ” พึมพำพร้อมกับถอนหายใจ นั่งมองดู Task ง่ายๆ ในหน้าจอเมื่อเช้า “แม่ม ยังไม่เสร็จสักอัน” บ่นกับตัวเองที่ไม่สามารถมีสมาธิในสิ่งที่ทำ ไม่สามารถโฟกัสสิ่งข้างหน้าได้เกินสิบนาที&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/suunto-spartan-3-1467858457601-1jpyosstvwcfu-630-354.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;“ไปยิมไหม?” คำถามที่ได้ยินประจำทุกวัน “ดูก่อนครับ อาการไม่ค่อยดีเลย” นิ่งไปสักพักก่อนจะตอบกลับไปอีกครั้งว่า “ไม่ไปครับ” … ทั้งที่อีกความรู้สึกข้างในน้ำตาไหล ตะโกนให้ตายยังไง ก็บังคับความรู้สึกอีกอันนึงไม่ได้ “กูจะไป กูจะไป” เหมือนกับตะโกนอยู่ในห้องมืด ที่ต่อให้เสียงดังแค่ไหนก็ทำอะไรไม่ได้&lt;/p&gt;
 
-&lt;p&gt;รุ่นใหม่ล่าสุดเพิ่มเปิดตัวมาไม่นานด้วยราคาที่ไม่ค่อยเป็นมิตรเลย แต่ก็ต้องดูก่อนว่าความสามารถของมันมีอะไรบ้าง ด้วยความที่มันเป็นตัวแพงสุดของยี่ห้อนี้ และตัวใหม่จอสีสดใส Feature ของมันก็ไม่ต้องพูดถึงครบเครื่องแน่นอนแต่ที่ไม่ถูกใจเลยคือราคานั่นเอง ผมว่ามันแพงไป เก็บไว้ก่อน&lt;/p&gt;
+&lt;p&gt;มองเห็น ได้ยิน รู้ตัว สัมผัส แต่บังคับไม่ได้ ได้แต่มองสิ่งที่มันเกิดขึ้น เสียงที่ของสิ่งต่างที่มากระทบหู น้ำตาไหลโดยที่ไม่ได้แสดงออกทางกายภาพเลย ภาพที่เดินไปหยิบเบียร์กระดกเข้าปาก ขวนขวายหาอะไรที่ทำให้สนุกโดยไม่สนใจมูลค่าของสิ่งเหล่านั้น ช่างเป็นอะไรที่ทรมาน ทั้ง ๆ ที่เรารู้ดีแต่กลับบังคับ และทำอะไรไม่ได้เลย&lt;/p&gt;
 
-&lt;h4 id=&quot;suunto-traverse&quot;&gt;Suunto Traverse&lt;/h4&gt;
+&lt;p&gt;“ก็คงต้องปล่อยให้มันเป็นไปแบบนี้แหละวะ” นั่งลงในห้องมืด ๆ กอดหัวเข่า คิดถึงทุกคน คิดถึงเพื่อน ๆ พ่อแม่ คนรัก ลูกสาว พร้อมปล่อยให้ตัวตนของเราที่ไม่ใช่เราบังคับให้มันทำตามใจของมันไป เพราะเราก็ทำอะไรไม่ได้อยู่แล้ว&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/suunto-traverse-outdoor-watch-7.png&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;ผมสูญเสียตัวเองโดยสิ้นเชิง&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;ข้ามมาที่ Traverse กันบ้างมีอะไรน่าสนใจบ้างเอ่ย รุ่นนี้น่าสนใจขึ้นมาอีกหน่อยด้วยราคาที่พอจะเอื้อมถึงมี GPS Glonass ด้วยมันต้องแม่นยำและไม่ช้าแน่นอน และสามารถเพิ่ม Points of Interest (POIs) ได้ถึง 250 จุด แต่ว่าไม่มี  Route Planning หรือ Out Door Map อย่าง Google หรือ MapsBox กด Lap ไม่ได้ และไม่รองรับ FootPod ไม่มีการคำนวณ Personal HR zone โอยยยยยย สรุปมาง่ายๆ คือไม่เหมาะสำหรับใช้งานทางกีฬา เหมาะสำหรับการไปเดินป่า ใช้ชีวิตอยู๋ในป่าซะมากว่า เพราะไม่ค่อยเน้น Sport Mode เลยครับ ข้ามๆ ไม่ตอบโจทย์ผมอีกแล้ว&lt;/p&gt;
-
-&lt;h4 id=&quot;suunto-ambit3-sport&quot;&gt;Suunto Ambit3 Sport&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/suunto-ambit-3-sport-design.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ละความหวังจากสองรุ่นที่ผ่านไป คราวนี้มาดูในกลุ่มของ Ambit3 กันบ้างซึ่งมีหลายโมเดลอยู่เหมือนกันเริ่มจาก Sport กันก่อนรุ่นนี้พอเห็นชื่อแล้วน่าสนใจกับคำว่า Sport เพราะว่ามันต้องใช้งานได้ดีในเรื่องของกีฬาแน่นอนมาดูความสามารถของมันดีกว่า&lt;/p&gt;
-
-&lt;p&gt;ถือว่าเป็นตัวเลือกสำหรับนักกีฬาที่อย่างแท้จริงเพราะเป็น multisport watch คือสามารถใช้จับการเล่นกีฬาได้หลายประเภท แบตเตอรี่อยู่ได้นานถึง 15 วันในโหมดนาฬิกา อยู่ในโหมด GPS ได้ประมาณ 10, 15, 100 ชั่วโมงตามลำดับความถี่ของ GPS แต่ถ้าผมเอาไปวิ่ง Utratrail ก็คงจะยังไม่เพียงพอสำหรับผม และรุ่นนี้จะยังไม่มีฟังก์ชั่นที่เกี่ยวกับสภาพอากาศ เช่นความกดอากาศ หรืออุณหภูมิต่างๆ ซึ่งมันก็ไม่ค่อยจำเป็นเท่าไหร่ รุ่นนี้ตอบโจทย์ผมในเบื้องต้น เก็บไว้ก่อน ดูโมเดลอื่นต่อ&lt;/p&gt;
-
-&lt;h4 id=&quot;suunto-ambit3-run&quot;&gt;Suunto Ambit3 Run&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/suntossdds.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ชื่อนี่ตรงกับกิจกรรมของผมมาก”วิ่ง” ใช่มันต้องถูกออกแบบมาเพื่อตอบโจทย์การวิ่งแน่นอน ไหนลองดูความสามารถของมันสักหน่อยว่ามีอะไรที่พอจะตอบโจทย์ของผมได้บ้าง&lt;/p&gt;
-
-&lt;p&gt;โมเดลนี้น้ำหนักจะเบากว่ารุ่น Sport กันน้ำได้ลึก 50 เมตรเช่นเดียวกับ Sport แบตเตอรี่ในโหมดนาฬิการอยู๋ได้ประมาณ 14 วัน ความอึดของแบตเตอรี่เหมือนกับ Sport รุ่นนี้ไม่สามารถสร้าง Route เพื่อใช้นำทางได้ ไม่ Support POD ของจักรยาน ในโหมดจักรยานมีแค่ความเร็ว และความเร็วเฉลี่ย โหมดว่ายน้ำมีแต่ระยะทาง ไม่มีโหมด Multisport และ Weather รู้สึกว่ามันออกแบบมาเพื่อวิ่งจริงๆ เก็บเอาไว้ก่อน&lt;/p&gt;
-
-&lt;h4 id=&quot;suunto-ambit3-peak&quot;&gt;Suunto Ambit3 Peak&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2017/01/suunto20ambit320peak2031.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Peak คือสุดยอดแสดงว่ามันตองสุดยอด ไหนขอมาดูหน่อยซิว่ามัน Peak ยังไง น้ำหนัก 89 กรัมเกือบหนึ่งขีด ถือว่าหนักพอสมควร กันน้ำลึก 100 เมตร แบตอยู่ได้นาน 30 วันในโหมดนาฬิกาอันนี้นานจริงอะไรจริง มีเข็มทิศเหมือนรุ่นอื่นๆ แบตเตอรี่ในโหมด GPS อยู่ได้ 20, 30, 200 ชั่วโมงตามลำดับความถี่ นี่วิ่งจบ Sub 20 ได้สบายๆ โดยไม่ต้องชาร์จแบตเลยนะโหดจริง&lt;/p&gt;
-
-&lt;p&gt;Peak สามารถสร้าง Route โดยสามารถวิ่งในโหมด Navigation ได้อีกด้วย สามารถเพิ่มจุดต่างๆ ในเส้นทาง จะปรากฏในแผนที่และตั้งการแจ้งเตือนได้อีกด้วย วัดความเร็วแนวดิ่งโดยใช้เซ็นเซอร์ความกดอากาศทำให้แม่นยำกว่า โหมดจักรยาน โหมดว่ายน้ำ วัดได้ทุกอย่าง Swimming stroke rate, count and type, Swim styles detection with personal style teaching, Stroke efficiency (SWOLF) เต็มไปหมดเลยยยย&lt;/p&gt;
-
-&lt;p&gt;อีกหนึ่งฟังก์ชั่นที่ Peak มีแต่ Sport กับ Run ไม่มีคือโหมดสภาพอากาศ ทั้งระดับน้ำทะเล อุณหภูมิ พระอาทิตย์ขึ้น และตก ความกดอากาศ แจ้งเตือนเรื่องพายุ ok พอละแค่แบตอึดทนทานก็ตอบโจทย์ผมได้&lt;/p&gt;
-
-&lt;h3 id=&quot;สัมผัสแรก&quot;&gt;สัมผัสแรก&lt;/h3&gt;
-&lt;p&gt;กว่าจะหามาได้ก็ไม่ใช่ง่ายๆ เพราะที่ไหนก็หมดแว่วมาว่าเขาจะเลิกผลิตแล้วเลยหายากนิดนึง และผมอยากได้สีดำด้วยเพราะดูแล้วสวยกว่าสีอื่น พอได้มาอยู่ในมือก็ขอสัมผัสรูปร่างภายนอกก่อนละกันเพราะฟังก์ชั่นภายในต้องเสีย USB เพื่อใช้งานครั้งแรก&lt;/p&gt;
-
-&lt;p&gt;ด้วยสีดำด้านที่ดูสวยงามชอบๆ ตัวเรือนนาฬิกาขนาดค่อนข้างใหญ่ หนักพอสมควรเพราะผมไม่เคยใส่นาฬิกาวิ่งที่หนักขนาดนี้มาก่อนแต่เดี๋ยวก็ชิน รู้สึกว่าสายนาฬิกาออกจะบางไปหน่อยกลัวขาดเหลือเกิน ปุ่มกดค่อนข้างยาก แข็งๆ ไปนิดนึงอาจจะเป็นเพราะเพื่อกันเราไปโดนใส่โดยไม่ได้ตั้งใจ โดยรวมการออกแบบสวยงาม&lt;/p&gt;
-
-&lt;p&gt;ขอบด้านบนทำมาจากเหล็กกล้าเพื่อความแข็งแรงป้องกันการกระแทก กระจกทำจากคริสตัล (รุ่นธรรมดา) เคสทำมาจาก Polyamide ซึ่งเป็นเทอร์โมพลาสติก  เหนียว แกร่ง ขยายตัวได้มาก ส่วนสายนาฬิกาทำมาจากซิลิโคนครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;รายละเอียดทั่วไปเบื้องต้น&quot;&gt;รายละเอียดทั่วไปเบื้องต้น&lt;/h3&gt;
-&lt;p&gt;Peak กันน้ำได้ลึกถึง 100 เมตร (ISO 6425) ซึ่งในความเป็นตริงแล้วผมก็ไม่ได้จะเอาดำน้ำขนาดนั้นฮาาาา แต่มีไว้ก็ไม่เสียหลาย ไว้มีโอกาสจะเอาไปลองสักหน่อย แบตเตอรี่แบบ Lithium-ion อยู่ในนาน 30 วันในโหมดนาฬิกา บอกเวลาได้ 2 โซนสามารถอัพเดตเวลาตาม GPS ได้ มีตัวจับเวลาสลับหน้าจอมืดสว่างได้ แสดงหน่วยวัดได้สองแบบ Metric และ Imperial units สามารถลง App เพิ่มเติมได้&lt;/p&gt;
-
-&lt;p&gt;โหมดเข็มทิศ และอุณหภูมิแวดล้อม
-โหมดเข็มทิศของ Peak แสดงเป็นแบบดิจิทัลวัดความเอียงแบบมีการชดเชยค่า แสดงหน่วยวัด 2 หน่วยคือหน่วยองศา (drgree) และ มิล (angular mil) มีความแม่นยำในระยะ 5 องศา สามารถล็อกองศาเพื่อนำทางได้อีกด้วย อุณหภูมิที่เหมาะสมของเครื่องอยู่ที่ประมาณ -20° C ถึง +60° C และอุณหภูมิแนะนำเวลาชาร์ตแบตควรอยู่ประมาณ 0° C ถึง +35° C&lt;/p&gt;
-
-&lt;h3 id=&quot;gps-และระบบนำทาง&quot;&gt;GPS และระบบนำทาง&lt;/h3&gt;
-&lt;p&gt;Peak สามารถตั้งค่าความถี่ในการบันทึก GPS ได้ 1, 5 และ 60 วินาทีซึ่งแต่ละความถี่แบตเตอร์รี่ก็จะอยู๋ได้นาน 20, 30 และ 200 ชั่วโมงตามลำดับ ความแม่นยำก็จะแตกต่างกันออกไป ระบบพิกัดของแผนที่ของ Peak มีให้เลือกอยู่หลายตัวเลือกตามพื้นที่ที่เราอยู่ หรือจะไปเลือกให้เหมาะสมเพื่อจะได้พิกัดที่แม่นยำ ระบบพิกัดแผนที่ที่ Peak มีให้คือ  WGS84 Hd.d°, WGS84 Hd°m’ s.s”, WGS84 Hd°m.m, UTM, MGRS, British (BNG), Finnish (ETRS-TM35FIN), Finnish (KKJ), Irish (IG), Swedish (RT90), Swiss (CH1903), UTM, NAD27 – Alaska, UTM NAD27 – Conus, UTM NAD83, New Zealand (NZTM2000) โดยค่าเริ่มต้นอยู่ที่ WGS84 Hd.d° ซึ่งเป็นรูปแบบพิกัดของสากล อ่านเพิ่มเติม ส่วนใครจะใช้พิกัดไหนก็หาข้อมูลกันดีๆ นะครับ&lt;/p&gt;
-
-&lt;p&gt;Peak สามารถนำทางโดยแผนที่แสดงบนหน้าจอและสามารถเพิ่มหมุด หรือปักหมุดสถานที่ต่างๆ Points of Interest (POIs) ได้มากถึง 250 เลยทีเดียว นอกจากนั้นเรายังสามารถสร้างแผนที่ของเราเอง หรือเวลามีงานแข่งสามารถโหลดไฟล์ .gpx เข้ามาได้อีกด้วย&lt;/p&gt;
-
-&lt;h3 id=&quot;ตัววัดระยะความสูง&quot;&gt;ตัววัดระยะความสูง&lt;/h3&gt;
-&lt;p&gt;Peak มาพร้อม Brometer วัดความสูงด้วยความกดอากาศ ซึ่งเราสามารถเลือกได้ในเมนูว่าจะวัดความสูงด้วย GPS หรือ Baromatic หรือหากไม่ใจเพื่อความแม่นยำสามารถใช้ฟีเจอร์  FusedAlti™ เป็นเครื่องหมายการค้าของเขาเลยแหละโดยการใช้ทั้งสองแบบเข้ามาวัดค่าความสูงเพื่อความแม่นยำ&lt;/p&gt;
-
-&lt;p&gt;Peak ยังสามารแสดงความชันออกมาเป็น Graph และบอกทั้งความสูงที่ไต่ไปทั้งหมด และความชันที่ลดลงได้อีกด้วย และยังมาพร้อมความสามารถวัดความเร็วแนวดิ่ง โดยวัดจากความกดอากาศเป็นหลักโดยค่าความสูงที่สามารถวัดได้จะอยู่ตั้งแต่ -500 ไปจนถึง 9999 เมตรเลยทีเดียว&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://jothailand744.wordpress.com/2014/10/17/pressure-altitude/&quot;&gt;หากใครยังงๆ เรื่องการใช้ความกดอากาศวัดความสูงลองอ่านที่นี่ครับ&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ตัววัดสภาพอากาศ&quot;&gt;ตัววัดสภาพอากาศ&lt;/h3&gt;
-&lt;p&gt;อีกความสามารถที่น่าสนใจของ Peak ก็คือสามารถตรวจสอบสภาพอากาศได้ วัดค่าความดันที่ระดับน้ำทะเล (Sea Level Pressure: SLP) ได้และแสดงออกมาเป็นกราฟ ดูความเปลี่ยนแปลงของความกดอากาศที่ที่ผ่านมาเพื่อคำนวณแน้วโน้มในการเกิดพายุครับ แสดงอุณหภูมิปัจจุบันได้โดยจะมีค่าระหว่าง -20° C ถึง +60° C  แสดงพระอาทิตย์ขึ้นและตก และมีเตือนภัยพายุด้วยครับ ดีจริงๆ&lt;/p&gt;
-
-&lt;h3 id=&quot;ตัววัดความเร็วและระยะทาง&quot;&gt;ตัววัดความเร็วและระยะทาง&lt;/h3&gt;
-&lt;p&gt;Peak สามารถวัดความเร็วในการออกกำลังกายชนิดต่างๆ และสร้าง Lap ขึ้นมาเองได้ หรือเราจะตั้งค่า Lap ด้วยตนเองก็ได้ และสามารถสร้าง Lap ในการออกกำลังการแต่ละครั้งได้ถึง 1000 laps เลยทีเดียว มี Auto Pause ให้เวลาหยุดอยู่กับที่นานๆ รวมไปถึงยังรองรับ Foot Pod หรือ Bike Pod อีกด้วยครับ&lt;/p&gt;
-
-&lt;p&gt;อัตราการเต้นของหัวใจ
-การวัด HR นั้นจำเป็นต้องอาศัยสายคาดอกซึ่งแถมมาใน Peak อยู่แล้ว สามารถวัดคลื่นไฟฟ้าหัวใจ RR Interval (คือระยะห่างระหว่างR wave กับ R waveที่ติดกันหน่วยเป็นsec) วัดการเต้นหัวใจต่อหนึ่งนาที BPM หรือจะแสดงเป็น % ก็ได้วัดได้แบบ real time สามารถคำนวณการเผาผลาญแคลลอรี่ สามารถแสดงค่า EPOC แบบ real time ( &lt;a href=&quot;http://oorrunningblog.blogspot.com/2016/05/fitness-plan-with-training-effect.html&quot;&gt;อะไรคือ EPOC&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h3 id=&quot;multi-sport-and-running-mode&quot;&gt;Multi-Sport and Running Mode&lt;/h3&gt;
-&lt;p&gt;Peak มาพร้อมกับโหมด Multisport ซึ่งเราสามารถเรื่องเก็บสถิติในหลายๆ ชนิดกีฬาโดยรวมไปถึงไตรกีฬาอีกด้วย สามารถที่จะเปลี่ยนชนิดกีฬาในขณะที่กำลังทำกิจกรรมอยู่ก็ได้ แต่ในโพสนี้ขอพูดถึงแค่ วิ่ง ว่ายน้ำ แล้วก็ปั่นจักรยานแล้วกันครับ มาเริ่มกันที่โหมดวิ่งกันก่อนเลย ที่จริง Peak ยังมาพร้อมกับความสามารถในการจัดการตรางวิ่งของเราเองโดยจัดการผ่าน Movecounts.com แล้วโหลดมาไว้ที่นาฬิกาได้ หรือหากจะวิ่ง Interval ก็ตั้งในนาฬิกาได้เลย&lt;/p&gt;
-
-&lt;p&gt;สำหรับการวิ่งนั้นสามารถดูความเร็วแบบ Pace การวิ่งของเราโดยสามารถดูได้ทั้งแบบเฉลี่ย (AVG Pace) หรือแบบเรียลไทม์ก็ได้ครับ ส่วน Running cadence นาฬิกาจับให้อัตโนมัติ แต่หากมี Foot POD ก็สามารถเลือกใช้ได้เช่นกัน คำนวณประสิทธิภาพการวิ่งด้วยเทคโนโลยี (Firstbeat™) และยังสามารถคำนวณเวลา Recovery ด้วยครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;cycling-mode&quot;&gt;Cycling Mode&lt;/h3&gt;
-&lt;p&gt;มาต่อกันที่โหมดปั่นกันบ้าง จับความเร็วในโหมดปั่นเหมือนนาฬิกาทั่วไป แสดงค่าความเร็วแบบเรียลไทม์ และความเร็วแบบเฉลี่ยแบบเรียลไทม์ได้ แสดงความลาดเอียงของถนน ตัววัดพลังงานการปั่น (Bike Power (W)) สามารถตั้งความถี่ในการวัด (3s, 10s, 30s) และแสดงแบบ Graph ได้ด้วย รวมไปถึงการจับความเร็วแบบแนวดิ่งด้วยครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;swimmimg-mode&quot;&gt;Swimmimg Mode&lt;/h3&gt;
-&lt;p&gt;โหมดว่ายน้ำสามารถเลือกว่าจะว่าในสระ หรือว่ายนอกสระจับความเร็ว (pace) ระยะทาง สามารถกำหนดความยาวของสระ กำหนดรอบ สามารถนับ Stroke ของการว่ายน้ำ และสามารถกำหนดท่าการว่ายได้ ดูประสิทธิภาพการว่าย  Stroke Efficiency (SWOLF) และใช้ Heart Rate ขณะว่ายน้ำได้ด้วยครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;การเชื่อมต่อ&quot;&gt;การเชื่อมต่อ&lt;/h3&gt;
-&lt;p&gt;เชื่อมต่อผ่านโทรศัพท์ และคอมพิวเตอร์โดยสาย USB หรือ Bluetooth สามารถตั้งค่าต่างๆ ของนาฬิการผ่านมือถือได้เลยทันทีครับ ไม่จำเป้นต้องกดตั้งค่าในนาฬิกาก็ได้ทุกอย่างจะซิงค์หากันหมดเลย รวมไปถึงการเชื่อมต่อระหว่างนาฬิกากับนาฬิกาด้วยกันเอง และยังสามารถรับและเตือน Notification ของโทรศัพท์ได้ด้วยครับ&lt;/p&gt;
-
-&lt;p&gt;พอละเดี๋ยวจะยาวไป โพสนี้ผมอ้างอิงมาจากเว็บไซต์ของ Suunto นะครับลองไปอ่านทั้งหมดได้ที่ &lt;a href=&quot;http://www.suunto.com/Compare-Products/?products=12655&quot;&gt;http://www.suunto.com/Compare-Products/?products=12655&lt;/a&gt; เลยครับเยอะอยู่เหมือนกัน ส่วนเจ้าอื่นๆ ที่ความสามารถใกล้ๆ กันนั้นก็ไม่ทราบเพราะผมไม่เคยใช้ครับ 555 เช่น Garmin Fenix 3 อาจจะดีกว่า หรืออาจจะแย่กว่า อันนี้ไม่ทราบจริงๆ เพราะเคยใช้แค่ 235 ครับ&lt;/p&gt;
+&lt;p&gt;แล้วก็ผลอยหลับไป…&lt;/p&gt;
 </description>
-        <pubDate>Mon, 16 Jan 2017 00:00:00 +0700</pubDate>
-        <link>/suunto-ambit3-peak/</link>
-        <guid isPermaLink="true">/suunto-ambit3-peak/</guid>
+        <pubDate>Sat, 09 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-5c2ca48cd6d4e09306acb813/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5c2ca48cd6d4e09306acb813/</guid>
         
         <category>France</category>
         
+        
+        <category>MentalProblem</category>
+        
+      </item>
+    
+      <item>
+        <title>คาเฟอีน,​ และดวงตาของฉัน</title>
+        <description>&lt;p&gt;สวัสดีนะ เป็นยังไงบ้างตอนนี้ มาเล่าเรื่องต่อจากที่เขียนไว้ครั้งก่อนนะ ที่จริงวันนี้อาการฉันก็ไม่ค่อยดีสักเท่าไหร่หรอกนะ เอาเป็นว่าฉันจะพยามยามเขียนให้มากที่สุดละกันนะ เพราะเดี๋ยวต้องทานยาแล้วนอน ช่วงนี้ไม่รู้เป็นอะไร ชอบตื่นนอนตอนเช้าๆ แล้วก็ไม่นอนอีกเลย&lt;/p&gt;
+
+&lt;h3 id=&quot;คาเฟอีนของฉัน--&quot;&gt;คาเฟอีนของฉัน :-(&lt;/h3&gt;
+&lt;p&gt;หลังจากที่หมอเพิ่มยาขี้นมาให้ เป็นช่วงที่รู้สึกว่า เห้ย! เหมือนได้พลังเหมือนมีความหวังจากคำพูดของหมอที่ว่า “ร่างกายตอบสนองได้ดี อาการดีขึ้นนะ” จากคำพูดของหมอฉันเหมือนหลอกตัวเองว่าอาการดีขึ้นว่ามะ แต่สุดท้ายก็แย่ตอนเย็นอยู่ดีอ่ะ ช่วงนี้ฉันทานกาแฟทีไรหลังจากนั้นจะรู้สึกใจสั่น มือสั่น ร่างกายสั่นไปหมด จนในที่สุดฉันลองหยุดทานกาแฟ ปรากฏว่า อาการเหล่านั้นมันหาย โคตรแย่อ่ะ ไม่ทานกาแฟก่อนทำงานมันเหมือนขาดอะไรไปสักอย่างหนึ่งเลยนะ แต่ก็เอาเถอะ ทำยังไงได้อ่ะนะ คงต้องหยุดแหละ ฉันรับอาการนั้นไม่ไหวจริงๆ เห้อ ไม่อยากทานยาซะแล้ว ฉันก็เลยเปลี่ยนมาทานชาเขียวแทน แต่ก็นะยังไงมันก็ไม่เหมือนกาแฟ แล้วนายล่ะ? ตอนนี้กลับมาทานกาแฟได้หรือยัง บอกฉันหน่อยนะ&lt;/p&gt;
+
+&lt;h3 id=&quot;มองอะไรไม่ค่อยชัด&quot;&gt;มองอะไรไม่ค่อยชัด&lt;/h3&gt;
+&lt;p&gt;ช่วงนี้มีสิ่งหนึ่งที่ทำให้ฉันไม่สามารถที่จะทำงานได้ เหมือนเมื่อก่อนเลยคือเรื่องตาของฉันเอง ฉันรู้สึกว่าตาฉันไม่สามารถมองอะไรได้นานๆ อีกต่อไป โดยเฉพาะการมองหน้าจอคอมพิวเตอร์ แรกๆ ฉันคิดว่าคงเป็นเพราะจอโน๊ตบุ๊คที่เล็กจนเกินไป ทำให้เราต้องเพ่งแล้วเกิดปวดตา ลองเปลี่ยนมาเป็นจอมอนิเตอร์ กลับไม่ได้ช่วยอะไรเลย ยิ่งเป็นหนักกว่า เดิม ฉันจะทำยังไงดี&lt;/p&gt;
+
+&lt;p&gt;หลังๆ เริ่มเป็นเยอะขึ้นเรื่อยๆ สู้แดดไม่ค่อยได้เลย ยิ่งกลางคืนขับรถก็ไม่ค่อยไหว มองอะไรเริ่มไม่ค่อยชัด ฉันคิดว่าคงเป็นเพราะเราทำงานกับคอมมากเกินไป เลยตัดสินใจไปเปลี่ยนเลนแว่นตาดีกว่า เลือกเอาเลนดีๆ มีคุณภาพ&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;คนตัดแว่นตรวจดูสายตาพร้อมกับบอกว่า เราเป็นต้อลมนะ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;กลับมาดูข้อมูลในอินเทอร์เน็ตก็จริงนะ สังเกตได้จากสีเหลืองๆ ในดวงตาก็เลยคิดว่านี่คงเป็นสาเหตุที่เราไม่สามารถสู้แสงได้เป็นเวลานานๆ ตอนนี้เริ่มจะไม่ไหวแล้ว ไม่สามารถนั่งทำงานในออฟฟิศได้อีกต่อไป ต้องไปหาที่มืดๆ แสดงน้อยๆ ในการทำงานเริ่มปวดตามากขึ้นกว่าเดิม เริ่มแยกออกจากเพื่อนๆ ไปใช้ชีวิตในห้องเล็กๆ มุมมืดๆ เพราะไม่งั้นจะไม่สามารถทำงานได้อีกต่อไป&lt;/p&gt;
+
+&lt;h3 id=&quot;ตัดแว่นอีกแล้ว&quot;&gt;ตัดแว่นอีกแล้ว&lt;/h3&gt;
+&lt;p&gt;เริ่มคิดว่าไม่ไหวแล้วปวดตาจนทำอะไรไม่ได้ คิดว่าเลนที่ตัดมาใหม่คงไม่เข้ากับตาเราอย่างแน่นอน โอเคไปตัดใหม่ก็ได้ เสียเงินอีกรอบเพื่อตัดแว่นตาใหม่ หวังเพื่อจะให้มันดีขึ้นกว่าเดิม แต่เปล่าเลย กลับกลายเป็นว่ามันแย่ลงเรื่อยๆ ตอนนี้เริ่มคิดว่าจะทำยังไงดี มันไม่ได้มีอะไรดีขึ้นเลย เพื่อนที่ทำงานสังเกตุเห็นอาการก็เข้ามาไถ่ถาม เนื่องจากว่าเขาก็เป็นอีกคนหนึ่งที่ทานยาเหมือนกัน เขาก็แนะนำว่า&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;บางทีที่นายเป็นแบบนี้ อาจเป็นเพราะยาก็ได้นะ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;นั่นสิ ฉันลืมคิดถึงข้อนี้ไปเลย ผลข้างเคียง ใช่ ฉันหาข้อมูลมาว่ามันมีผลข้างเคียงหลายอย่าง แต่ว่า ฉันมองข้ามข้อนี้ไปได้ยังไงกันนะ คราวนี้เลยค้นหาข้อมูลในอินเทอร์เน็ตเลยทันที แล้วก็จริงด้วย เป็นเพราะยาจริงๆ จะทำยังไงดี….&lt;/p&gt;
+
+&lt;p&gt;วันนี้ฉันพอแค่นี้ก่อนนะ เรื่องราวยังอีกยาวมากเลยที่ฉันต้องเล่าย้อนกลับไป อย่าลืมกลับมาอ่านนะฉันจะพยายามเขียนให้ได้มากที่สุด และบ่อยที่สุดนะ&lt;/p&gt;
+
+&lt;p&gt;ตัวฉันเอง
+๒๙ ตุลาคม ๒๕๖๑&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-5bcb4a0cd04b46133af4d668/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5bcb4a0cd04b46133af4d668/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>MentalProblem</category>
+        
+      </item>
+    
+      <item>
+        <title>ความศรัทธา และความเชื่อในสิ่งที่เรียกว่า 'ยา'</title>
+        <description>&lt;p&gt;สวัสดีนะ เป็นยังไงบ้างตอนนี้ หายหรือยัง หลายเดือนเลยที่ไม่ได้กลับมาเล่าเรื่องราวที่เกิดขึ้น หลังจากโพสที่แล้วทุกอย่างก็แย่ลงเรื่อยๆ จนฉันทำอะไรไม่ได้เลย เอาล่ะ ตอนนี้ฉันยังพอดีขึ้นมาบ้าง ถ้าฉันไม่บังคับตัวเอง ฉันก็คงไม่ได้เขียนอะไรอีกต่อไปละ ถ้าหากจะเล่าเรื่องราวจริงๆ ฉันคงต้องย้อนไปช่วงสงกรานต์เลยที่เดียว ถ้านัดตามวันที่ล่าสุดของโพสที่ผ่านมาก็ประมาณ 5 เกือบๆ 6 เดือนเข้าไปละ&lt;/p&gt;
+
+&lt;h3 id=&quot;กลับไปหาหมอเหมือนเดิม&quot;&gt;กลับไปหาหมอเหมือนเดิม&lt;/h3&gt;
+
+&lt;p&gt;หลังจากที่ฉันมีอาการลงแดงในวันนั้น เป็นสิ่งที่ทำให้ฉันคิดว่าฉันเองต้องกลับไปหาหมอเหมือนเดิม ฉันขาดยาไม่ได้จริงๆ ฉันตัดสินใจนัดหมออีกครั้งกลับไปหาหมอเช่นเดิม ขั้นตอนทุกอย่างยังเหมือนเดิม จริงๆแล้วเราแทบจะไม่ได้คุยปัญหาอะไรกับหมอสักเท่าไหร่ เพราะเจอหมอมากสุดไม่เกินสิบนาที แน่นอน การที่ขาดยาจนกระทั่งตัวเองแดงแบบนี้ หมอคงสวดพอสมควร เหมือนเช่นเดิม หมอให้ยามาทานเหมือนเคย เอาล่ะ เผื่ออีกหน่อยจะจำชื่อไม่ได้ว่าทานยาอะไรไปบ้าง&lt;/p&gt;
+
+&lt;h3 id=&quot;ยาที่เราทาน-เสพ&quot;&gt;ยาที่เราทาน (เสพ)&lt;/h3&gt;
+&lt;p&gt;ยาที่เราทานทุกวันมีอยู่สามตัว ตัวแรกทานตอนเช้า Sertraline® หรือที่หลายคนรู้จักในชื่อ Zoloft® จริงๆ แล้วหากเป็นยาจากต่่างประเทศจะแพงนิดนึง แต่ทางกระทรวงสาธาราณสุขมีให้เลยไม่ต้องไปซื้อเพิ่มทานตัวนี้ 1 เม็ดครึ่งหรือ 75 mg อัพมาจากตัวเดิม Fluoxetine® ส่วนตอนเย็นหรือก่อนนอนจะต้องทาน Lorazepam® อีก 50mg เพื่อช่วยเพิ่มการง่วงนอน ยากลางคืนเราต้องทานพร้อมกับ Trazodone® อีก 25mg หมอบอกว่าตัวนี้จะช่วยทำให้เรานอนหลับสนิทมากขึ้น นั่นคือทั้งหมดที่เราต้องทาน ถามว่าเยอะไหม นั่นสิเยอะไหมอ่ะ เราว่าไม่เยอะนะ แต่…ยาพวกนี้มันมี Side Effect ที่ทำให้ฉันต้องเกือบตาย ทำให้ฉันกลายเป็นใครไม่รู้ และฉันต้องยอมรับกับผลข้างเคียงเหล่านั้น เพื่อที่ฉันจะได้ไม่ต้องทำในสิ่งที่เรียกกันว่า&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;การอัตวิบากกรรม&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;ยาเท่านั้นที่จะทำให้ฉันหาย&quot;&gt;ยาเท่านั้นที่จะทำให้ฉันหาย&lt;/h3&gt;
+
+&lt;p&gt;หลังจากเหตุการณ์วันนั้น ทำให้ฉันเชื่อมาเสมอว่าการใช้ยามันจะช่วยให้ฉันบรรเทาความทรมานนั้น และยามันจะช่วยให้ทุกอย่างดีขึ้นมาเรื่อยๆ และมันจะทำให้ตัวฉันเองหายในที่สุด ทุกๆ วันฉันต้องบอกตัวเองเสมอว่าอย่าลืมทานยานะ คอยรอเวลาที่จะได้กินยาอย่างใจจดใจจ่อ ตอนเช้า ตอนเย็นและก่อนนอน วันไหนไม่ได้ทานนอนไม่ได้เลย&lt;/p&gt;
+
+&lt;h3 id=&quot;เพิ่มยาเข้าไปอีก&quot;&gt;เพิ่มยาเข้าไปอีก&lt;/h3&gt;
+&lt;p&gt;ในที่สุดก็อีกวันนัดอีกครั้ง หนึ่งเดือนหลังจากไปหาหมอครั้งสุดท้าย ทุกอย่างก็เหมือนเดิม รอ รอ รอ แล้วก็คุยกับหมอประมาณไม่ถึงสิบนาทีเช่นเคย ก็ตอบหมอไปตามความจริง “เราดีขึ้นนะ” ไม่รู้ว่าพูดคำนั้นออกมาได้ยังกัน จนในที่สุดหมอก็บอกว่า “ดูเหมือนร่างกายจะตอบสนองกับยาได้ดี เพิ่มยาเลยละกันนะ” หลังจากออกห้องตรวจมา เราก็เริ่มมีความหวัง เพิ่มยาเพื่อให้ทุกอย่างดีขึ้น พอเริ่มหายเราจะได้ ลดยาลงไงล่ะ สรุปแล้วยาที่เพิ่มเป็น Sertraline® เป็น 2 เม็ดเลยเป็น 100mg ส่วนกลางคืนก่อนนอนก็ทานทานเหมือนเดิม&lt;/p&gt;
+
+&lt;h3 id=&quot;ศรัทธาในยา-หรือหลอกตัวเอง&quot;&gt;ศรัทธาในยา หรือหลอกตัวเอง&lt;/h3&gt;
+&lt;p&gt;ชีวิตดำเนินต่อไปเรื่อยๆ พร้อมกับการเพิ่มยาขึ้น ทานยาอย่างเคร่งครัด อวดสรรพคุณต่อคนที่คอยเข้ามาถาม “หมอเพิ่มยาให้ เดี๋ยวจะหายละ” ความศรัทธานี้มันเหมือนกับการหลอกตัวเองชัด หลอกตัวเองว่าทานยาแล้วจะหาย จนร่างกายคล้อยตาม จนร่างกายจำได้ว่าจะต้องทานยากี่โมง ถึงเวลาหรือยัง มีความสุข และความหวังทุกครั้งที่ได้ทานยา จนลืมสังเกตตัวเองไปว่า “มันไม่ได้ช่วยอะไรเลย”&lt;/p&gt;
+
+&lt;p&gt;นายเป็นไงบ้างล่ะตอนนี้ ฉันต้องเล่าอีกยาวมากเลย ตอนนี้พอแค่นี้ก่อนนะ เรื่องถัดไปฉันจะมาเล่าให้นายฟังว่ายาที่ฉันทานนั้นน่ะ มันแย่ มันอันตราย มันทำให้ฉันแทบเอาชีวิตไม่รอดเลยนะ สุดท้ายแล้วโชคชะตายังเข้าข้างเรา ยังสามารถทำให้เรากลับมานั่งเขียนบันทึกนี้ให้นายได้อ่านไง แต่เอาจริงๆ นายก็คงรู้เรื่องราวทั้งหมดอยู่แล้วแหละ เอาเป็นว่า บันทึกเอาไว้อ่านละกันเนาะ&lt;/p&gt;
+
+&lt;p&gt;ตัวฉันเอง
+๑๙ ตุลาคม ๒๕๖๑&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-5af10d8fdd61f6451c844d97/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5af10d8fdd61f6451c844d97/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>MentalProblem</category>
+        
+      </item>
+    
+      <item>
+        <title>ลงแดง</title>
+        <description>&lt;p&gt;สวัสดีตัวฉันเองในอนาคต หลายเรื่องราวมากมายตั้งแต่หลังสงกรานต์ที่ผ่านมา นี่ก็ล่วงเข้ามาเดือนที่ 7 แล้วมั้งที่เราเป็นแบบนี้ ฉันเดาเอานะ มันค่อยๆ เกิดขึ้นมาเรื่อยๆ จนไม่คิดคิดเลยนะว่ามันจะเป็นได้ถึงเพียงนี้ ตั้งแต่วันที่ฉันเขียนบันทึกครั้งสุดท้ายวันนั้น ฉันก็ไม่ได้มีโอกาสเขียนอีกเลย ไม่ใช่ไม่ว่างนะ แต่ฉันไม่อยากทำอะไรเลยต่างหาก มันเอาชนะฉันได้เกือบทุกครั้งเลย&lt;/p&gt;
+
+&lt;p&gt;วันนี้ก็เหมือนทุกวัน ฉันยังทรมานเหมือนเดิม ปีศาจตัวนี้จะเอามันออกไปยังไงดี หดหู่สิ้นดี ฉันไม่อยากไปไหน ไม่อยากเจอใครอีกเลย ช่วงเช้าเหมือนจะดี พอเริ่มตอนเที่ยงมันครอบงำฉันตลอด วันนี้ฉันตั้งใจทำงานเท่าที่ฉันจะทำได้ให้มากที่สุด ฉันทำได้ดีนะ แต่ช่วงบ่ายฉันก็ทำไม่ได้อีกตามเคย เฮ้อแย่นะแบบนี้บางทีฉันก็เกรงใจที่ทำงานเหมือนกันนะ แต่ว่าฉันพยายามสุดๆ แล้ว
+หลังจากยาหมดฉันไปซื้อยามาทานเองได้สักประมาณสองอาทิตย์เห็นจะได้ จนฉันรู้สึกว่าฉันสามารถควาบคุมมันได้ อาทิตย์ก่อนฉันทำงานไม่ได้ไปสองวัน มันรู้สึกแบบว่าฉันไม่ไหวแล้วฉันอยู่นิ่งไม่ได้เลย ต้องทำอะไรสักอย่าง แต่พอได้ทำก็ทำได้แป๊บเดียว หรือสมาธิสั้นนั่นแหละนะ จนสุดท้ายฉันต้องหยุดงานไปวันครึ่งอีกแล้ว เห้อ&lt;/p&gt;
+
+&lt;p&gt;หลังจากหยุดงานในวันศุกร์ บวกกับเสาร์อาทิตย์ ปรากฏว่าฉันได้ทบทวนเรื่องราวต่างๆ ที่เกิดจนฉันสามารถคุมมันได้ ฉันเข้าใจสิ่งที่มันเกิด เริ่มควบคุมมันได้ ยังไงอ่ะ เอาเป็นว่าฉันรู้สึกดีขึ้นไม่ค่อยมีอาการมาก ถึงมีฉันก็พยายามเบี่ยงประเด็น จนมันไม่สามารถควบคุมฉันได้เต็มที่เหมือนที่ผ่านมา&lt;/p&gt;
+
+&lt;p&gt;ฉันคิดว่าฉันไม่ควรที่จะพึ่งยาอีกต่อไป ฉันเลยหยุดยาเลยนะ มั่นใจเกินร้อยว่าฉันควบคุมมันได้ทุกอย่าง ฉันรู้แล้วว่าต้องทำยังไง ถึงจะคุมมันได้ วันสองวันแรกฉันรู้สึกว่าเรามาถูกทางแล้วดูดีขึ้น อาการไม่ได้มากมาย พอล่วงเข้ามาวันอังคาร ฉันมีอาการที่รู้สึกว่าฉันไม่เคยเป็นแบบนี้มาก่อน มันรุนแรงมาก ฉันคิดว่า เฮ้ย นี่มันเกิดอะไรขึ้น ฉันตั้วสั่น เวียนหัวทำอะไรไม่ได้เลย สมองฉันวุ่นวายไปหมด ฉันรู้สึกชา รู้สึกเหมือนฉันเสียการควบคุมตัวเอง 3 วินาที มันเกิดขึ้นบ่อยมาก แทบจะทุก 5 นาทีต่อครั้ง&lt;/p&gt;
+
+&lt;p&gt;ฉันพยายามค้นหาในอินเทอร์เน็ตกับอาการที่ฉันกำลังเป็นอยู่ เพราะคิดว่าถ้าปล่อยไว้ฉันมีสิทธิ์วูปตอนไหนก็ได้ เพราะสมองของฉันมันรวนไปหมดทุกอย่าง ฉันใช้เวลาค้นหาอยู่นานจนแน่ใจว่าอาการที่ฉันเป็นอยู่นั้นเรียกว่า “อาการถอนยา” หรือหากเรียกตามภาษาบ้านๆ ทั่วไปก็คือ “ลงแดง” นั่นเอง เกิดมาฉันก็พึ่งเคยเป็น ฉันเข้าใจเลยว่าคนติดยาบ้านยาเสพติด เวลาลงแดงมันทรมานขนาดไหน&lt;/p&gt;
+
+&lt;p&gt;ฉันอ่าน และศึกษาเกี่ยวกับเรื่องนี้มากขึ้น จนฉันเข้าใจว่ายาพวกจิตเวชพวกนี้ มีฤทธิ์กล่อมประสาท หรือพูดง่ายๆ คือหลอกสมองนั่นเอง และเมื่อเราใช้ยาพวกนี้ไปเรื่อยๆ จนสมองชิน มันก็ทำให้เราอยากใช้ยาไปตลอด วันนี้ฉันต้องวานน้องที่ทำงานไปส่งซื้อยาเพราะไม่ไว้ใจตัวเองกับอาการที่เป็น สุดท้ายก็ไม่ได้อะไรเพราะคนขายไม่อยู่และฉันตัดสินใจเอาไว้ว่าฉันจะกลับไปพบแพทย์ก่อนที่ทุกอย่างมันจะสายเกินไป&lt;/p&gt;
+
+&lt;p&gt;ทุกครั้งที่ฉันเห็นร้านยา นายเชื่อไหม เหมือนเสือที่หิวโซ วิ่งพรวดพราดเข้าไป ในใจในสมองของฉันมันพูดออกมาตลอด “ยาอยู่ไหน” น่าสมเพชตัวเองมาก ยาเม็ดแรกที่ฉันได้ทานหลังจากหักดิบ นายเชื่อไหม มันเหมือนสวรรค์เลย มือที่สั่นค่อยๆ แกะยากออก ส่งเข้าปากยกขวดน้ำตาม ลองนึกภาพเหมือนในหนังที่คนติดยาหายาบ้าทานนั่นแหละ เหมือนกันเลย&lt;/p&gt;
+
+&lt;p&gt;สุดท้ายฉันกลับมาใช้ยาอีกครั้ง แต่ทว่ายาคลายเครียดที่ทำให้ฉันนอนหลับแบบยาวๆ มันหมดไปซะแล้วเหลือแต่ยานอนหลับธรรมดา ซื้อมันแค่ทำให้หลับในขณะนั้น แต่ถ่าตื่นขึ้นมา อย่าหวังเลยว่าจะหลับอีกได้อย่างง่ายๆ&lt;/p&gt;
+
+&lt;p&gt;เมื่อนอนไม่ค่อยเต็มอิ่มสมองฉันก็เหนื่อย เมื่อเหนื่อยเราก็อ่อนแอลง เมื่อเราอ่อนแอเราก็ควบคุมมันได้ได้อีกต่อไป ไม่รู้จะสู้กับมันด้วยวิธีไหนอีกแล้ว ฉันเริ่มกลับมาคิดถึงความตายอีกแล้ว ทุกอย่าง ย้ำว่าทุกอย่าง ไม่มีความหมายสำหรับชีวิตฉันอีกแล้ว ฉันเริ่มอยากตายมากขึ้นกว่าเดิม&lt;/p&gt;
+
+&lt;p&gt;ฉันไม่ใช่คนชอบดูหนัง จนจำไม่ได้ว่าครั้งสุดท้ายที่ฉันดูหนังในโรงนั้นคือเรื่องอะไร และนานแค่ไหนแล้ว ฉันชวนน้องที่ทำงานไปดูเป็นเพื่อน ฉันคิดว่าบางทีการไปทำอะไรที่เราเคยทำมันอาจจะให้ให้เรากลับมามีแรงบันดาลใจอีกครั้ง ใช่เป็นหนังที่ดีและน่าตื่นเต้นมากเรื่องนึง แต่ฉันกลับไม่รู้สึกสนุก หรืออินไปกับหนังเลย ฉันรู้แค่ว่าหนังมันดี ทุกอย่างดีมาก ยกเว้นแต่สมองของฉันเอง&lt;/p&gt;
+
+&lt;p&gt;วินาทีที่ฉันเข้าไปในโรงหนัง กลิ่นของโรงหนัง ความรู้สึก เสียงที่ได้ยิน สัมผัสต่างๆ นายเชื่อไหม สมองฉันฉายภาพเวลาเดิมๆ ที่ฉันเคยผ่านมาอีกแล้ว เมื่อก่อนฉันรู้สึกยังไง ก็เหมือนตอนนั้นเลย ฉันพยายามทำให้สนุกกับหนังที่อยู่เบื้องหน้า ซึ่งเชื่อว่าเป็นหนังที่กระแสแรงที่สุด แต่เปล่าเลย ฉันบังคับมันไม่ได้เลย ทำไม
+ก่อนไปดูหนังสองวัน ฉันไปเตะบอลมา เหมือนเดิมฉันใช้พลังงานไม่ได้เหมือนเดิม ฉันเหนื่อยง่าย ฉันไม่มีความว่องไวเหมือนเมื่อก่อน ฉันหยุดกลางคันตลอดเพราะฉันไม่ไหว ในหัวฉันเต็มไปด้วยอะไรก็ไม่รู้ จนเกิดอุบัติเหตุให้แว่นฉันหัก แน่นอนชีวิตฉันอยู่แบบขาดแว่นคงเป็นไปไม่ได้แน่นอน&lt;/p&gt;
+
+&lt;p&gt;วันรุ่งขึ้นฉันไปตัดแว่นใหม่ ทางร้านแว่นเขาตรวจทุกอย่างซึ่งฉันถือว่าเป็นเรื่องดี แต่สิ่งที่คนตรวจบอกฉันคือ ฉันเป็นต้อลม และน้ำในแก้วตาเริ่มเสื่อม จนเขาแนะนำให้ไปหาหมอ เพราะภาพที่ปรากฎบนจอโปรเจ็คเตอร์มันฟ้องออกมา&lt;/p&gt;
+
+&lt;p&gt;ฉันรู้สึกแย่ลงไปอีก ตาฉันสู้แสงไม่ค่อยได้ ฉันถึงว่าทำไมเวลาฉันบอกทุกคนว่าแสงเยอะแยงตา แต่ทุกคนกลับบอกว่าปรกติ เพราะแบบนี้นี่เอง&lt;/p&gt;
+
+&lt;p&gt;ฉันคงต้องพักสายตาแล้วล่ะ อยากจะหลับเพื่อให้ฉันได้พักผ่อน และให้ฉันพ้นจากมัน พ้นจากปิศาจตัว อยากพ้นจากเรื่องความตายไปเสียที&lt;/p&gt;
+
+&lt;p&gt;รัก
+ตัวฉันในปัจจุบัน
+๐๗ พฤษภาคม ๒๕๖๑&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@mbaumi?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Mika Baumeister&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/drug-withdrawal?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-5adfebeef040bf450cd85f59/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5adfebeef040bf450cd85f59/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>MentalProblem</category>
+        
+      </item>
+    
+      <item>
+        <title>สงกรานต์กับซึมเศร้า</title>
+        <description>&lt;p&gt;สวัสดีวันสงกรานต์ย้อนหลัง ตั้งแต่วันนั้นฉันก็ไม่ได้เขียนบันทึกเลย มีเรื่องราวยุ่งๆ เรื่องราวไม่ค่อยดีเกิดขึ้นมากมายเลยแหละ ไม่รู้ทำไมทุกอย่างมันเข้ามาพร้อมกันแบบนี้นะ ฉันเคยคิดว่า ทุกเรื่องที่ผ่านเข้ามา ฉันการกับมันได้ แต่ดูเหมือนกับว่านับวันมันจะยิ่งรุนแรง และเข้ามาพร้อมๆ กันในทุกๆ เรื่อง จนตอนนี้ฉันคงทนไม่ไหวแล้ว ฉันจะผ่านมันไปได้ยังไง? นายช่วยบอกฉันหน่อยได้ไหม?&lt;/p&gt;
+
+&lt;p&gt;อาทิตย์ที่แล้วก่อนสงกรานต์ พ่อไปโรงพยาบาลเพื่อนไปทำ CT Scan เกี่ยวกับเรื่องเส้นเลือดโป่งพอง แต่ก็ไม่วายเจอเรื่องซีสในไตซ้ายอีก นั่นเลยเป็นเหตุผลที่ทำให้พ่อต้องนอนพักที่โรงพยาบาลตั้งสี่คืนห้าวัน ฉันต้องอยู่กับแม่ทำทุกอย่างแทนพ่อ พร้อมกับโรคที่ติดตัวฉันอยู่แล้ว นายรู้ไหมมันลำบากมากแต่ไหน อดทน เพราะไม่อยากให้ใครรู้เลย นอนยากมาก ทีแรกฉันกะว่าจะไม่ทานยาเพราะกลัวว่าจะไม่ตื่นดูแลแม่ตอนดึก แต่ก็ทนไม่ได้ ไม่ไหวจริงๆ&lt;/p&gt;
+
+&lt;p&gt;ฉันว่าอาการของฉันมันเริ่มหนักขึ้นเรื่อยๆ ทุกครั้งที่ฉันล้มตัวลงนอนแล้วหลับตา ภาพเรื่องราวต่างๆ ในอดีตของฉันมันกลับมาปรากฏให้ฉันเห็นอยู่เรื่อยๆ แม้เรื่องเหล่านั้นมันผ่านไปนานมากแล้ว ตั้งแต่เด็กๆ ทุกๆ เรื่องที่ฉันเคยผิดหวัง เคยเจ็บ เคยร้องไห้ ถึงแม้บางเรื่องฉันไม่เคยสนใจมันเลย ไม่คิดถึงอะไรเหล่านั้น แต่ไม่รู้ทำไมสมองต้องฉายภาพเหล่านั้นให้ฉันเห็นอยู่เรื่อยๆ ฉันเหนื่อย เหนื่อยมากจริงๆ ฉันต้องทำยังไงดี?&lt;/p&gt;
+
+&lt;p&gt;ฉันเหนื่อย อยากเจอลูก ฉันอยากกอดใครสักคน ทุกครั้งที่ฉันร้องขอกำลังใจ แต่สิ่งที่ฉันได้กลับมานั้น นายรู้ไหมมันแย่กว่าเดิม และนั่นจะเป็นครั้งสุดท้ายที่ขอกำลังใจจากเขา ฉันยังจำคำๆ นั้นได้ดีเสมอ&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“กำลังใจหรือคนเอาใจ?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;หลังจากประโยคนั้น น้ำตาฉันไหล ฉันพูดอะไรไม่ออก และฉันบอกกับตัวเองเอาไว้ว่า มันจบแล้ว ทุกอย่างระหว่างฉันกับเขา มันจบแล้ว ฉันจะไม่บอกใคร จะเก็บเอาไว้ทำทุกอย่างตามปรกติ และฉันจะไม่เปลี่ยนตัวเองเพื่อเขาอีกแล้ว เราควรพอเสียทีกับเรื่องความรักนายว่าไหม โคตรแย่ ฉันไม่เคยได้รับคำปลอบโยนอะไรจากเขาเลย&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“วันนี้เป็นยังไงบ้าง ดีขึ้นไหม ทานยานะ ทานข้าวหรือยัง” ที่จริงสิ่งเหล่าเขามองว่าเรื่องเล็กน้อยไร้สาระมันอยู่ที่ใจ แต่เขาไม่เคยคิดเลยว่า สิ่งเล็กเหล่านั้นมันสะสมจนกลายเป็นรอยร้าวเล็กๆ หลายๆ รอยที่พร้อมจะแตกเสมอเมื่อโดนกระแทก&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;สามสิบกว่าปีที่ผ่านมา ฉันยอมเปลี่ยนตัวเองเพื่อคนอื่นมาตลอดเพราะความรัก ความเกรงใจ ฉันจะไม่ทำมันอีกแล้ว ฉันไม่อยากอยู่กลับใคร ฉันไม่อยากโกหกใคร ฉันอยากอยู่คนเดียวในห้องมืดๆ อยากนอนเฉย ไม่อยากกิน ไม่อยากทำอะไร อยากนอนจนฉันจะตายไป ฉันไม่รู้ว่าจะอยู่ไปทำไมอีก ฉันมองไม่เห็นเหตุผลที่ต้องมีชีวิตอยู่ไปพร้อมๆ กับสิ่งเหล่านี้&lt;/p&gt;
+
+&lt;p&gt;สงกรานต์นายเป็นยังไงบ้าง ยังอยากเล่นน้ำอยู่ไหม?​ สนุกไหม อากาศคงร้อนน่าดู ส่วนสงกรานต์ของฉันแย่ที่สุด วุ่นวายมากมาย หลากหลายเรื่องราวกดดันฉันเหลือเกิน พรุ่งนี้พ่อไปโรงพยาบาลฉันยังไม่รู้เลยถ้าผ่าตัดแล้ว พ่อจะเป็นยังไงบ้าง แต่ว่าฉันวางแผนไว้หมดละนะ แต่ว่าเป็นแผนที่หากว่าพ่ออาการไม่ดีขึ้น หรือหายแต่ไม่กลับมาเป็นเหมือนเดิม คงไม่มีทางเลือก ฉันคงต้องบอกลางานที่ฉันชอบ ออฟฟิศที่ฉันรัก และทุกๆ คนที่นั่น แล้วมันจะเป็นยังต่อล่ะ?​ นายบอกฉันหน่อย เรื่องราวเหล่านี้จะเป็นยังไงต่อไป ฉันอยากรู้&lt;/p&gt;
+
+&lt;p&gt;ตัวฉันในปัจจุบัน
+๑๗ เมษายน ๒๕๖๑&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@anleo?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Alvin Leopold&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/depress?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-5acc2498ee96086d53dc8706/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5acc2498ee96086d53dc8706/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>MentalProblem</category>
+        
+      </item>
+    
+      <item>
+        <title>ระหว่างทางกลับบ้าน</title>
+        <description>&lt;p&gt;ขณะที่กำลังขับรถกลับบ้าน เวลาก็น่าจะประมาณสองทุ่มละ ขับมาเรื่อยๆ ตามถนนคันคลองหางดง-สันป่าตอง ผมสังเกตเห็นมีคนคาดไฟที่หัว นักวิ่งแน่นอน สองคนแรกคิดว่าฝรั่งมาเที่ยว สักพักเจออีกคน ไปอีกนิดเจอพี่อีกคนกำลังนั่งหมดแรงที่ป้ายโรงเรียนแห่งหนึ่งเขตสันป่าตอง เบรกและถอยหลังกลับไป&lt;/p&gt;
+
+&lt;p&gt;ในใจคิดว่า “วิ่งรายการไหน ถึงปล่อยให้มาวิ่งเส้นนี้” เพราะกลางคืนมันอันตราย ผมถือน้ำลงไปหนึ่งขวด เพราะแน่ใจเป็นการแข่งแน่ เพราะสังเกตุเห็น BIB ของแต่ละคน ลงไปทักทายเอาน้ำให้พี่เขา สอบถามเรื่องราว เป็นการวิ่งคัดตัวของ TrueSouth Thailand เพื่อไปวิ่งที่ขั้วโลกไต้&lt;/p&gt;
+
+&lt;p&gt;รายละเอียด : https://www.facebook.com/truesouththailand/&lt;/p&gt;
+
+&lt;p&gt;นั่งคุยกันพักใหญ่ๆ ซึ่งพี่เขาต้องไปให้ถึงยอดดอยอินทนนท์ และในการสนทนาครั้งนี้ทำให้ตัวผมเองมีพลัง แรงฮึดสุดท้าย เชื้อเพลิงสุดท้ายที่จะพาผมให้จบเส้นชัยสุดท้ายที่โป่งแยง ถึงแม้พี่เขาจะยอมรับตัวเองว่าไปต่อคงไม่ไหว (ณ ขณะนั้นประมาณ 200+km ผ่านมาแล้ว 80 ชั่วโมง) แต่เขาก็จะขอวิ่งจนนาทีสุดท้ายของการตัดเวลา&lt;/p&gt;
+
+&lt;p&gt;ให้กำลังใจและขอตัวกลับบ้าน ก่อนกลับรถเพื่อเลี้ยวเข้าบ้าน ผมเจอพี่อีกคนหนึ่งกำลังเดินผ่านหน้าบ้าน ผมจอดรถพูดคุยให้กำลังใจ เหลืออีกไม่ถึงเจ็ดชั่วโมงเพื่อจะไปให้ถึงยอดดอยอินทนนท์ ถึงแม้ความเป็นไปได้จะน้อยเหลือเกิน แต่ผมเชื่อว่าการที่พวกพี่ไม่ยอมแพ้ และวิ่งมาแล้ว 80 ชั่วโมงทั้งเทรลและถนน นั่นก็สุดยอดแล้วครับ และขอแสดงความยินดีกับพี่จุ่ง และบาส ที่จบไปก่อนหน้านี้แล้วด้วยนะครับ โหดกันจริงๆ&lt;/p&gt;
+
+&lt;p&gt;กลับมาที่ตัวผม หลังจากหมดอาลัยตายอยากไปกับการวิ่ง และพยายามหนีการวิ่งมาตลอดช่วงสองสามเดือน การได้มาพูดคุยกับพี่ๆ วันนี้ ทั้งการให้กำลังใจ ทั้งการคิด ทำให้ไฟในการวิ่งของผมค่อยๆ ติดขึ้นมาอีกครั้ง เพื่อจะกระตุ้นตัวเองให้กลับมาวิ่ง กลับมาซ้อม ให้กับเส้นชัยสุดท้ายของผม ให้ผมเป็นผู้ชนะตัวเองอีกสักครั้ง ชนะตัวเองในโป่งแยงร้อย ชนะตัวเองในความรู้สึกนี้ ประโยคที่ผมจะจำจากพี่ๆ “ถ้าจะไม่จบจริง ก็จะขอวิ่งจนวินาทีสุดท้ายของการแข่งขัน” และเส้นชัยสุดท้ายนี้ อีกไม่ถึงเดือน ผมขอชนะ ชนะตัวเอง ชนะความรู้สึก เพื่อให้ทุกอย่างมันจบลงอย่างสวยงาม และสมบูรณ์&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-59c277431e95fa2845ae23a2/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-59c277431e95fa2845ae23a2/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>MentalProblem</category>
         
         <category>Running</category>
         
       </item>
     
       <item>
-        <title>UltraTrail® Panoramic</title>
-        <description>&lt;p&gt;รายการวิ่งเทรล 100miles รายการแรกของเมืองไทยโดยรังสรรค์ขึ้นโดย “ทีละก้าว” ขึ้นชื่อว่ารายการแรกย่อมมีคนอยากเข้าลองด้วยความท้าทายเป็นธรรมดา ด้วยการโปรโมทที่ร้อนแรง ความสวยงามของเส้นทางวิ่งที่ลากยาวจากแม่ฮ่องสอนไปสิ้นสุดที่อำเภอปาย ย่อมเป็นสิ่งที่เย้ายวน ท้าทายความสามารถของผมซะเหลือเกิน จนทำให้ผมไม่รีรอสมัครโดยทันที&lt;/p&gt;
+        <title>เมื่อฉันไม่อยากตื่น</title>
+        <description>&lt;p&gt;สามสิบหนึ่งปีที่ผ่านมา ฉันรู้สึกว่าตัวฉันเองได้ผ่านอะไรมาเกือบทั้งหมด จนฉันคิดว่าสิ่งที่ผ่านมาทุกๆ อย่าง ความรัก ความรู้สึกต่างๆ ชีวิตหลากหลายรูปแบบ จุดสูงสุด ต่ำสุด การใช้ชีวิตในรูปแบบต่่างๆ การท่องเที่ยว การผจญภัย จนมันทำให้ฉันคิดว่า บนโลกใบนี้มันช่างวุ่นวาย และน่าเบื่อเหลือเกิน&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15380847_1745041155815868_6741904944384528200_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;สิ่งหนึ่งที่ผมจะได้จากสนามนี้คือคะแนนจาก i-tra ประมาณ 5 คะแนน แล้วจะเอาไปทำไม? คะแนนเหล่านี้วัดจากความยากง่ายของสนามคำนวณออกมาเป็นคะแนน เก็บไว้เพื่อใช้สมัครรายการใหญ่ๆ ของโลกอาทิเช่น UTMB (UltraTrail® Du Mount-Blanc) ซึ่งใช้คะแนนในการสมัครทั้งหมด 9 คะแนน&lt;/p&gt;
-
-&lt;p&gt;หลังจากผมจบรายการ Columbia Trail Master ที่หนองใหญ่ชลบุรีก็วางแพลนถึงสนามต่อไปที่จะลง 100km ด้วยความที่ราคาการสมัครค่อนข้างสูง ทีนี้ก็ต้องมีการขอสปอนเซอร์กันบ้างละ Buzzwoo! คือบริษัทที่ผมทำงานและโครงการ Buzzwoo! Active คือกิจกรรมดีๆ ที่ให้พนักงานในบริษัทร่วมด้วยช่วยกันวิ่ง เพื่อบริจาคให้เด็กกำพร้า และหมาจรจัด โดยจะจ่าย 10 บาทต่อ 1 กิโลเมตร โดยตั้งเป้าไว้ที่ 100,000 บาทในหนึ่งปี และยินดี Support ผมในการวิ่ง 100 km UltraTrail® Panoramic ในครั้งนี้ ต้องขอขอบคุณเป็นอย่างสูงครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;ซ้อมยังไง&quot;&gt;ซ้อมยังไง?&lt;/h3&gt;
-&lt;p&gt;ยอมรับว่าผมได้แผนการซ้อม 100km ที่ดีมากๆ อันหนึ่งอยู่ในมือแต่ไม่เคยได้ซ้อมตามแพลนนั้นเลย จะเรียกว่าคำแก้ตัว หรือเหตุผลก็ได้ เพราะผม “ไม่มีเวลา” และแบ่งเวลาให้การซ้อมยาวๆ ได้น้อยมากประดุจดังกิ้งก่าได้ทองยังไงยังงั้น&lt;/p&gt;
-
-&lt;p&gt;แต่ก็ไม่ใช่ว่าจะไม่ได้ซ้อมเลยนะ ช่วงหลังๆ มีวันหยุดบ่อยก็พอได้เทรลยาวๆบ้าง ด้วยเชียงใหม่มีดอยสุเทพ-ปุยให้ได้ไปวิ่งเล่นบ่อยๆ แล้วยังมีสนามที่เอาไว้ลงคอร์ดหลายที่ ผมใช้เวลาที่มีในช่วงเช้าเป็นส่วนใหญ่กับการไปวิ่งขึ้นดอยสุเทพ(เทรล) หากมีเวลาเหลือก็ Repeat ไปซักสองรอบ บางวันก็เปลี่ยนเส้นไป Hill Repeat หลังห้วยตึงเฒ่าบ้างในบางโอกาส บางครั้งก็ไปวิ่ง Tempo ใน MTB Track หลังห้วยตึงเฒ่าก็มี&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/large.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Buzzwoo! Active Running Clinic อีกหนึ่งโครงการดีจากบริษัทผมเองงงงง ทุกวันอังคารพนักงานที่รักการวิ่งก็จะมาเข้าร่วมเทรนนิ่งนี้ โดยเจ้านายใจดีจ้าง Harry Jones มาเป็นโค๊ชให้ซะเลยชอบวิ่งกันดีนัก แต่ทั้งนี้ทั้งนั้นก็ไม่ได้เน้นเรื่องการวิ่งเทรล ส่วนใหญ่จะเน้นเรื่อง Interval, ทักษะการวิ่งอื่นๆ กับ Fartlek สำหรับวิ่งถนนมากกว่า แต่ดีสำหรับผมตรงที่ว่าเรายังได้คำแนะนำ มีคำถามเราถาม อะไรประมาณนี้ ทั้งหมดคือการซ้อม ใช่แล้วมันไม่เพียงพอ T-T&lt;/p&gt;
-
-&lt;p&gt;แต่ที่ผมอยากซ้อมมากๆ คือวิ่งตอนกลางคืนที่อยากซ้อมไม่ใช่อะไร แค่อยากรู้ถึงความรู้สึก ร่างกาย อาการต่างๆ ในช่วงเวลากลางคืนว่าเป็นยังไงเราจะได้เตรียมตัวถูก ประจวบเหมาะกับน้องนีโม่วิ่ง 100km โป่งแยงเทรลพอดีเลย เป็น Pacer ให้น้องเขาซะเลย [ตามอ่านที่ Pacer PongYang Trail 100] ต้องขอขอบคุณมา ณ ที่นี้ด้วยกับประสบการณ์วิ่งกลางคืนที่ทำให้ได้เตรียมตัวในหลายๆ อย่างก่อนแข่งจริง&lt;/p&gt;
-
-&lt;h3 id=&quot;สายอุปกรณ์หรือเปล่า-เตรียมอะไรบ้างตอนแข่ง&quot;&gt;สายอุปกรณ์หรือเปล่า? เตรียมอะไรบ้างตอนแข่ง?&lt;/h3&gt;
-
-&lt;p&gt;เรื่องอุปกรณ์ที่จะใช้ในการแข่งไม่ได้มีอะไรเป็นพิเศษเลย คิดเอาไว้ว่าง่ายๆ Simple มากที่สุดที่แรกกะจะไม่ใช้ Trekking Pole แต่พอใน Graph เห็นดอยลูกสุดท้ายละเอิ่มยืมน้องนีโม่ดีกว่าเอาไปลองใช้ก่อนถ้าเวิร์คเราจะจัดเองเลยยย ส่วนเฮดแล้มป์เอาไปอันเดียวก็ยังไงสองอันเผื่อฉุกเฉินละกันก็ได้ของนีโม่มาอีกหนึ่งอัน เป้น้ำก็อันเดิมที่เคยใช้&lt;/p&gt;
-
-&lt;p&gt;เนื่องจากตอนนี้หน้าหนาวเอาติดไปหนึ่งตัวคือเสื้อกันลม กับเสื้อกันหนาวสำหรับวิ่งอีกหนึ่งตัวน่าจะพอ ที่เหลือก็ถุงเท้าเดิมๆ สองคู่ ผ้าบัฟเอาไปสี่ผืนประสบการณ์จากโป่งแยงสอนไว้ว่าเอาพันคอไว้อันหนึ่ง ปิดปากกับจมูกอันหนึ่ง โพกหัวอันหนึ่ง เพราะช่วงดึกอากาศเย็นหวัดจะถามหา เพราะเป็นคนแพ้อากาศเย็น หมวกอีกหนึ่งใบ และปลอกแขนเอาไว้กันแดดและกันหนาว&lt;/p&gt;
-
-&lt;p&gt;ที่กังวลที่สุดใน race นี้คืออาหารและของกิน ใช้เวลาคิดนานมากว่าจะกินยังไง ระยะไหนกินอะไร ปรึกษาปรินท์แห่ง Doctor Sport ทั้งอาหารที่ต้องกินก่อนแข่ง ระหว่างแข่ง และหลังแข่ง รวมไปถึงอาหารเสริมต่างๆ ด้วยขอบคุณปริ้นท์มากครับ&lt;/p&gt;
-
-&lt;h3 id=&quot;วันแข่งนั่งรถ-2-ชั่วโมงครึ่ง&quot;&gt;วันแข่งนั่งรถ 2 ชั่วโมงครึ่ง!!!!&lt;/h3&gt;
-&lt;p&gt;Race นี้ปล่อยตัวประมาณ 10:00 am แต่ว่าเราต้องไปขึ้นรถที่ รร.ปายวิทยาคารพร้อมกับทิ้งดรอปแบ็คไว้ตรงนั้น รถเที่ยวสุดท้ายออกหกโมงเช้า!!!!&lt;/p&gt;
-
-&lt;p&gt;ไปถึงที่ รร.ปายฯ ด้วยอากาศที่หนาวเย็นเตรียมดรอปแบ็คจัดของลงทะเบียน ตอนนี้กำลังชั่งใจอยู่ว่าจะเอา Trekking Pole ไปดีไหมสุดท้ายตัดสินใจเอาไปด้วย ทีแรกคิดว่ารถตู้ที่ไหนได้ 4WD ครับผมนั่งกระบะอีกต่างหากโอยยย นี่ขนาดยังไม่แข่งนะ เขย่ากันไปตลอดทาง ทั้งลม อากาศก็หนาว ฝุ่นนี่เรียกว่าเต็มหัว ลงหลุมก้นระบม ทุกคนบ่นตลอดทางเมื่อไหร่จะถึงสักทีเนี่ยยยยยย&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15391334_665776086937271_7001792573748416877_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;สิ่งแรกที่ทำเมื่อถึง รร บ้านหมากพริกคือ กินข้าวววว ที่นี่มีข้าวต้ม ข้าวผัด โจ๊ก ไข่เจียว โอยยยหิวแบบนี้ขอข้าวต้มก่อนมีลูกชิ้นอีกสี่ห้าลูก พอให้อิ่มพยายามจะไม่ให้แน่น อิ่มแล้ว ออกไปเตรียมเป้น้ำ จัดแจงสัมภาระต่างๆ ให้เข้าที่เข้าทาง อากาศยังเย็นๆ ตัดสินใจถอดเสื้อกันลมเก็บไว้ก่อนดีกว่า ทุกอย่างเรียบร้อย พร้อมแล้ว!!!&lt;/p&gt;
-
-&lt;h3 id=&quot;เริ่มแล้ว-มหากาฬย์-100-km&quot;&gt;เริ่มแล้ว มหากาฬย์ 100 Km&lt;/h3&gt;
-&lt;p&gt;สถานที่ปล่อยตัวเป็นจุด CP ของระยะ 100 miles อีกด้วย เราจะเห็นนักวิ่งระยะ 100 miles หลายคนเข้ามาแล้วออกไปเยอะพอสมควร ยอมใจพวก 100 miles จริงๆ เด็กชาวเขาเริ่มยืนตั้งแถวหน้าประตูโรงเรียนด้วยชุดประจำเผ่าน่ารักสดใส ชอบตรงที่ว่าเป็นงานที่จัดง่ายๆ และอบอุ่นภาพเดิมของทีละก้าวหายไป ตอนนี้วิ่งทุกคนพร้อมแล้ว เสียงนับถอยรอ พร้อมกับความตื่นเต้นที่รออยู่เบื้องหน้า 5 4 3 2 1 ไปปปปปปป&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15540947_665800793601467_7581070303843593064_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ทางลงอยู่ไหน&quot;&gt;ทางลงอยู่ไหน?&lt;/h3&gt;
-&lt;p&gt;วิ่งไปได้สักพักประมาณ 500 เมตร เจอทางขึ้นแบบชันๆ คิดว่าน่าจะขึ้นปรกติไปเรื่อยๆ ก้มมองแผนที่ที่ติดกับ BIB เห้ย ไม่มีทางขึ้นนี่หว่าแล้วก็ขึ้นไปเรื่อยๆ ไม่มีสิ้นสุดสักที ก้มมอง BIB มองแล้วมองอีก มันไม่มีทางขึ้นนี่นาาาาาาา เอาแล้วสิโดน RD แล้วไงหน้าพี่นพยิ้มมุมปากลอยมาแต่ไกลเลยทีเดียว ตั้งหน้าตั้งตาไต่ไปเรื่อยๆ รู้สึกโชคดีที่ไม่เอา Trekking Pole เก็บไว้ ได้ใช้ตั้งแต่เริ่มเลยทีเดียว&lt;/p&gt;
-
-&lt;p&gt;หลังจากเริ่มมาสักประมาณ 3-4km เห็นจะได้ ก็ผ่าน จุด A4 ในใจคิดว่าเห้ย ทำไมถึงเร็วและนักวิ่งก็ไม่มีใครหยุดด้วยสิเพราะค่อนข้างจะเร็วไปและ A4 ไม่มีน้ำไม่มีอะไรสักอย่างด้วย ไม่เป็นไรตั้งหน้าตั้งตาไต่กันต่อไป หวังว่าจะเจอทางลงในไม่ช้า&lt;/p&gt;
-
-&lt;p&gt;เจอทางลงแล้ววววว ช่วงนี้ลงยาวๆ สลับขึ้นเป็นบางครั้งคิดในใจเอาไงดีกับทางลงช่วงนี้จะทำเวลาหรือไปแบบสบายๆ เห็นหลายๆ คนบินกันลงไปอย่างกะนก คิดในใจ Save ตัวเองดีกว่าวิ่งไปแบบชิวๆ ทางช่วงนี้สวยด้วย ทั้งเมฆบางๆ สลับกับดอย นี่ถ้ามาช่วงเช้าๆ ทะเลหมอกแน่นอน ทางลงลูกรังสลับดินแข็งมีบางช่วงลื่นๆ ต้องระวังแต่ Altra Lone Peak 3.0 ของผมยังทำงานได้ดีไม่บกพร่อง ทางไหนลงชันๆ ก็ Trekking Pole เข้าเบรก&lt;/p&gt;
-
-&lt;p&gt;ทะลุขึ้นมาบนทางถนนลูกรังที่ขับรถผ่านมาช่วงเช้า เจอพี่นพขับรถสวนมาคอยบริการนักวิ่งบอกว่าน้องเขาตั้งจุด A4 เร็วไป และน้ำก็ยังเข้าไม่ถึง Shot นี้ตราตรึงใจทำให้เรารู้ว่าทีมงานมีความใส่ใจนักวิ่ง พี่นพเติมน้ำให้เพราะยังไง CP1 ยังอีกไกลน้ำหมดแน่ถ้าไม่เติม ขอโค๊กพี่นพใส่ขวดน้ำติดตัวไปอีกหนึ่งขวดรับไป CP1 กันดีกว่า&lt;/p&gt;
-
-&lt;h3 id=&quot;กว่าจะถึง-cp1&quot;&gt;กว่าจะถึง CP1&lt;/h3&gt;
-&lt;p&gt;หลังจากเติมน้ำจากพี่นพ ก็วิ่งไปตามถนนเตรียมลงไปสู่ CP1 ทางช่วงนี้พีคมากสวยงามจริงๆ ทั้งวิวภูเขาสวนข้าวโพดของชาวบ้านมองลงไปมีหมู่บ้านท่ามกลางหุบเขา ทำให้เราหยุดมองอยู่หลายต่อหลายครั้งทีเดียว ช่วงนี้เป็นทางลงสลับทางขึ้นมีทางคอนกรีตเป็นบางช่วง&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15585037_668076166707263_8867283087150634054_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ทางของฝุ่น ใช่ครับมันคือทางของฝุ่นทุกครั้งที่มีรถสวนขึ้นมา ฝุ่นตลบไปหมด ดีที่เตรียมผ้าบัฟหนึ่งอันไว้ที่คอ คอยดึงมาปิดจมูกเมื่อมีฝุ่นเยอะๆ เรียกว่าแทบไม่เห็นทางกันเลยทีเดียว ลงไปยาวๆ ผ่านพี่ๆ ที่วิ่ง 100 Miles กันหลายคนทักทายจับมือทุกคนยอมใจทุกคนจริงๆ&lt;/p&gt;
-
-&lt;p&gt;ทางลงยาวๆ มีทางขึ้นสลับให้ได้พักหัวเข่าบ้างเป็นบางช่วง อาากาศเริ่มร้อนแดดเริ่มมา ทางลงที่ชันๆ ตอนนี้ต้องใช้ Pole ยันเพื่อเบรกเอาไว้ด้วยทางลงยังวิ่งได้ปรกติ ช่วงสุดท้ายก่อนถึง CP1 เป็นคอนกรีตล้วนๆ พยายามเซฟหัวเข่าอย่างมาก เพราะเริ่มรู้สีกว่าหัวเข่า และข้อพับเริ่มล้าบ้างแล้ว&lt;/p&gt;
-
-&lt;p&gt;ถึง CP1 หนึ่งจนได้ หลายๆ คนชอบ CP1 รวมทั้งผมด้วย ก็น่ารักขนาดนั้นนนน ใจอยากหยุดตรงนี้ให้นานแสนนานนนนน การ์ตูนกับพี่ต่ออยู่ที่ CP1 ด้วยเย้ๆ ทักทายถ่ายรูปกันไป พักสักแป๊บทานน้ำ ตอนนี้ทุกคนเริ่มทยอยเข้ามาสู่ CP1 ได้เวลาเราออกจากที่นี่ละลุยต่อ A5 รอเราอยู่&lt;/p&gt;
-
-&lt;h3 id=&quot;ปัญหาที่ไม่เคยเจอ-และไม่คิดว่ามันจะเกิดขึ้น&quot;&gt;ปัญหาที่ไม่เคยเจอ และไม่คิดว่ามันจะเกิดขึ้น!&lt;/h3&gt;
-&lt;p&gt;สถานีต่อไปคือ A5 ตามบรีฟ สเตชั่นนี้มีอาหารตามสั่ง และผมแพลนว่าจะกินข้าวกลางวันตรงนี้และน่าจะไปถึงช่วงบ่ายสามโมง ตอนนี้ทางเป็นคอนกรีตขึ้นๆ ลงๆ ไม่ได้ทิ้งห่างนักวิ่งท่านอื่นสักเท่าไหร่ก็วิ่งๆ ไปด้วยกันคุยๆ กันไปมีบ้างบางช่วงที่ทิ้งห่างกันไป แต่ก็ยังพอตามกันได้อยู่ หลังจากลงยาวๆ บนคอนกรีตตอนนี้เริ่มรู้สึกล้าที่เข่าและข้อพับเป็นอย่างมากจนบางครั้งต้องหยุดเดินเพื่อพักหัวเข่า&lt;/p&gt;
-
-&lt;p&gt;อากาศเริ่มร้อน เริ่มวิ่งกลางแดดมากขึ้น ประกอบกับอาการหิวข้าวด้วยเลยเปิดกระเป๋าหยิบ Energy Bar มาหนึ่งอันเกินไปเดินไป กินไปได้คำที่ 5 สำลักเลยครับช่วงนั้นแย่มาต้องหยุด จนพี่ที่พักด้วยกันต้องหยุดพร้อมหันมาดู ช่วงที่สำลักรู้สึกถึงอาการเจ็บที่กระบังลม เห้ยเป็นอะไรหรือเปล่ามีความกังวลเพิ่มขึ้นมาอีกหนึ่งข้อ แต่คิดแล้วไม่น่าจะมีอะไรคงเป็นผลมาจากอาการเหนื่อย&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15591247_668093293372217_3171456258761128211_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;หลังจากหยุดพักจากการสำลัก สักแป๊บหนึ่งก็ไปต่อได้ตอนนี้เริ่มเป็นทางลงสลับทางราบมากขึ้นแต่ยังเป็นถนนคอนกรีตเหมือนเดิม แต่สิ่งที่ไม่เคยคิดเลยว่าจะเกิดกับตัวเองคือท้องอืด อาหารไม่ย่อย ตอนนี้นี้เริ่มวิ่งไม่ได้ เลยใช้ Power Walk อย่างเดียว ทุกคนล่วงหน้าไปก่อนแล้ว แต่เรายังไปเร็วไม่ได้เพราะเต็มกระเพาะอาหารเลย ทำให้คิดถึงพี่เอมที่บอกตั้งแต่ก่อนแข่งแล้วว่ามียาช่วยย่อย เอาติดตัวไปด้วยไหม ด้วยความที่ไม่เป็นเคยเป็ฯอาหารไม่ย่อยเลยปฏิเสธพี่เอมไป แต่ตอนนี้เป็นไงล่ะ&lt;/p&gt;
-
-&lt;p&gt;เป็นช่วงเวลาที่แย่ คิดอยู่อย่างเดียวว่าเดี๋ยวมันก็ย่อย ไม่นานหรอกระยะทางไป A5 เหลืออีกไม่ไกลในใจคิดว่าเดี๋ยวถึง A5 คงย่อยหมดพอดี วิ่งได้นิดเดียวก็ต้องหยุดเดินเพราะจุก เดินสักพักพยายามวิ่งก็วิ่งได้ไม่เยอะจุกเหมือนเดิม การวิ่งบนคอนกรีตนี่ไม่ชอบเลย T-T เสียดายที่ไม่ได้ชื่นชมวิวในจุดนี้เพราะอาการท้องอืดนี่แหละเป็นอะไรที่แย่มากเหลือเกิน ในที่สุดก็มาถึง A5 สักที&lt;/p&gt;
-
-&lt;h3 id=&quot;a5-อาหารตามสั่งแล้วไง-t_t&quot;&gt;A5 อาหารตามสั่งแล้วไง T_T&lt;/h3&gt;
-&lt;p&gt;วิ่งลงมาถึง A5 เจอนักวิ่งหลายๆคนที่นำเราไปก่อนหน้ากำลังล้อมวงกันกินข้าวอย่างเอร็ดอร่อย เข้ามาด้วยความพะอืดพะอม ถอดเป้น้ำออกทำให้ร่างกายเย็นสักพักคิดในใจยังไงก็ต้องกินเพราะว่ากว่าจะถึง CP2 ไม่มีข้าวแล้วนะ ใจจริงอยากจะกินข้าวผัดร้อนๆ สักจาน แต่คิดว่าคงกินไม่ไหวกับอาการที่เป็นอยู่เลยขอสั่งแค่ข้าวต้มก็ได้สักถ้วยใหญ่ๆ ก็ยังดี&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15391145_10154072657301931_960012534129561427_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ข้าวต้มร้อนๆ พร้อมเสริฟตักกินได้หนึ่งช้อนก็รู้ทันทีว่าไม่ได้ ยัดยังไงก็ไม่ลงเพราะในท้องเต็มไปหมดไม่ย่อยเลย T-T แย่มากมายในตอนนั้นที่ทำได้คือเดินไปหยิบส้มมาสองลูก กินส้มไปก่อน แล้วก็ขอโทษทางแม่ค้า และทีมงาน ที่สั่งข้าวต้มมาแต่กินไม่ได้เลย ผมขอโทษจริงๆ นะครับบบ ถ้าหากทีมงานผ่านมาอ่าน ผมต้องขอภัยตอนนั้นรู้สึกแย่มากจริงๆ&lt;/p&gt;
-
-&lt;p&gt;ไม่มีประโยชน์ที่จะนั่งอยู่ที่ A5 ใส่เป้น้ำใส่หมวกผมจะออกไปแล้วครับ หยิบส้มมาอีกหนึ่งลูก หยิบกล้วยมาสองลูกใส่กระเป๋าไว้ โค๊กหนึ่งขวด ขอบคุณและขอโทษทีมงานอีกครั้ง เดินไปฉีดสเปรย์ที่หลังหัวเข่าแล้วออกวิ่งต่อไปตามถนนคอนกรีตเข้าหมู่บ้านมุ่งหน้าสู้ CP2&lt;/p&gt;
-
-&lt;h3 id=&quot;หายท้องอืดแล้วววว&quot;&gt;หายท้องอืดแล้วววว&lt;/h3&gt;
-&lt;p&gt;ออกจาก A5 เข้าสู้หมู่บ้าน หลายคนปรบมือให้กำลังใจมีเด็กคอยบอกทางเพราะป้ายบอกทางตรงนั้นติดไว้ไม่ค่อยชัดหลงกันไปหลายคน ออกจากหมู่บ้านลัดเข้าไปในไร่ของชาวบ้านทางตรงนี้สวยมาก แต่ยังวิ่งไม่ได้เหมือนเดิม ยังจุกอยู่ ทางช่วงนี้ชาวบ้านปลูกพืชผักอยู่แต่ไม่รู้เป็นอะไรเดาว่าเป็นกระเทียม หรือไม่ก็ผักชี สักอย่างมีการติด Springer ให้เราได้วิ่งผ่านให้คลายร้อน&lt;/p&gt;
-
-&lt;p&gt;กินส้มที่หยิบมาด้วยหวังจะให้ย่อยเร็วๆ พร้อมกับโค๊กแบบไม่เขย่าเผื่อจะช่วยได้บ้าง อาการเริ่มดีขึ้นบ้างบางส่วน เริ่มวิ่งได้เบาๆ ถึงแม้จะไม่ไกลแต่ก็ยังดีกว่าเดินอย่างเดียว วิวตรงนี้จะไม่เหมือนช่วงที่อยู่บนเขา แต่ก็สวยมากผ่านไร่ข้าวโพดเลาะผ่านแม่น้ำปายที่ไหลหล่อเลี้ยงเกษรตกรแถวนี้ ชาวบ้านขับรถผ่านฝุ่นกระจายทุกคนก็ให้กำลังใจกันไป&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15585001_668053886709491_8866351418574028270_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;อากาศเริ่มเย็นลงแล้วเพราะเข้าสู่ช่วงเย็น ยังคงเดินสลับวิ่งไปเรื่อยๆ ทางฝุ่นขาวๆ นกเริ่มบินกลับรังพระอาทิตย์เริ่มลับขอบฟ้าอากาศดีมาก วิวสวยเริ่มมีหมอกตอนเย็นก่อนที่จะมืดจนมองไม่เห็นอะไร เลยหยุดเตรียมตัวเอา HeadLamp ขึ้นมาใส่ถ่าน 3A คาดหัวไว้พร้อมใช้งาน พักแป๊บนึงแล้วไปต่อเมื่อไหร่จะถึง CP2 สักที&lt;/p&gt;
-
-&lt;p&gt;เปิดไฟ Head lamp วิ่งแล้วตอนนี้เพราะมืดแล้ว ยังคงมีรถชาวบ้านที่กลับจากไปทำสวนมาเป็นระยะ แสดงว่าเราใกล้จะถึงละ ทางเริ่มวนเข้ามาอีกหมู่บ้านหนึ่งอีกครั้งเริ่มเป็นถนนคอนกรีต ชาวบ้านที่อยู่ตามข้องทางพลอยบอกให้นักวิ่งอีกไม่กี่ร้อยเมตรก็ถึงจุดพักแล้ว ในที่สุดก็เจอถนนใหญ่เลี้ยวซ้ายซักพักก็เข้าสู่ CP2 เย้ถึงจนได้ครึ่งทางแล้ววววว&lt;/p&gt;
-
-&lt;h3 id=&quot;10km-สู่-a6-ที่นานมากเหลือเกินนนนน&quot;&gt;10km สู่ A6 ที่นานมากเหลือเกินนนนน&lt;/h3&gt;
-&lt;p&gt;เข้าสู่ CP2 เจอพี่นพคนแรก และการ์ตูนกับพี่ต่อก็รออยู่ตรงนี้เช่นกัน เจอ Rene อยู่ตรงนี้เราก็คิดในใจมาอยู่ตรงนี้ได้ยังไง ควรจะไปไกลกว่านี้แล้วนะ หาอะไรกินไม่มีอะไรนอกจากขนม กล้วยและส้ม นักวิ่งหลายคนผิงไฟ เรากะว่าจะพักตรงนี้นานๆ เอาให้หายเหนื่อย ตอนนี้อาการท้องอืดหายไปแล้วทุกอย่างกลับเป็นปรกติอีกครั้งหนึ่ง&lt;/p&gt;
-
-&lt;p&gt;คุยกับ Rene ว่าทำไมมาอยู่ตรงนี้ ทำไมพักนานจัง แกตอบกลับมา DNF ตัวเองเรียบร้อย เพราะว่าเจออากาศร้อนในตอนกลางวัน ร้อนจัดร่างกายเหมือนผิดปรกติเขาเลยหยุดและ DNF ตัวเอง ปลอดภัยกว่า เริ่มถามพี่นพว่า A6 มีของกินไหมคำตอบที่ได้คือ มาม่า ขนมปังและขนมอื่นๆ มีเต๊นท์ให้นอน เห้ย เราไม่อยู่แล้วเปลี่ยนแผนใหม่ ไปตอนนี้เลยดีกว่าไปกินมาม่าที่นั่น แล้วนอนพักเอาแรงดีกว่ามานั่งเฉยๆ ตรงนี้ เตรียมของเติมน้ำ และออกจาก CP2 ทันท&lt;/p&gt;
-
-&lt;p&gt;เจ้าหน้าที่บอกว่า 10km ถึงจุด A6 แบบนี้จ๊อกไปสบายๆ สักชั่วโมงกว่าๆ คงถึงละ วิ่งออกมาอย่างรวดเร็วผ่านหมู่บ้านมาเรื่อยๆ ช่วงนี้คนกินเหล้าเยอะมาก เรามาคนเดียวก็เสียวกันไป รถที่สวนมาก็ไม่มีทีท่าว่าจะลดความเร็วลงซะเลย ต้องใช้ไฟเข้าส่องเพื่อเตือน&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15493708_668072050041008_2146369435269797536_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ถนนยาวๆ ไป A6 อันแสนมืดมิดโดดเดี่ยวทั้ง Race วิ่งคนเดียวเกือบตลอดทาง เริ่มไม่มีบ้านคนละ วิ่งเบาๆ สลับเดินเพื่อเซฟตัวเองสำหรับเนินมหาโหดที่จะต้องเจอช่วงท้าย บรรยากาศเริ่มวังเวง เชี่ยละมองไปด้านซ้ายป่าช้าเลยไหมล่ะ แหม่ จากเดินเปลี่ยนเป็นวิ่งเลยทีเดียว&lt;/p&gt;
-
-&lt;p&gt;ออกจาหหมู่บ้านมานานมากแล้ว ส่องไปข้างหน้าพร้อมกับอุทานออกมา เชี่ยยยย นึกว่าจะไปสบายไม่ต้องขึ้นดอย ยังจะต้องมาเจอดอยอีกเหรอเนี่ยแล้วมาม่ากูล่ะ น้ำตาจิไหลลลล ทำอะไรไม่ได้นอกจากจ้ำ Trekking Pole แต็กๆไต่ขึ้นไปเรื่อยโดยไม่มีทีท่าว่าจะลง&lt;/p&gt;
-
-&lt;p&gt;มองดูนาฬิกาเห้ย 11 กิโลแล้ว A6 อยู่ไหนนนน ใครบอกว่า 10km ฟร๊ะไอ้เราก็อัดมากะว่าสักสิบโล ไม่ถึงสักกะที ถนนก็ขึ้นๆ ลงๆ หิวก็หิว ทำได้แต่เดินไปเรื่อยๆ สลับวิ่งบ้างเริ่มมองเห็นแสงไฟ แสดงว่าเริ่มเข้าหมู่บ้าน แล้วในที่สุดก็เจอสีกที A6 ในตำนานสิบโลเชี่ยๆปาเข้าไป 14km&lt;/p&gt;
-
-&lt;h3 id=&quot;กิน-พัก-หลับ-เก็บแรงเพื่อดอยเมี่ยง&quot;&gt;กิน พัก หลับ เก็บแรงเพื่อดอยเมี่ยง&lt;/h3&gt;
-&lt;p&gt;พี่ต่อ และการ์ตูนยังคงอยู่ที่ A6 ขอบคุณการ์ตูนที่ต้มมาม่าให้ พี่นพบอกเอาเข้าไปในเต้นได้เลย แน่นอนนครับบบบ ข้างนอกหนาวซะขนาดนั้น ไม่ลืมที่จะหยิบดรอปแบ็คเข้ามาในเต้นด้วย&lt;/p&gt;
-
-&lt;p&gt;ใส่กางเกงรัดกล้ามเนื้อทับเลยไม่ถอดกางเกงตัวเดิมละ เอาเสื้อกันหนาวมาใส่ เตรียมของทุกอย่าง เสร็จแล้วขอลิ้มรถมาม่าหน่อย ด้วยความหิวซัดไปไม่เหลือน้ำ อิ่มพอดีถึงเวลาหลับบบบบ ของีบสามสิบนาทีหัวถึงพื้นภาพตัดทันที&lt;/p&gt;
-
-&lt;p&gt;โทรศัพท์ดังขึ้นเพราะตั้งเวลาปลุกเอาไว้ เห้ยนี่เราได้นอนหรือยังเนี่ยยทำไมเร็วจัง ตื่นมาจัดแจงร่างกายออกไปนอกเต้นทานกล้วยกับส้มเพิ่ม ออกจาก A6 มุ่งหน้า C3 อีก 5km&lt;/p&gt;
-
-&lt;p&gt;โดดเดี่ยวกลางป่าละเมาะ
-ออกจาก A6 ไม่มีคอนกรีตแล้ว วิ่งออกมาพร้อมนักวิ่งบรูไน อากาศหนาวเย็นขึ้นเพราะตอนนี้ใกล้เที่ยงคืนแล้ว เสื้อกันหนาวยังใส่แต่ตัวเดียว ดึงผ้าบัฟมาปิดปากกับจมูก ด้านบ้านคลุมหัว คลุมหน้าผากเหลือแต่ลูกตา ปล่อยให้นักวิ่งบรูไนแซงไปก่อน&lt;/p&gt;
-
-&lt;p&gt;จากทางราบเริ่มเข้าสู่เนินเล็กๆ ลัดเลาะป่าไปเรื่อยๆตามเส้นทางมอไซต์ของชาวบ้าน ผ่านหมู่บ้านหมาเห่าระนาว ในใจคิดว่ามึงอย่าวิ่งมานะ ไม่มีแรงหนีละ ผ่านเข้ามาในหมู่บ้านอีกครั้งสักพักถึง CP3&lt;/p&gt;
-
-&lt;h3 id=&quot;ข้าวต้มเลิศรส-ป่าไผ่-กับป่าช้าเที่ยงคืน&quot;&gt;ข้าวต้มเลิศรส ป่าไผ่ กับป่าช้าเที่ยงคืน&lt;/h3&gt;
-&lt;p&gt;สอบถามทีมงานบอกว่าที่นี่มีข้าวต้มกับก๋วยเตี๋ยว กาแฟ ไว้บริการ จัดข้าวต้มอุ่นๆ ไปหนึ่งถ้วยอิ่มอร่อย แต่เริ่มง่วง พักนอนอีกงีบดีกว่า เจ้าหน้าที่บอกมีเปลนอนอยู่ เลยขอนอนสัก 30 นาที&lt;/p&gt;
-
-&lt;p&gt;สะดุ้งตื่นเพราะอากาศหนาวมาก เราไม่ได้ขยับตัวเลยเย็น สรุปนอนไปแค่ 15 นาที ไม่เป็นไรในเมื่อนอนไม่ได้ก็ขอไปต่อเลยดีกว่า ออกจาก CP3 ผ่านรีสอร์ทช่วงเที่ยงคืนพอดี เจอนักท่องเที่ยวร้องเพลง ดื่มกันอยากสนุกสนานแทบอยากไปแจม และขอสักแก้วสองแก้ว วิ่งเบาๆต่อไป ผ่านอ่างเก็บน้ำตรงนี้ผมว่าถ้าผ่านมาช่วงกลางวันคงจะสวยน่าดู&lt;/p&gt;
-
-&lt;p&gt;เลยอ่างเก็บน้ำเริ่มออกจากชุมชน เข้าป่าซะที จะสะดุดกับเครื่องหมาย !!! ของทีมงาน โดยปรกติแล้วแล้วเครื่องหมายนี้จะติดเพื่อเตือนทางอันตรายเช่น ลื่น เหว ฯลฯ ตรงนี้ทางปรกติไม่มีอะไรเลย หยุดวิ่งหันไปทางซ้าย&lt;/p&gt;
-
-&lt;p&gt;เชี่ยยยย ป่าช้าอีกละ เมรุเผาศพ ศาลามาเต็มอยู่หน้าป่าช้าแบบเก๋ๆ ป่าช้าที่สองของ Race นี้ขอบคุณความตื่นเต้นที่ทีมงานทีละก้าวมอบให้ วิ่งอวดพี่กันเลยทีเดียวแบบนี้&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15540761_665804723601074_3193175029443619705_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ส่องไฟไปมาสักพักไปดีกว่า ออกไปอย่างเร็ว เลาะเข้าป่าไผ่ ทางขึ้นเริ่มแล้วววว ทางขึ้นเริ่มชันก้มดูกราฟเป็นระยะๆ จะไม่อยากจะเชื่อมันขึ้นอีกแล้ววววว ทางช่วงนี้อันตรายจริงๆ ด้วยความมืดทางแคบแบบ single track มีป้ายเตือนเป็นระยะ&lt;/p&gt;
-
-&lt;p&gt;ป่าไผ่ในความมืดมาพร้อมเหวด้านซ้าย ต้องค่อยเดินไปอย่างระวัง ไม่วิ่งละครับตอนนี้กลัวลื่นตก เริ่มชันขึ้นเรื่อยๆ สลับมาเหวด้านขวาบ้าง เริ่มเห็นวิวบ้างบางจุด แนะนำพี่นพคราวหน้าอยากผ่านเส้นนี้ตอนกลางวันนนน&lt;/p&gt;
-
-&lt;p&gt;เจอเพื่อนนักวิ่งสองคนพี่ผู้หญิงดูเหนื่อยมากเหมือนจะอ๊วกด้วย แต่ยังไหวอยู่มีพี่ผู้ชายมาด้วยเราเลยผ่านต่อไป ขึ้นไปเรื่อยๆ อากาศเย็นเมื่อไหร่จะสุดเนี่ยยยยย สักพักเจอกับพี่คนหนึ่งค่อยๆ ไต่ลงช่วงทางลงเขาวิ่งร้อยไมล์โอยย สุดยอดมาก สุดๆ สักพักขึ้นไปเจอทีมมอเตอร์ครอส นอนรอนักวิ่งบนยอดเขาเลยจัดการขอโค๊กไปสองแก้ว&lt;/p&gt;
-
-&lt;p&gt;คุยกับทีมมอเตอร์ครอสสักพัก ออกมาเริ่มเป็นทางลงชันและลื่น วิ่งได้เป็นบางช่วง เทรกกิ้งโพลใช้เบรกรัวๆ ทั้งไต่ทั้งเบรกช่วยได้โคตรเยอะ ลงมารัวๆ จนมาทะลุถนน ข้ามแม่น้ำไม่อยากลุยเทรกกิ้งโพลจ้ำๆ ดูความลึก เลยไปทางด้านข้างดีกว่า เริ่มมาในหมู่บ้านแล้วก็ถึง A7 จนได้&lt;/p&gt;
-
-&lt;h3 id=&quot;ดอยเมี่ยงในตำนาน-บ้าไปแล้ววว&quot;&gt;ดอยเมี่ยงในตำนาน บ้าไปแล้ววว&lt;/h3&gt;
-&lt;p&gt;พักคุยกับพี่ๆ ที่ A7 มีไข่ต้มและขนมบริการทีมงานก็ต้มไข่ไว้รอนักวิ่ง ใข่ต้มตีหนึ่งคืออร่อย กินไปสองฟองพออิ่มตั้งแต่ท้องอืดผมไม่กินเจลเลยแอบระแวงมาก ดูนาฬิกา 70km แล้วนั่งพักเติมน้ำ ไปลุยดอยเมี่ยงกันเลยย&lt;/p&gt;
-
-&lt;p&gt;ออกจาก A7 มาผ่านสวนชาวบ้านมาเรื่อยๆ ตอนนี้คือขึ้นอย่างเดียวทางขึ้นไม่ชันมากพอเรียกความหอบ ท้องฟ้าเปิด ดาวสวยมากสวยจนต้องปิดไฟแหงนมองดูท้องฟ้า ด้วยความมืดมิด ผมไม่ได้เห็นดาวเยอะขนาดนี้มานานมากแล้ว สวยงามจริงๆ&lt;/p&gt;
-
-&lt;p&gt;ขึ้นรัวๆ หมดสวนชาวบ้านแล้วตอนนี้ความชันเริ่มเปลี่ยน ก้มมองดูกราฟที่ติด BIB ด้วยความรู้สึกที่ว่าเชี่ย ของจริงเริ่มละ มันชันมากจะเปรียบกับที่ไหนดีเนี่ย ชันกว่าโป่งแยงช่วงสุดท้ายอ่ะ ขึ้นได้โหดมาดเป็นทางคอนกรีตสลับดิน รถถ้าจะขึ้นเกียร์ออโต้หมดสิทธิ์ ความชันประมาณนี้แหละนะผมว่า&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15540794_668069293374617_6345915626335185488_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ตอกแตกๆ เสียงเทรกกิ้งโพลปักพื้นดินเป็นจังหวะไปเรื่อยๆ ไม่มีแววว่าจะถึงสักทีทำได้แค่ปลอบตัวเองกันต่อไป เดินขึ้นไปพลางส่องไฟไปข้างบนเรื่อยๆ ไม่มีทีท่าว่าจะสุด หยุดมองดาวบ่อยๆ เบื่อก็พักขานับก้าวกันไป เล่นโทรศัพท์กันไป เล่นเฟสกันไป&lt;/p&gt;
-
-&lt;p&gt;หากคิดในอีกมุมหนึ่ง ช่วงเวลานี้ปราศจาคสิ่งรบกวนมากได้อยู่กับตัวเอง คุยกับตัวเอง มีความคิดอะไรหลายๆอย่างเกิดขึ้นที่ตรงนี้ มีสมาธิมากขึ้น คิดถึงลูกสาว ก็เปิดดูวิดีโอ แล้วเดินขึ้นไป เมื่อไหร่จะถึงฟร๊ะ&lt;/p&gt;
-
-&lt;p&gt;ในที่สุดก็ถึงถนนที่เป็นทางลงรัวๆ โอยน้ำตาจะไหลขึ้นมาได้ยังไงบ้าไปแล้ว แต่ที่พีคกว่าคือลูกศรไม่ได้บอกให้ลง ให้ไปทางขวาหันไปทางขวาเชี่ย ขึ้นอีกละคอตกเดินขึ้นไปต่อ ไม่มีทางคอนกรีตดินล้วนๆ และมันก็ขึ้นแบบเดิมไปเรื่อยๆ เรื่อยๆ&lt;/p&gt;
-
-&lt;p&gt;เจอป้ายบอกลานชมวิว 3km น้ำตาจะไหลข้าวไข่เจียว ข้าวไข่เจียว ดูกราฟมันต้องลงแล้วนี่หว่าถึงจะเจอ A8 เห้อกราฟแม่งอยากฉีกทิ้ง ขึ้นต่อไป เจออุ๊บอิ๊บพอดีมากำลังไปข้างหน้าแบบโหมด Auto Pilot อุ๊บอิ๊บบอกอย่าพึ่งไปเดินเป็นเพื่อนหน่อยไม่งั้นหลับแน่&lt;/p&gt;
-
-&lt;p&gt;เดินคุยกับอุ๊บอิ๊บในทางชันๆ เพื่อไม่ให้ความง่วงมาแทรกแทรงเวลาตอนนั้นก็เกือบตีห้าละ อย่าเรียกคุยเลยเรียนบ่นดีกว่า เมื่อไหร่มันจะลง เมื่อไหร่จะเจอไฟ บ่นกันไปโอยถึงสักที่ A8 ที่รัก ขอข้าวไข่เจียวเน้นๆ หอมๆ อุ่นๆ นอนรอข้าวไข่เจียว ง่วงแต่นอนไม่ได้เพราะอากาศหนาวมากกินข้าวไข่เจียวสวรรค์อร่อยที่สุด หกโมงแล้วพระอาทิตย์กำลังจะขึ้นตรงทะเลหมอก สวยจริงๆ ตอนนี้ยืนอยู่บนลานชมวิวที่ความสูง 1675 เมตรจากระดับน้ำทะเล ท้องฟ้าเปิด ด้านล่างทะเลหมอกน่าจิบกาแฟรอพระอาทิตย์ขึ้นเป็นอย่างยิ่ง เจอน้องโอ๊ตนึกว่าเข้าเส้นไปแล้วซพอีก ไม่มีเวลา ต้องไปแล้ว&lt;/p&gt;
-
-&lt;h3 id=&quot;ทางลงไปหาหมั่นโถว&quot;&gt;ทางลงไปหาหมั่นโถว&lt;/h3&gt;
-
-&lt;p&gt;พร้อมออกจาก A8 มุ่งหน้าสู่ CP4 พี่เจ้าหน้าที่บอกลงอย่างเดียวจ้าไปได้เลย ออกมาสักพักผ่างงง ทางขึ้นครับพี่น้องอุทานเป็นเสียงเดียวกันทางสามคน เชี่ยยยยย ขึ้นชันๆอีกแล้ว ตอนนี้ไม่ได้ใช้ไฟละสว่างแล้ว ด้านซ้ายวิวภูเขาพร้อมทะเลหมอกโอยยย สวรรค์ชัดๆ เข้าสู่ทางลงแบบจริงจังสักที&lt;/p&gt;
-
-&lt;p&gt;ทางลงก็นะแพลนที่คิดไว้คือเติมข้าวไข่เจียว แล้ววิ่งลงแต่นี่อัลไลลล ทางลงที่แทบจะใช้เวลามากกว่าทางขึ้น วิ่งไม่ได้ลื่นมาก ชันมาก ถ้าวิ่งมีกลิ้ง เทรกกิ้งโพลเบรกรัวๆ เซฟหัวเข่าสไลด์ลงก็ไม่ได้ ทั้งชันทั้งโค้ง&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15585029_668096220038591_8054192879079413871_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;เข้าสู่ป่าสนอันสวยงาม ดอยเมี่ยงสวยจริงอะไรจริง ที่ป่าสนเป็นทางลงไม่ค่อยชันพอวิ่งได้ดินไม่ค่อยแข็ง อยู่ที่ป่าสนประมาณ 1-2km กำลังชื่นชมความงามของป่าสน ลงอีกละเหมือนเดิม ทั้งชันทั้งลื่น แอบเสียวเทรกกิ้วโพลหักอยู่เหมือนกัน เบรกตลอดเวลา&lt;/p&gt;
-
-&lt;p&gt;วิ่งลงมาสักพักเจอช่างภาพเก๊กหน่อยๆ นิมิตรหมายอันดีว่าใกล้ถึงแต่ก็ยังลงรัวๆ “พี่อีกไกลไหมครับ” เสียงตอบกลับมาว่า “โลครึ่งครับ” หวังว่าเขาคงไม่หลอกเราาาาา ลงมาสักพักหมดแล้ววววววววทางลงโหดๆ เจอพี่มอเตอร์ครอสจอดอยู่บอกว่าผมขับขึ้นไปยังเหนื่อยเลย&lt;/p&gt;
-
-&lt;p&gt;ทางไม่ชันมากแล้ววิ่งได้ ผ่านช่างภาพคนที่สองตอนนี้วิ่งรัวๆ ผ่านสวนลิ้นจี่ เลาะไปเรื่อยผ่านช่างภาพคนที่สาม วิ่งเลาะไปเรื่อยๆ ในที่สุดก็ทะลุมาถึง CP4 นักท่องเที่ยวมาดูทะเลหมอกกันอย่างเยอะเลย วิ่งไปหาทีมงานหมั่นโถวววววหิวแล้ววว&lt;/p&gt;
-
-&lt;h3 id=&quot;battery-low&quot;&gt;Battery Low!&lt;/h3&gt;
-
-&lt;p&gt;ยืนคุยกับเจ้าหน้าที่พักนาฬิกาเตือน แบตใกล้หมด !!! เห้ย 91km แล้วรีบวิ่งออกจากหยุนไหลทันที มุ่งหน้าเข้าสู่ตัวอำเภอปาย เส้นทางถนนตลอดแนวประมาณ 10km ใกล้แล้วอีกนิดเดียวต้องรีบเพราะนาฬิกาจะตายแล้วววว&lt;/p&gt;
-
-&lt;p&gt;นักท่องเที่ยวเยอะมากเขามาดูทะเลหมอกและหมู่บ้านจีนกันหมด การจราจรติดขัด ทั้งบิ๊กไบต์ทั้งจักรยาน ก็ว่ากันไป ส่วนเราก็อัด Pace 5 ไปเรื่อยๆ ข้าวไข่เขียวกำลังทำงาน นาฬิกาเตือนแบตใกล้หมดไปเรื่อยๆ ใจคอไม่ค่อยดีกลัวมันหมดก่อน 100km มี อปพร อำนวยความสะดวกทุกแยกสุดยอดมาก ตอนนี้กลัวอยู่อย่างเดียวแบตหมดดดด&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15585264_668068596708020_7243064350245727497_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;วิ่งแซงหลายๆ ท่านที่ทั้งเดินทั้งวิ่งเข้าเส้น ต้องขออภัยมา ณ ที่นี้ด้วยเพราะนาฬิกาผมเหลือแบต 5% เองครับอยากให้ได้ระยะ 100km ผ่านตัวอำเภอปาย เข้าสู่โรงเรียนปายวิทยาคาร เส้นชัยอยู่เบื้องหน้า!!!!&lt;/p&gt;
-
-&lt;h3 id=&quot;finally-i-did-it&quot;&gt;Finally I did it!&lt;/h3&gt;
-&lt;p&gt;เสียงเจ้าหน้าที่ประกาศนักวิ่ง 100km กำลังจะเส้น เจ้าหน้าที่ทุกคนมารอกันอยู่เส้นชัย แล้วก็วิ่งเข้าเส้นชัยจำได้ว่าพี่ทีมงานเอาเหรียญมาคล้องให้ Rene เข้ามาแสดงความยินดีเป็นคนแรก จากนั้นไปถ่ายรูปรับเสื้อ นักวิ่งบรูไนที่เข้ามาก่อนเข้ามาแสดงความยินดีหลังจากที่ผลัดกันแซงมาหลายครั้ง จบแล้ว จบจนได้ และจบอย่างสวยงาม ทั้งสนาม ทีมงาน และมิตรภาพ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15591561_668068726708007_8540120941940712649_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;special-thanks&quot;&gt;Special Thanks&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;ขอบคุณน้องโอ๊ต พี่นุกที่คอยขับรถไปๆ มาๆ&lt;/li&gt;
-  &lt;li&gt;พี่ต่อ การ์ตูน สำหรับมิตรภาพแล้วการดูแลยินดีที่ได้รู้จักครับ&lt;/li&gt;
-  &lt;li&gt;น้องนี่โมกับอุปกรณ์ยังชีพ&lt;/li&gt;
-  &lt;li&gt;พี่เอมที่ไปเป็นเพื่อน และที่พัก&lt;/li&gt;
-  &lt;li&gt;เพื่อนๆ กลุ่มเต่าที่คอยเชียร์และส่งกำลังใจ&lt;/li&gt;
-  &lt;li&gt;ทีมงานมอเตอร์ครอสดูแลตลอดเส้นทาง&lt;/li&gt;
-  &lt;li&gt;ทีมงานช่างภาพกับรูปสวยๆ&lt;/li&gt;
-  &lt;li&gt;ทีมงานทีละก้าวที่คอยอำนวยความสะดวก&lt;/li&gt;
-  &lt;li&gt;RD ที่หาเส้นทางให้ได้วิ่ง&lt;/li&gt;
-  &lt;li&gt;กำลังใจจากครอบครัว&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;สุดท้ายที่ ขอบคุณสำหรับการสนับสนุนทุกอย่างตลอดมา &lt;strong&gt;Buzzwoo! &amp;amp; Buzzwoo! Asia&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/aaeaaqaaaaaaaaalaaaajgvjmziyntg5ltixztatndhjzi04mdu1ltk1zjawmji3mzmzmw.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/12/15591407_668058386709041_8623214106719246909_o.jpg&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Dec 2016 00:00:00 +0700</pubDate>
-        <link>/ultratrail-panoramic/</link>
-        <guid isPermaLink="true">/ultratrail-panoramic/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Running</category>
-        
-      </item>
-    
-      <item>
-        <title>[Pacer] – Pong Yang Trail</title>
-        <description>&lt;p&gt;ผ่านไปแล้ว 1 อาทิตย์สำหรับเทรลรายการที่ดีมาก อาจจะเป็นรายการที่ดีที่สุดในประเทศเลยก็ว่าได้ครับ ทั้งคุณภาพ เส้นทาง ความละเอียดของการจัดงาน รายละเอียดเล็กๆ น้อยๆ ที่ถูกเติมแต่งใส่ใจทุกขั้นตอนของทีมงาน เรียกได้ว่าใครไม่ได้มาวิ่งงานนี้แทบต้องร้องออกมาเป็นเสียงเดียวกันเลยครับว่าเสียดายเป็นอย่างมาก (ผมก็เช่นกัน)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15025350_1812113875737634_2376253979504567335_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;โป่งแยงเทรล&quot;&gt;โป่งแยงเทรล&lt;/h3&gt;
-&lt;p&gt;โป่งแยงเทรล เป็นเทรลรายการใหญ่ที่มีระยะไกลสุดคือ 100km และความชันรวมทั้งหมด 4800+ เมตร ซึ่งถือว่าไม่ง่ายเลยที่จะจบสนามนี้แบบหรูๆ ผมเองก็มีโอกาสทราบตั้งแต่วันแรกที่เปิดรับสมัคร ตอนนี้ผมยังเบบี๋กับการวิ่งอยู่เลย ยังไม่รู้ด้วยซ้ำว่าเทรลเขาวิ่งกันยังไง ตอนนั้นก็ยังลังเลอยู่ว่าจะสมัครดีไหม? หรือจะลง 30km ก่อนดี หรือ 66km ไม่น่าจะไหว และ 100km ไม่มีในหัวเลยแล้วสุดท้ายก็ไม่ได้ลงสักระยะ ทำให้ต้องมารู้สึกเสียดายตอนหลัง ก่อนแข่งสักสองเดือน&lt;/p&gt;
-
-&lt;p&gt;แต่ยังมีโอกาสไปวิ่งในสนามเมื่อต้องเป็น Pacer ให้น้องนีโม่ขาแรงของพวกเรา ไม่ได้คิดว่าวิ่งเพซเซอร์ครั้งนี้เพื่อซ้อมไป Panoramic 100km ไม่ได้คิดว่าวิ่งครั้งนี้เพื่อซ้อมยาวแต่มาครั้งนี้พร้อมกับความคิดที่จะทำยังไงเอาน้องเขาไปถึงเส้นชัยแบบไม่  Cut Off หรือ DNF เพราะรู้ดีตั้งแต่แรกว่าต้องวิ่งในป่าตอนกลางคืนแน่นอน&lt;/p&gt;
-
-&lt;h3 id=&quot;เตรียมตัว&quot;&gt;เตรียมตัว&lt;/h3&gt;
-&lt;p&gt;แอบไปดูกราฟความชันของสนามนี้มาก่อนมาเป็น Pacer และหลังจากที่เห็นความชันแล้วแอบมีอุทานเบาๆ ในใจ จะผ่านช่วงสุดท้ายไปได้เยี่ยงไรในเมื่อน้องเขาวิ่งมาเกือบร้อยโล ทีนี้เลยวางแผนให้น้องนีโม่เตรียมเจลอัดใส่กระเป๋าให้เต็มที่แล้วดรอปเอาไว้ที่ A9 เลยเพราะต้องพลังหมดแน่หลังจากลงดอยปุยมา&lt;/p&gt;
-
-&lt;p&gt;ที่จริงไม่ค่อยกังวลเท่าไหร่ก็น้องนีโม่เพราะเป็นขาแรงอยู่แล้วมีแอบคำนวณเวลาไว้เรียบร้อย 5555 (เอามาตรฐานตัวเองไปวัดเขาอีก) ที่จริงเคยโค๊ชให้นีโม่อยู่ช่วงนึงแต่พอย้ายมาทำงานที่เชียงใหม่ก็เวลาไม่ค่อยมีเลยต้องซ้อมกันไปตามีตามเกิด 555 ผมไม่ได้เตรียมอะไรเยอะมีแต่ของกินขนม เอาใส่ไว้กันนีโม่ลืมหรือพลาด แต่ส่วนใหญ่น้องเขาน่าจะเตรียมไว้แล้ว รอโทรศัพท์อย่างเดียวถ้าต้องการอะไรเพิ่ม&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15109573_1812437062371982_6290785666666636711_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;pacer-พร้อม&quot;&gt;Pacer พร้อม!!!&lt;/h3&gt;
-&lt;p&gt;นักวิ่ง 100km ปล่อยตัวไปแล้วคาดว่านะจะประมาณหกโมงเช้า ส่วน Pacer ตื่นประมาณ 7.30 ฮ่าฮ่า ประมาณการเอาไว้ว่าจะไปถึงที่สวนพฤกษศาสตร์ประมาณ 11.30 น. เพื่อไปรอรถรับส่งไปที่ A7 คำนวณเอาไว้แล้วว่านีโม่คงมาถึงประมาณ 2-2.30 น. ช่วงนี้ก็ยังดู Live เป็นระยะแต่ก็ไม่ได้ช่วยอะไร เพราะดูยังไงเวลาก็ไม่ขึ้น เอาเป็นว่าเดาเอาละกัน&lt;/p&gt;
-
-&lt;p&gt;ถึงสวนพฤษศาสตร์ประมาณ 11 โมงกว่านิดๆ แล้วก็ไปคุยกับ Pacer ท่านอื่นๆด้วยก็ได้เจอนักวิ่งมากมายหลากหลายที่ ถึงเวลารถออกไป A7 แล้ววววแอบเห็นเพซเซอร์ที่ดู Live กันบอกว่าส่วนใหญ่เข้ามา A4-A5 กันแล้วนะ เราก็ใจชื้นเดี๋ยวนีโม่ก็มาาาา&lt;/p&gt;
-
-&lt;h3 id=&quot;a7-pacers-station&quot;&gt;A7 Pacer’s Station&lt;/h3&gt;
-&lt;p&gt;จุด A7 จุดนี้เป็นจุดที่ Pacer ของนักวิ่งแต่ละคนจะสามารถเข้าร่วมวิ่งด้วยประมาณกิโลเมตรที่ 57 นักวิ่งหลายๆคนเมื่อมาถึงจุดนี้จะตาลุกวาวมีกำลังใจวิ่งขึ้นมาอีกครั้งเพราะจะมีเพื่อนวิ่งด้วย มีเพื่อนลาก ลากเพื่อน จะยังไงก็แล้วแต่จะไม่ได้วิ่งเดียวดายในค่ำคืนแห่ง Supermoon แน่นอน ณ จุดนี้มีกะเพราไก่บริการรับรองใครวิ่งเข้ามากินตื่นแน่นอน ขนาดผมแอบกินไปหนึ่งจานยังตื่นระเบิดเถิดเทิง&lt;/p&gt;
-
-&lt;p&gt;อย่างที่ผมบอกรายละเอียดที่ซ่อนอยู่ในงานโป่งแยง ทุกคนสัมผัสได้เสมอ Station นี้ผู้หญิงชาวเขามาเป็นผู้บริการให้นักวิ่ง พวกให้เกียรติโดยการแต่งชุดเต็มยศของชนเผ่าคอยบริการน้ำดื่ม น้ำโค๊ก คอยช่วยรินน้ำให้นักวิ่งด้วยรอยยิ้มที่สดใส ผู้ใหญ่บ้านที่มาดูแลความเรียบร้อยพร้อมให้บริการหากขาดเหลือสิ่งไหน นักวิ่งหลายๆ ท่านคงได้ลิ้มรสชาร้อนๆ ต้มเองรสชาติไม่ขม ไม่ฝาดเกินไป ชาหอมๆ นั่งจิบชาตรงนี้แทบจะอยาก DNF 555&lt;/p&gt;
-
-&lt;p&gt;พี่รัช(รัชชี่) วิ่งเข้ามาเป็นคนแรกช่วงเวลาประมาณ 12.00น ทิ้งห่างที่ 2 พี่สัญญา ประมาณ 20 นาที ตามด้วยแฮรี่ หลังจากนั้นประมาณ 10 นาที ตอนนี้นักวิ่งหัวแถวเริ่มทยอยกับเข้ามาที่ A7 กันแล้วแต่ยังไม่ Pacer คนไหนออกจากจุด A7 ไปสักคนเลยยยย&lt;/p&gt;
-
-&lt;p&gt;เวลาล่วงเลยไปนีโม่ยังไม่มาเลยไปเดินเที่ยวกับ Pacer ท่านอื่นๆ ที่โรงเรียนของพ่อหลวงไปดูต้นไม้ที่พ่อทรงปลูกทั้งสองต้นเป้นเวลากว่า 50ปีมาแล้ว เดินกลับมาสวนทางกับนักวิ่งเป็นระยะๆ นีโม่ก็ยังไม่มาดูเวลาตอนนี้ก็บ่ายสามละ เริ่มคิดว่านีโม่น่าจะอัดช่วงแรกไปเยอะเพราะเปิดดู Live ช่วง A1-A3 นี่นำมาเลย น่าจะหมดแรงหรือไม่ก็คงเจอความชัน หยิบกระดาษความชันมาดูรัวๆ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15068512_1812430289039326_453445029746118642_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;นักวิ่งเริ่มเข้ามาเยอะขึ้นเรายังนั่งชิวกินไปเรื่อยๆ ดร.จุ่ง เข้ามาพอดีก็มีโอกาสได้นั่งคุยแลกเปลี่ยนความคิดเห็นเรื่องวิ่งกันไป เรื่อยๆ พร้อมกับนักวิ่งที่เริ่มเข้ามาเป็นระยะๆ Pacer บางท่านได้เริ่มงานแล้ว เริ่มวิ่งออกไปทีละคน และแล้วในที่สุด ในที่สุด ในที่สุด นีโม่ก็มาาาาาาาา ภารกิจ Pacer ลากนีโม่ไปให้ถึงเส้นชัยกำลังจะเริ่มขึ้น ณ บัดนี้แล้วววว&lt;/p&gt;
-
-&lt;h3 id=&quot;เข้าสู่ช่วง-supermoon&quot;&gt;เข้าสู่ช่วง Supermoon!&lt;/h3&gt;
-&lt;p&gt;ใน A7 พักหายเหนื่อยกินข้าวให้ตื่นก็เริ่มไปกันต่อช่วงนั้นก็เวลาประมาณสัก 17.15 น. อากาศกำลังดี แสงจากท้องฟ้าเริ่มเหลือน้อยลงไปทุกที ตอนนี้นักวิ่งของเรายังมีความดีดเพราะพึ่งออกจาก A7 หลังจากได้พักไปช่วงหนึ่ง หรืออาจจะเป็นเพราะดีใจที่ได้เจอ Pacer ฮ่าาาาา “ตรงนี้ทางราบเราวิ่งกันไหม” จากน้ำเสียงแสดงว่ายังใจสู้ถ้าเป็นแบบนี้น่าจะไต่อันดับขึ้นไปได้อยู่&lt;/p&gt;
-
-&lt;p&gt;สักพักทุกอย่างก็กลายเป็นว่า “เดินเถอะนะ ตึงน่องและขาไปหมด” แววตาและเริ่มท้อถอยและท้องฟ้าก็กำลังมืด ทุกตอนนี้กลุ่มที่ออกจาก A7 เริ่มตามมาติดๆ ทั้งการ์ตูน เป้า หรือคนอื่นๆ (แอบไม่รู้จักชื่อ ฮาาา) เริ่มมาทักทายอ้าวนีโม่สู้ๆ แล้วทุกคนก็จรหายไปในแสงสุดท้าย หันมองนีโม่ก็กำลังจ้ำโพลแบบรวดเร็วพยายามจะเร่งสปีด แต่ดูแล้วคงไม่ไหว คิดในใจเราต้องเปลี่ยนแผน!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15110997_1812440985704923_1513445480067884076_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;หลายครั้งที่ฉันตั้งใจทำอะไรบางอย่างแบบจริงจัง พอถึง ณ จุดจุดหนึ่ง ตัวฉันจะตั้งคำถามขึ้นมา&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“ขอเดินแบบนี้ทั้งคืนได้ไหม ไม่ไหวแล้ว”&lt;/p&gt;
+  &lt;p&gt;“ทำแบบนี้ไปเพื่ออะไร”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;ทีนี้แผนที่คิดไว้ก็ล่มไป หยิบไฟมาติดหัว “มันจะขึ้นแบบนี้ไปเรื่อยจนถึง A8 เลยนะ” สีหน้าและแววตาเริ่มไม่ค่อยดี “เราเวียนหัว อยากอ๊วกมาก” อาการนี้เริ่มรู้ว่าร่างกายนีโม่ขาดสมดุลของน้ำตาลกะเกลือ (พูดอย่างกะเป็นหมอ 555) ค้นในกระเป๋า Salt Stick ไปหนึ่งเม็ดรวมกับให้อินผาลัม ให้ฝืนกินเข้าไป&lt;/p&gt;
+&lt;p&gt;ทำให้ฉันต้องหยุดคิดเพื่อหาคำตอบสำหรับคำถามนั้น ระหว่างที่หาคำตอบก็มักจะไปเจอคำถามต่อไปเรื่อยๆ จนทำให้ฉันเบื่อหน่าย กับสิ่งที่กำลังทำอยู่&lt;/p&gt;
 
-&lt;p&gt;ตอนนี้มืดสนิทคงจะเหลือแต่แสงสลัวๆ จาก Supermoon และไฟที่หัวของนักวิ่งเท่านั้น นีโม่เป็นนักวิ่งที่ดีอย่างหนึ่งถึงแม้จะมีอาการล้า เหนื่อย แต่จะไม่ยอมหยุดจะเดินไปเรื่อยๆ เอ๊ะหรือว่าน้องเขาอยากหยุดแต่เราไม่ยอมหยุด 555 เริ่มล้วงกระเป๋าเอาโพยมาดูว่าเหลืออีกเท่าไหร่จะถึง A8 ห๊ะ นี่พึ่งออกจาก A7 มา 4 km???&lt;/p&gt;
+&lt;p&gt;ช่วงสองสามเดือนที่ผ่านมา ฉันมีคำถามกับตัวเองอีกครั้ง “ฉันมีชีวิตอยู่เพื่ออะไร” ฟังดูน่ากลัวนะ มันทำให้ฉันกำลังเบื่อทุกสิ่งรอบตัวฉัน ความผิดหวังที่ฉันได้รับจากทุกสิ่งที่ฝังอยู่ในหัวใจมานานแสนนาน ที่ตัวฉันสะสมเอาไว้ มันลอยออกมาให้ฉันได้คิด และทบทวน และมาคอยย้ำซ้ำเติมตัวฉันอยู่เรื่อยๆ จนตัวฉันเอง ไม่อยากตื่น ไม่อยากรับรู้ และไม่อยากหายใจ…&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59-59a591623fd5d3841c4ba425/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-59a591623fd5d3841c4ba425/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>MentalProblem</category>
+        
+      </item>
+    
+      <item>
+        <title>การแก้ปัญหาคืออาชีพ</title>
+        <description>&lt;p&gt;เมื่อวานครับ.. ครับ!!! มีโอกาสไปเดินเล่นห้างสรรพสินค้าใกล้บ้านดูของอะไรไปเรื่อยเปื่อย ประกอบกับหาที่คุยงานกับลูกค้าแบบสบายๆ วันนี้คนเยอะพอสมควรอาจจะเป็นเพราะวันนี้มีคอนเสริตขอวงนักร้องชื่อดังด้วยเลยทำให้ที่แห่งนี้เต็มไปด้วยผู้คน
+ในระหว่างที่เดินแหวกฝูงชนไปเรื่อยๆ นั้น พนักงานขายของร้านโทรศัพท์ร้านหนึ่งได้ทักทายพร้อมยกมือไหว้&lt;/p&gt;
 
-&lt;h3 id=&quot;เข้าป่ารกกลางคืน&quot;&gt;เข้าป่ารกกลางคืน&lt;/h3&gt;
-&lt;p&gt;อีกหนึ่งเหตุผลที่ควรมี Pacer คือการวิ่งในป่าในสภาพที่ร่างกายไม่ค่อยตอบสนองกับสิ่งที่ควรจะเป็น ตอนนี้ทางตัดเข้าในป่าทึบ ค่อนข้างจะรกพอสมควร ตรงนี้จะเป็นทางตัดขึ้นเขาตลอดก่อนจะไปเจอ A8 นีโม่เริ่มถามถึงระยะพร้อมกับเริ่มบ่นออกมาว่าจะไม่ไหวแล้วง่วงมาก ผมเปลี่ยนแผนเป็นให้นีโม่เดินข้างหน้า เดินช้าๆ ถ้ามีแรงให้ใช้ Power Walk แต่ดูเหมือนจะไม่ได้ผลเพราะน้องยิ่งง่วงกว่าเดิม เอาใหม่เราไปข้างแล้วพยายามเดินหนี อันนี้ได้ผลน่าจะเป็นเพราะความกลัวเพราะข้างหลังคือป่ารก ข้างหน้าก็เช่นกัน ยิ่งเดินเร็วเท่าไหร่ นีโม่ก็ตามมาเร็วเท่านั้น และดูเหมือน Pole จะเป็นอะไรที่เกะกะ เพราะบางช่วงของทางมีหินลื่น เลยเอามาถือไว้ไม่ให้นีโมใช้&lt;/p&gt;
+&lt;p&gt;เด็ก : “สวัสดีครับอาจารย์”
+ผม : “อ้าวนึกว่าใคร สวัสดีครับ เป็นยังไงบ้างสบายดีไหม”&lt;/p&gt;
 
-&lt;p&gt;ถึงแม้แผนจะเดินหนี แล้วให้นีโม่เดินตามจะได้ผลแต่ก็ต้องคำนวณแรงของน้องเขาใหม่เพราะจาก A8 ไป A9 ไม่ใช่เรื่องง่ายเลย จอนนี้เริ่มเห็นแสงไฟของนักวิ่งบนยอดดอยปุย “นี่เราต้องขึ้นไปบนนั้นเลยเหรอเนี่ย ไม่ขึ้นไปแล้วได้ไหม” ช่วงเวลานี้ต้องให้กำลังใจสุดๆ เพราะน้องทั้งง่วง ทั้งเหนื่อย และไม่อยากจะวิ่งต่อแล้ว&lt;/p&gt;
+&lt;p&gt;เด็กคนนี้ไม่ใช่คนไทยนะ มาจากประเทศเพื่อนบ้าน แต่เขาเป็นเด็กเรียนเก่งมาก ที่หนึ่งของห้อง ผมเคยพาไปแข่งจนได้รางวัลถ้วยพระราชทานของสมเด็จพระเทพฯ มาแล้ว ในใจก็คิดว่า ทำไมเด็กคนนี้ต้องมายืนที่นี่? หรือว่ายังเรียนไม่จบ หรือหางานทำระหว่างเรียน&lt;/p&gt;
 
-&lt;p&gt;ไต่ขึ้นไปบนเนินหน้านีโม่ตอนนี้รู้ทันทีว่าเหนื่อยและง่วงมาก เข้ามาสู่ A8 จนได้เห็นแสงไฟแล้ว เห็น A8 แล้วตอนนี้ให้นีโม่นอนและคุยกันว่าจะนอน 20นาที นักวิ่งเริ่มทยอยเข้ามาใน A8 เรื่อยๆ ทั้งเหลียง พี่มด พี่แฮรี่ พี่เค๊ก และคนอื่นๆ ก็นั่งทักทายกันคุยกันไปที่สดชื่นก็คงจะมีแต่เพซเซอร์ กินสาหร่าย เกลือแร่ ส่วนนีโม่สลบไปตอนไหนไม่รู้&lt;/p&gt;
+&lt;p&gt;ผม : “ทำไมเธอมาทำงานที่นี่ เรียนจบหรือยัง?”
+เด็ก : “จบแล้วครับ แล้วก็ไม่เรียนต่อละ มาทำงานที่นี่ครับ”
+ผม : “อ้าว แล้วเธอไม่อยากเป็นโปรแกรมเมอร์แล้วเหรอ? ทำไมมาทำงานแบบนี้?”
+เด็ก : “ผมคิดหัวผมไม่ไปทางนั้นครับ ออกมาทำงานแบบนี้ดีกว่าครับ”
+ผม : ยังงงๆ กับคำพูดเด็ก แล้วก็ต้องรีบเพราะนั้นลูกค้าเอาไว้ “งั้นผมไปก่อนนะ โชคดี สู้ๆ นะครับ”
+ผมมานั่งคิดถึงเหตุการณ์เมื่อวาน ทำไมเด็กคนนั้นไม่ไปเรียนต่อ ที่แน่ๆ คือไม่มีเงินอันนี้เข้าใจ เพราะเขาเป็นจน และมาจากประเทศเพื่อนบ้าน แต่สิ่งที่ผมแปลกใจคือ เด็กคนนี้เก่งทั้งด้าน Logic และเขียนโปรแกรมแต่ทำไมเล่า เขากลับเลือกที่จะทำงานตรงนี้?&lt;/p&gt;
 
-&lt;h3 id=&quot;ยอดดอยปุยที่ไม่เหมือนเดิม&quot;&gt;ยอดดอยปุยที่ไม่เหมือนเดิม&lt;/h3&gt;
-&lt;p&gt;“นีโม่ ตื่นๆ จะไปกันแล้ว” งัวเงียขึ้นมาพร้อมยื่นเจลให้หนึ่งซองและ Salt Stick อีกหนึ่งเม็ด “เราออกไปพร้อมกันเกาะกลุ่มกันไปดีกว่า” จากนั้นก็บส่งพาสปอร์ตให้ทางชุดผู้ดูแล A8 ประทับตราขาออก เกาะกลุ่มกันไปหกคนมี พี่มด เหลียง พี่แฮรี่ และพี่เค๊ก “ต่อไปเราจะขึ้นอย่างเดียวละนะ” ตอนนี้นักวิ่งได้พักถามอาการก่อน นีโม่บอกดีขึ้นเพราะได้นอนงั้นแสดงว่าช่วงขึ้นดอยปุยไม่น่ามีปัญหาอะไร ค่อยไปพักที่ A9 อีกทีเลยแล้วกัน&lt;/p&gt;
+&lt;p&gt;ผมนั่งคิดย้อนกลับไป 3 ปีก่อนที่ผมเป็นครู ซึ่งสอนเขาอยู่ เขาคือเด็กที่เรียนเก่ง ทำงานได้เร็ว ไปแข่งก็ชนะหลายรอบ คิดย้อนกลับไปมา ก็เข้าใจว่าตอนผมสอนเด็กรุ่นนี้อยู่นั้นเด็กที่เก่ง พอเจอปัญหาถอยทุกราย  แต่ให้ทำเองจะทำได้ พอเกิดปัญหาพวกเขาจะทิ้งทันที&lt;/p&gt;
 
-&lt;p&gt;ไต่ดอยขึ้นไปเรื่อยๆ พี่มดนำไปก่อนเราจึงตามไปสมทบคุยเล่นกันไปมาจนลืมว่าเรามีนักวิ่งลดความเร็วลงมาวิ่งคู่กับนีโม่อีกครั้ง ตอนนี้ทุกคนยังเดินกันต่อไปเรื่อยๆ ครั้งนี้มีเพื่อนคุยเยอะขึ้น น่าจะบรรเทาความง่วงไปได้เยอะ อากาศเริ่มเย็นเริ่มคิดถึงเสื้อกันหนาว เพราะเสื้อกันลมตอนนี้เอาไม่อยู่แล้ว&lt;/p&gt;
-
-&lt;p&gt;นักวิ่งหลายคนเริ่มสวนทางลงมาหนึ่งในนั้นก็มีหมอพลอยแต่ดาวฮิลล์ลงมาอย่างรวดเร็ว ฝั่งนักวิ่งเรามองปริบๆ แล้วจ้ำอ้าวขึ้นไปกันต่อ ถึงหมู่บ้านขุนช่างเคี่ยนแล้วต่อไปก็คือขึ้นสู่ยอดดอยปุย ครั้งแรกที่ต้องขึ้นดอยปุยกลางดึกแบบนี้และเรารู้ดีว่ามันไม่ง่าย!! พี่มดกับเหลียงขึ้นไปก่อน ตอนนี้พยายามลากนีโม่ขึ้น ส่วนพี่เค๊กกับพี่แฮรี่หายไปแล้ว ตามๆ ขึ้นไปติดๆกับเหลียงพี่มดเริ่มไม่ตอบสนอง เริ่มเงียบแล้วก็เดินไปเรื่อยๆ แบบไม่มีสัญญานตอบรับ ทางขึ้นชันๆ ที่เราคุ้นเคย ซึ่งทุกคนรู้ดียกเว้นเหลียงกับพี่มด&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15129557_1812408439041511_2935425510647583170_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ด้วยความมืด ด้วยความเย็น ด้านซ้ายคือเมืองเชียงใหม่มีแสงไฟสวยงามเช่นเดียวกับด้านขวาฝั่งแม่ริม แม่แตง ลมช่วงนี้แรงอากาศเย็นขึ้นตอนนี้ต้องขอบคุณผ้าบัพของทีมงานปิดหน้า ปิดหัวเหลือแต่ลูกตาละตอนนี้ นีโม่ยังมีแรงตะกายขึ้นเพราะพึ่งจากพักมาจาก A8 ส่วนเหลียงก็ยังโอเคแต่ที่ไม่โอเคคือพี่มดดดดดด&lt;/p&gt;
-
-&lt;p&gt;ตอนนี้เหลียงถามว่าอีกไกลไหม เราก็บอกครึ่งละ 5555 พี่มดกับเหลียงถ้าจะคิดในใจกูไม่น่าถามเลยยยย ที่บอกตามความจริงเพราะทุกคนได้คำนวณแรงตัวเองถูก “พี่ไม่ไหวละเวียนหัว พี่ขอกลับก่อนนะเหลียง” ห๊ะ สตั๊นกันไป 10 วิ เอ่อพี่มดจะ DNF ตัวเองครับบบบ ตอนนี้นักวิ่งขวัญหนีดีฝ่อ Pacer DNF!!! ตาเรามั่งก็แอบบอกนีโม่ พี่ว่าจะกลับพร้อมพี่มดอ่ะนะ ง่วงนอนมาก นีโม่ทำหน้าไปไม่เป็นอย่าทิ้งเราาาาาาา ตอนนี้พี่มดจ้ำอ้าวขึ้นไปละครับนักวิ่งโดนลากขึ้นไปเรื่อยๆ คิดว่าใจพี่มดน่าจะคิดถึงเตียงอุ่นๆ ละ ฮาาาา&lt;/p&gt;
-
-&lt;p&gt;ถึงยอดดอยปุยเหลียงกับพี่มดดาวน์ฮิลลงไป นีโม่มีปัญหาเรื่องไฟเช่นเดียวกับเรา ตอนนี้มองไปข้างหน้าไม่ชัดลมแรงมาก แรงอากาศเย็นอาการตอนนี้คือเจ็บคอเป็นอย่างมาก รู้สึกได้เลยว่าไม่สบายแน่นอน ดอยปุยโหดร้ายเหลือเกินบรรยากาศน่ากลัวมาก ลมพัดเอาหมอกปลิวมากระทบแว่นจนมัวไปหมด ตอนนี้ต้องค่อยๆ ลองเช็คสภาพนีโม่ตอนนี้คือน้องกลัวทางลื่น มองไม่เห็นข้างหน้าที่อีกอาการคือ ง่วง!!!! หน้าตาเริ่มไม่รับแขกรู้สึกเหมือนนีโม่จะเปิด Auto Pilot งั้นเอานี่ไปอินทผาลัม กัดไปหนึ่งทีไม่ไหว ตาจะปิดละ ดึงโพลมาเก็บไว้แล้วชวนนีโม่วิ่ง เราหนีออกไปจากที่นี่กันเถอะ แล้วก็กระตุ้นให้นีโม่วิ่งลงแบบเบาๆ เพื่อบรรเทาอาการง่วงนอน แล้วก็ได้ผลซะด้วย วิ่งลงไปจนเจอเหลียงกับพี่มดก็หยุดเดินด้วยกัน&lt;/p&gt;
-
-&lt;p&gt;ชอบบรรยากาศตอนนั้นมาก เหมือนในเกมส์ Silen Hill, Resident Evel หรือ BioHazard ไม่มีผิดหมดเยอะจนไม่รู้ว่าข้างหน้ามีอะไร จะเจอกับอะไรอีกทำได้อย่างเดียวคือวิ่งหนีเอาตัวรอด ข้างหลังคือหมอก ข้างหน้าไม่รู้ ด้านข้างคือป่า คือดีอ่ะ ตื่นเต้นดี และในที่สุดพวกเราก็เข้าสู่ A9 จนได้&lt;/p&gt;
-
-&lt;h3 id=&quot;ช่วงระทึก-ตื่นเต้น-มีทุกอารมณ์&quot;&gt;ช่วงระทึก ตื่นเต้น มีทุกอารมณ์&lt;/h3&gt;
-&lt;p&gt;เข้ามา A9 ต้องขอบคุณพี่ก้อย จัดเตรียมทุกอย่างไว้ให้ ข้าวต้มหมด ไปต้มมาให้ทานซึ้งและดีใจมากข้าวต้มธรรมดาหนึ่งหม้อเล็กๆ ที่ไม่น่าจะพอสำหรับสามคน แต่อิ่มอย่างบอกไม่ถูกเลยครับ พักทานข้าวต้ม จุดนี้จะมีพี่มน ภูมิ สุดยอดทีมซัพพอร์ทที่ฝ่ามาทุกสถาณการณ์ จากจุดนี้เรามีไอเทมคือเจล เอาเสื้อที่เตรียมไว้ออกมาใส่เพิ่มอีกตัว และคิดว่าตัวเองคงไม่ไหวแน่ถ้าอากาศหนาวแบบนี้ และต้องขอบคุณพี่มดอีกครั้งสำหรับเสื้อกันหนาว เพราะพี่มดได้ทำพิธี DNF ตัวเองเรียบร้อยแล้ว&lt;/p&gt;
-
-&lt;p&gt;เตรียมของ เตรียมไอเทม วางแผนว่าจะนอน 15 นาทีจะออกตรงนี้ตีหน่ึง ปัญหาเกิดเพราะนอนไม่หลับ ไม่รู้เกิดอะไรขึ้น เก็บของเราออกจาก A9 กันดีกว่าเพราะไม่มีประโยชน์ถ้าเราจะอยู่แบบไม่หลับ บอกลาทีม Support ออกไปลุยต่อ และเหลียงต้องวิ่งคนเดียวเสียแล้วววว ตอนนี้หลายๆ คนออกจาก A9 กันละ&lt;/p&gt;
-
-&lt;p&gt;จาก A9 ไปจนถึง A10 จะเป็นทางลงจากขุนช่างเคี่ยนไปยังสวนยูคาลิปตัส ระยะทางประมาณ 9.20km เราอุ่นใจเพราะเป็นทางลงอย่างเดียวคำนวณ Pace ไว้แต่กังวลอย่างเดียวคือนีโม่จะง่วง ออกจาก A9 เกาะกลุ่มกันไป 4 คนมีพี่นุ๊กกับเหลียงเดินคุยกันไปข้างหน้า ส่วนเราหาวิธีจัดการไม่ให้นีโม่ง่วง เพราะตอนนี้พึ่งออกมาได้แค่ 1km แต่ดูเหมือนจะเปิดโหมด Auto Pilot อีกแล้ว ตอนนี้คงไม่ไหวแล้วเพราะนีโม่เป็น Auto Pilot  ไปเรียบร้อยปล่อยให้เหลียงกับพี่นุ๊กไปก่อน ทางวังเวงมาก จนเราต้องหันหลังเป็นระยะ ที่วังเวงก็เพราะเสียงนี่แหละ ไม่รู้เป็นเสียงอะไรแต่เราคิดไว้ก่อนว่ามันคือเสียงนก!!!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15129598_1812449212370767_6434070410387390925_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ไม่มีเวลาคิดถึงเรื่องอื่นใด ตอนนี้จะทำยังไงนีโม่ตอนนี้ไม่มีตอบทางลงเริ่มสะดุด ปล่อยไปแบบนี้มีตกดอยแน่ คำนวณสถานการณ์ Auto Polot แต่ยังไปข้างหน้าได้ ดึงโพลมาจากมือนีโม่เอาคล้องเข้าไปแล้วลากเลย กันตกดอยไว้ก่อน เราก็มองที่ตานีโม่เป็นพักๆ ปิดสนิทเมื่อไหร่มีตบ ฮ่าาาาา ลงไปเรื่อยๆ ด้วยโหมด Auto แล้วก็ต้องสะดุดสะดุ้งตื่นเพราะไปเตะโดนก้อนหิน เห็นนีโม่ตื่นโอเค ล้างหน้าก่อน วางแผนใหม่ ให้นีโม่กัดเจลไปหนึ่งซอง เราวิ่งกันนะโอเค? ไปเลย&lt;/p&gt;
-
-&lt;p&gt;วิ่งลงประมาณเพจ 6-7 แบบนี้ได้ผลนีโม่ตื่นขึ้นมาไม่ง่วง วิ่งได้เรื่อยๆ ผ่านทางแยกดอยปุยตอนนี้จะลงไปสู่ A10 ละ วิ่งแซงเหลียงกับพี่นุ๊กได้ยินเสียงกรี๊ด เรากับนีโม่หยุดให้ไปถามเป็นอะไรไหม? พี่นุ๊กตอบกลับมาว่าไม่ใช่เสียงพี่ อ้าววววว? มองหน้านีโม่เราไปต่อ จากนั้นก็ปลิวลงมาเลยทีเดียว&lt;/p&gt;
-
-&lt;p&gt;ตอนนี้ทำเวลาได้ดีมากในช่วงนี้ นีโม่เริ่มหนื่อย ตอนนี้ต้องเปลี่ยนแผนใหม่ วิ่ง 300เมตร แล้วเราจะไปช้าๆ แล้วค่อยวิ่งต่อ Interval กันเลยทีเดียว ทางเริ่มลงไปเรื่อยๆ แต่ยังไม่ยักจะเจอ A10 ทางเริ่มเป็นคนกรีตและเริ่มลื่น ตอนนี้นีโม่ไม่เอาด้วยแล้ว เพราะกลัวลื่นบางจุดค่อยๆ เดินลงเพราะเป็นตระใคร่น้ำ ลื่นมาก ไม่มีวิ่งแล้วววว นีโม่เริ่มง่วงอีกครั้ง และเราก็มาถึง A10 จนได้&lt;/p&gt;
-
-&lt;h3 id=&quot;เนินหรรษา&quot;&gt;เนินหรรษา&lt;/h3&gt;
-&lt;p&gt;เข้าสู่ A10 ให้การต้องรับโดย ปรินส์แห่ง DoctorSport และแจ็คกี้พร้อมกาแฟหอมๆ นีโม่โดนเรียกให้ไปเขียนเลข BIB ตัวเอง ตอนนี้ยังก็ต้องให้นอนกัน Auto Pilot ทำงาน ล้มตัวนอนพร้อมนักวิ่งท่านอื่น แต่เรานอนไม่หลับเลย คุยกับนีโม่เราจะนอน 20 นาทีแล้วเราจะไปต่อ แต่เรานอนไม่หลับอีกแล้ว กดโทรศัพท์เล่นจนครบ 20นาทีปลุกนีโม่ตื่น นีโม่ไปเสพกาแฟ เราจัดแจงของเตรียมออกจาก A10 จากนี้ตรงสู่ W2 แต่ แต่ แต่ ดูกราฟแล้ว ใจอ่อนในทันที แต่ใจชื้นขึ้นมาหน่อยตรงที่ว่าอีกแค่ 15km เองจะถึงเส้นชัยแล้ววววว&lt;/p&gt;
-
-&lt;p&gt;ออกจาก A10 ช่วงนี้เป็นทางลงยาวๆ มาเรื่อยๆ ยังไม่มีปัญหาอะไรค่อยๆ เดินไปเพราะเป็นหินมาจนกระทั่งถึงลำธารที่ยังไงต้องลงน้ำ มีนักวิ่งหลายท่านพักผ่อนตรงนี้กับน้ำเย็นๆ พอจะช่วยให้ไม่ง่วงได้บ้าง เหลียงยังล้างเท้าพักผ่อนอยู่ตรงนั้นสักพักก็ออกไป เราก็นีโม่ถอดรองเท้าถุงเท้าลุยน้ำไปเลย พักสักแป๊บใส่ถุงเท้ารองเท้าไปกันต่อพร้อมไต่กันหรือยัง&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15025476_1812449139037441_542499994392141609_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;เจอทางขึ้นแบบนี้ Pacer อย่างผมถึงกับออกอาการเลยทีเดียววิธีกำจัดความกดดัน ความเครียดของผมอีกแบบหนึ่งคือการบ่น ขอให้ผมได้บ่นเรื่องอะไรก็บ่นไปจะทำให้ผมสบายใจขึ้น แต่ไม่หยุดนะแค่บ่นเพื่อระบายคลายความกดดันกันไป ตอนนี้นีโม่คงจะใจแป้วไปหมด เพราะตอนนั้นผมบ่นเยอะมากๆ บ่นจนนีโม่ต้องพูดว่า “มาเป็นเพซเซอร์ลำบากเลยอ่ะ” และด้วยการบ่นนี้เองความเกรงใจจึงบังเกิดเราจะไต่ขึ้นไปเรื่อยๆ ไม่มีหยุด พอได้ไปได้ยาวๆ ส่องดูริบบิ้น มันก็ยังอยู่ข้างบนเหมือนเดิม T-T บ่นกันต่อไป&lt;/p&gt;
-
-&lt;p&gt;แผนต่อไปของนีโม่คือนับก้าว พยายามหาอะไรเล่นไม่ให้น่าเบื่อ ทั้งถอยหลังขึ้น ไปจนกระทั่งเปลี่ยนกันนับก้าว เราจะไต่ 50 ก้าวแล้วพักสลับกันไปเรื่อยๆ ตอนนี้งัดทุกกลยุทธเพื่อให้ผ่านตรงนี้ไปให้ได้ ดีใจขึ้นมาแทบกระโดนโลดเต้น เมื่อเห็นไฟของเจ้าหน้าที่ จ้ำขึ้นไปเลยรู้อีกทีนีโม่ยังอยู่ข้างล่าง เจ้าหน้าบอกเก่งมากขึ้นไปอีกประมาณ 1km จะเจอเจ้าหน้าที่อีกชุดแล้วจะเป็นทางลงเข้าสู่สวนพฤษศาสตร์ละ&lt;/p&gt;
-
-&lt;p&gt;แววตาแห่งความหวังลุกโชน นี่เราใกล้จะจบแล้วเหรอเนี่ยอีกนิดเดียวๆ  อยากกลับบ้านแล้วววววว แล้วก็ไต่ไปด้วยความหวังจนบางช่วงนีโม่ต้องบอก พักก่อนได้ไหม 1 กิโลที่โคตรนาน นี่เราโดนหลอก? เริ่มบ่นอีกรอบหลอกกันได้หลอกกันดี บ่นไปไต่ไปจนเจอเจ้าหน้าที่กลุ่มที่สอง ให้นีโม่นั่งพัก ให้กิน Energy Bar ก่อนสักครู่เดี๋ยวจะได้ไต่เนินกันต่อ กัดเจลหนึ่งซอง จากนั้นไปต่อ&lt;/p&gt;
-
-&lt;p&gt;แสงแรกแห่งวันใหม่มาแล้วคิดในใจนี่เราวิ่งกันข้ามวันข้ามคืนเลยเหรอ ช่วงเวลาที่แสนยาวนาน เมื่อไหร่จะจบสักที และแล้วเราก็ผ่านเนินหรรษามาจนได้&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15110958_1814496765499345_4808097319507868447_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;เนินหรรษาภาค 2 แล้วทุกอย่างจะจบลง
-สิ้นเนินหรรษา ถ้าดูในกราฟเราจะลงแล้ววววววว เดินตามถนนไม่ต้องใช้ไฟแล้วแยกลงไปสู่สวนพฤกษศาสตร์ ถามนีโม่ไหนๆ ก็ช่วงสุดท้ายแล้ว มีแรงเหลือไหม? นีโม่ตอบมาแบบไม่คิด “ไม่มี” แดดเริ่มมาหากปล่อยไว้อย่างนี้เจอแดดมีหวังเพลีย ใช้แผนบ่นๆๆๆๆ แล้วก็หลอกนีโม่ “ถ้างั้น Powerwalk” เริ่มเดินเร็วและในที่สุดก็วิ่ง จนนีโม่ต้องวิ่งตาม พลังแห่งเจลมาแล้วช่วงสุดท้ายตัดเข้าคอนกรีต สีหน้านีโม่ตื่นเต้นอย่างเห็นได้ชัด คงเพราะอีกไม่นานเขาจะเป็นผู้หญิงอีกคนที่พิชิตเทรล 100km!!!&lt;/p&gt;
-
-&lt;p&gt;ตอนนี้วิ่งกันลงมาเรื่อยๆ เห้ยๆ อ้อมเส้นชัยแล้วนี่มันทางลงไปทางเข้าสวนฯ เลยนะหรือว่า … ขนาดขับรถขึ้นมายังชันนี่เรายังไม่หมดเวรหมดกรรมกับเนินพวกนี่อีกเหรอเนี่ยยยยยย จากวิ่งอย่างมีความหวังเป็นเดินอย่างหดหู่ 555 เหลียงเดินข้างหน้าเหมือนกับหุ่นยนต์ที่แบตเตอรี่เหลือน้อยลงไปทุกที เหมื่อนโทรศัพท์ Nokia 3310 แบตขีดสุดท้ายแต่กด *3370# แล้วได้แบตเพิ่มอีกขีด&lt;/p&gt;
-
-&lt;p&gt;ปล่อยนีโม่เดินขึ้นเนินเราแอบไปกดดันเหลียงข้างๆ แต่เหลียงคงไม่ไหวละไม่เล่นด้วยฮาาา หันมามองนีโม่อุ๋ยยย ข้างล่างนู่นเลย เลยลงไปเดินด้วยปล่อยให้เหลียงใช่แบตเฮือกสุดท้ายไปก่อน ช่วงนี้หลายๆคนขับรถสวนลงไปกันแล้ว ทุกคนกลับบ้านและตะโกนให้กำลังใจกันเรื่อยๆ อาร์มโนโบกไม้โบกมือพึ่งมารู้ทีหลังว่านอนในรถรอเลยทีเดียว สงสัยตอนนี้ดีใจที่เจ้าสาวปลอดภัยฮาาาาา เสียงพี่หนำประกาศต้อนรับนักวิ่ง 100km พร้อม  Pacer เดินขึ้นบรรไดไปหาพี่หนำ ทันทีที่ก้าวผ่านเส้น&lt;/p&gt;
+&lt;p&gt;ตอนสอนและสอบ ทุกครั้งผมสอนเริ่มจากปัญหา จากนั้นค่อยๆให้เด็กหาวิธีแก้ปัญหา จนได้ผลลัพธ์ ผมบอกพวกเขาอยู่เสมอว่า&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“ภารกิจของผมได้สิ้นสุดลงแล้ว”&lt;/p&gt;
+  &lt;p&gt;“โปรแกรมเมอร์ คืออาชีพที่ต้องแก้ปัญหา เราจะอยู่กับปัญหาตลอดเวลา และปฏิเสธปัญหาเหล่านั้นไม่ได้ มีทางเดียวคือสู้กับมัน”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15068517_1812122852403403_79306162891951679_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;บทสรุปแห่งภารกิจ&quot;&gt;บทสรุปแห่งภารกิจ&lt;/h3&gt;
-&lt;p&gt;ขอบคุณผู้จัด PongYang Trail กับการทุ่มเทของทีมงาน เส้นทางที่ใส่ใจต่อนักวิ่ง เก็บทุกรายละเอียดจริงๆ ชาวบ้านที่เป็นมิตรกับนักวิ่งทุกคน คอยช่วยเหลือถามไถ่ตลอดเวลา มิตรภาพที่ได้จากสนามนี้แม้จะเป็นแค่ Pacer แต่ก็ได้อะไรเยอะแยะมากมาย ขอบคุณน้องนีโม่ไม่รู้ว่าคิดถูกไหมที่ให้มาเป็น Pacer&lt;/p&gt;
-
-&lt;p&gt;Pacer ทำเท่าที่ทำได้ตั้งใจไว้ว่าจะไปส่งนีโม่จนจบให้เป็น 100km Finisher ถึงแม้จะไปเหมือนที่คาดไว้ 5555 แต่ก็ภารกิจสำเร็จไปด้วยดี ไม่รู้จะขอบคุณอะไรใครอีกแล้วเยอะแยะมากมาย เอาเป็นว่าขอบคุณสำหรับงานดีๆ งานนี้โป่งแยงเทรลตามรอยเท้าพ่อ&lt;/p&gt;
-
-&lt;p&gt;ปีหน้าจะเป็นนักวิ่งบ้างงงง หา Pacer ด่วนนนนน&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15037126_10207348653185125_5190735799291722485_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ขอบคุณภาพสวยๆ จาก https://www.facebook.com/PYT.run/ นะครับ&lt;/p&gt;
+&lt;p&gt;ผมจะทำให้เด็กคนนั้นกลับมาทำในสิ่งที่เขาถนัด และเก่ง แต่ถ้าเขาไม่รัก และไม่ชอบผมจะไม่บังคับเขาอีก.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Nov 2016 00:00:00 +0700</pubDate>
-        <link>/pacer-pong-yang-trail/</link>
-        <guid isPermaLink="true">/pacer-pong-yang-trail/</guid>
+        <pubDate>Sat, 02 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59a37934af8c08765332c0d0/</link>
+        <guid isPermaLink="true">http://localhost:4000/59a37934af8c08765332c0d0/</guid>
         
         <category>France</category>
         
         
-        <category>Running</category>
+        <category>MyLife</category>
         
       </item>
     
       <item>
-        <title>Altra Lone Peak 3.0</title>
-        <description>&lt;p&gt;รองเท้าเทรล ยังถือว่าเป็นอุปกรณ์อีกชิ้นที่สำคัญมาก เพราะคุณจะวิ่งจบหรือไม่ก็ขึ้นอยู่กับรองเท้าเป็นองค์ประกอบหลักด้วยนะ หากรองเท้าไม่ได้ ซ้อมให้ดีแค่ไหนก็ไม่ผ่านนะครับ ตัวอย่างที่เห็นได้ชัดคือผมนั่นเอง โดยเฉพาะงานวิ่งเทรลที่ผ่านมาเมื่อเดือนมิถุนายนกับงาน Columbia Trail Master และงาน เขาประทับช้างเทรล ซึ่งทำให้ผมเสียดายเวลาที่ทำไปเป็นอย่างมาก&lt;/p&gt;
+        <title>สุขไม่สุด ทุกข์ไม่สุด และไม่พอดี</title>
+        <description>&lt;p&gt;ชีวิตมีทั้งทุกข์ และสุขปนเปกันไป ผมกำลังพูดถึงความรู้สึกทางใจ สุขก็คือความสุขใจ ทุกข์คือความทุกข์ใจ แต่กายสบายดี&lt;/p&gt;
 
-&lt;p&gt;เลือกรองเท้าผิด ชีวิตเปลี่ยนเพราะรองเท้าคือส่วนกำหนดการวิ่งของเราเอง รองเท้าเทรลคู่แรกของตัวผมคือ Salomon SpeedCross 3 หลายคนให้ความเห็นว่าเป็นหนึ่งในรองเท้าเทรลที่ดีคู่หนึ่ง และตอนนั้นผมเองก็ไปจัดมาเพราะรีวิวของฝรั่ง ที่จริงเราควรจะตัดสินใจด้วยเท้าเราเองไม่ใช้ของคนอื่น&lt;/p&gt;
+&lt;p&gt;ถึงแม้จะสบายกายไม่มีปัญหา แต่ความรู้สึกทางใจกลับไม่ใช่อย่างนั้น ชีวิตตอนนี้นับว่าเป็นจุดที่สูงสุด โดยเฉพาะเรื่องงานกำลังไปได้ดี เพิ่มระดับความสุขขึ้นมา พอมองกลับมาที่ความรักกลับรู้สึกว่าทุกสิ่งไม่เหมือนเดิมเลย อะไรหลายๆอย่างที่เราเคยได้รับจากความรักนั้น…กลับหายไป เคยร้องขอ เคยคุยกันแบบเปิดอกแต่สุดท้ายก็เป็นเช่นเดิม คงเป็นเพราะความห่าง และระยะทาง ที่มันทำให้อะไรๆ เปลี่ยนไป&lt;/p&gt;
 
-&lt;h3 id=&quot;รองเท้าคู่เดิม&quot;&gt;รองเท้าคู่เดิม&lt;/h3&gt;
-&lt;p&gt;รองเท้าคู่ที่ผ่านมาในเรื่องคุณภาพผมว่ามีครบเครื่องทั้งความทนทาน ความแข็งแกร่ง การป้องกันและซับพอร์ทเท้าของเรา ได้ลองทั้งใส่วิ่งซ้อม และแข่งขันมาแล้วไม่ต่ำกว่า 320km แต่รูปร่างเท้าที่ไม่ได้เข้ากับรองเท้าเลย เพราะเราพึ่งมารู้ตัวว่าเป็นคนหน้าเท้ากว้างพอสมควร แม้จะไม่มากนัก แต่ก็มากพอที่จะทำให้รู้สึกว่า เท้าเริ่มดันรองเท้าแล้วเกิดอาการเสียดสี ด้วย Salomon SpeedCross ไม่ใช้รองเท้าสำหรับหน้าเท้ากว้างผมจึงมีปัญหาตลอดเวลาใส่นานๆ หรือ Race ที่ไกลๆ 20km+ ขึ้นไปจะเห็นปัญหาได้ทันที&lt;/p&gt;
-
-&lt;p&gt;อาการรองเท้าบีบหน้า การระบายอากาศ รวมไปถึงการระบายน้ำออกจากรองเท้าส่วนนี้เป็นส่วนที่ Salomon ทำได้ไม่ดีพอสำหรับการใช้งานของตัวผมเอง น้ำหนักของรองเท้ายังมากไป รวมไปถึงความแข็งของพื้นที่เรารู้สึกได้เวลาเท้ากระทบกันพื้นดิน โดยส่วนตัวสำหรับผม และเหตุผลข้างต้น ทำให้ผมเลือกที่จะเปลี่ยนรองเท้าใหม่&lt;/p&gt;
-
-&lt;h3 id=&quot;แบบไหนที่ต้องการ-แบบไหนที่คิดเอาไว้&quot;&gt;แบบไหนที่ต้องการ แบบไหนที่คิดเอาไว้&lt;/h3&gt;
-&lt;p&gt;รองเท้าคู่ใหม่ที่คิดเอาไว้คืออยากได้แบบบางเบา หรือแบบเหมือนไม่ได้ใส่อะไรเลยจะดีมากยิ่งเป็น Zero Drop จะยิ่งดี ขอแบบระบายน้ำได้ดีคล่องตัวน้ำหนักเบาพื้นไม่แข็ง (จะเยอะไปไหน) หลายๆคนเชียร์ Hoka One One และอีกกลุ่มก็ยังเชียร์ Inov8 และมีกลุ่มที่ไม่มีใครเชียร์แต่ผมแอบเล็งไว้คือ Altra ส่วนที่อยากได้และพร้อมจะเอาเลยทันทีถ้าหาได้นั่นก็คือ New Balance Minimus&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/mt10-v4-outer2520space2520with2520red-234763be.jpeg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;เริ่มต้นตามหารองเท้ารุ่นนี้เลยทันที เพราะมีคุณสมบัติที่ผมอยากได้เกือบทั้งหมดเลยทีเดียว ผมรู้จักรองเท้ารุ่นนี้จากเหลียงมาอีกที แต่เหลียงก็บอกในไทยไม่มีขาย!!  อุปสรรคแรกของผมมาละ เมื่อไม่มีขาย เราก็หาซื้อจากต่างประเทศก็ได้ ลองติดต่อไปทาง New Balance Thailand ก็ได้คำตอบเดิม ไม่มีขาย และไม่นำเข้า ครั้นจะซื้อผ่านเว็บก็ไม่ส่งที่ไทย จะฝากเพื่อนหิ้วก็ไม่มีใคร เอางี้ตัดออกหาคู่ใหม่&lt;/p&gt;
-
-&lt;p&gt;พอตัดตัวเลือกนี้ออก ก็คงไม่เหลืออะไรแล้วนอกจาก Altra LonePeak&lt;/p&gt;
-
-&lt;h3 id=&quot;เทียบความสามารถต่อรุ่น&quot;&gt;เทียบความสามารถต่อรุ่น&lt;/h3&gt;
-&lt;p&gt;พอตัด Minimus ออกไปก็เหลือแต่ Altra ที่อยู่ในลิสของผมและสามารถหาซื้อได้ทั่วไปทั้งเชียงใหม่ และกทม. เรียกว่าง่ายในการซื้อ รุ่นที่เล็งไว้แน่นอนเลยคือ Lone Peak 2.5 ใช้ครับเป็นรุ่นเก่าตั้งแต่ปีที่แล้วละ แต่ผมลองเทียบความสามารถและฟีเจอร์ต่างๆ กับรุ่นใหม่(3.0) ก็ไม่ได้ต่างกันมาก พอรับได้ ส่วนรุ่น Superior นั้นยังไม่ใช่สำหรับผม รวมไปถึงรุ่น Olympus ด้วยเพราะผมเห็นว่ามันเยอะไป&lt;/p&gt;
-
-&lt;p&gt;ตามหารุ่น Lone Peak 2.5 เพราะตอนนี้ราคาลดลงแบบฮวบฮาบนั่นเพราะรุ่นไหม่ที่ไห้ออกมาก่อนหน้านี้แล้วทำให้ราคาในรุ่นเก่าตกลงมาอย่างมากแต่แล้ว ปัญหาของผมคือ ผมหารุ่นเก่าไม่ได้แล้วเพราะทาง Altra Thailand ได้เรียกคืนหมดแล้ว เป็นอะไรที่น่าเสียดายมากเหลือเกิน&lt;/p&gt;
-
-&lt;h3 id=&quot;altra-lone-peak-30&quot;&gt;Altra Lone Peak 3.0&lt;/h3&gt;
-&lt;p&gt;เมื่อไม่ได้ Lone Peak 2.5 ก็ไม่ใช่ปัญหาเราก็สามารถจัด Lone Peak 3.0 ได้เช่นเดียวกันแต่ปัญหาคือว่าเราจะซื้อที่ไหนดี? ในเชียงใหม่ตอนนี้เท่าที่ทราบ น่าจะมีแค่ร้านเดียวที่มีขายนั่นคือ Doctor Sport ของพี่ปรินส์ของเรานั่นเองครับ ดึกแล้วก็ทักเฟสไปสอบถามรายละเอียดต่างๆ ของรองเท้า ทั้งสี รุ่น ความสามารถอะไรต่างๆ รวมทั้งคุยกันเรื่องวิ่งนิดหน่อยก็สั่งไว้อีกวันค่อยไปซื้อ ก็ได้สีและเบอร์ที่ต้องการด้วยครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/altra-lone-peak-3-0-web.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ใจอยากได้สีแดง แต่สีฟ้าก็สวยดี ตกลงปลงใจที่สีฟ้ากันเลยยย&lt;/p&gt;
-
-&lt;h3 id=&quot;รูปร่างภายนอก&quot;&gt;รูปร่างภายนอก&lt;/h3&gt;
-&lt;p&gt;ตามไสตล์ของ Altra ที่หัวรองเท้าจะกว้างเพราะออกแบบมาสำหรับเท้าหน้ากว้าง สำหรับนักวิ่งทั่วไปก็จะไม่ค่อยแปลกใจนักเพราะชินๆ กันอยู่แล้ว แต่สำหรับนักวิ่งใหม่ๆ อาจจะดูแปลกๆกับความกว้างของรองเท้า ส่วนหัวของรองเท้ามี Rockgard ช่วยป้องกันการเตะหินตอนวิ่งดูแล้วแข็งแรงเลยทีเดียว&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/foot-space.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lone Peak 3.5 มาพร้อมกับ Zero Drop เช่นเคย ซึ่งเป็นอีกส่วนหนึ่งของ Altral ให้ความรู้สึกเหมือนวิ่งเท้าเปล่า ให้เรารู้สึกเป็นธรรมชาติมากขึ้นกว่าเดิม การระบายลม และระบายน้ำยังทำได้ดีแต่อาจจะไม่เท่ากับ Lone Peak 2.5 แต่ก็ไม่ต่างกันมากเท่าไหร่ครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/zero-drop-2.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ส้นเท้าด้านหลังมีตีนตุ๊กแกเอาไว้สำหรับติด Gaiter เหมือนเดิมแต่รอยเว้าตรงข้อเท้าดูเหมือนจะลึกว่ารุ่นเดิมไปบ้างจนบางครั้งแอบกลัวว่าจะมีเศษอะไรหล่นเข้าไปในร้องเท้าหรือเปล่า&lt;/p&gt;
-
-&lt;h3 id=&quot;พื้นรองเท้า&quot;&gt;พื้นรองเท้า&lt;/h3&gt;
-&lt;p&gt;แน่นอนซื้อรองเท้าส่วนที่สำคัญอีกส่วนหนึ่งคงจะหนีไม่พ้นพื้นรองเท้า Lone Peak 3.0 เปลี่ยนพื้นรองเท้าใหม่พอสมควร เพิ่มดอกสำหรับเกาะมากขึ้นกว่าเดิม ทำให้เราไม่ลื่นมากไปกว่าเดิม แต่เมื่อลองจับดูจะรู้สึกว่าดอกของรองเท้านั้นอ่อน นุ่มนิ่มกว่า Salomon Spreed Cross มาก จนบางครั้งคิดว่าถ้าเราใส่ไปแข่งคงจะหลุดหมดแน่นอน&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/altra-lone-peak-collection-mesh-low.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ความนุ่มของพื้นรองเท้ามีมากว่า Salomon SpeedCross เยอะมากไม่เจ็บตอนกระแทก ให้ความรู้สึกนุ่มนวลดีกว่า เหมาะสำหรับการวิ่งระดับ Ultra Trail เลยทีเดียว&lt;/p&gt;
-
-&lt;h3 id=&quot;ทดสอบกับเทรลง่ายๆ&quot;&gt;ทดสอบกับเทรลง่ายๆ&lt;/h3&gt;
-&lt;p&gt;หลังจากได้มาก็ต้องทดสอบเป็นธรรมดา ก่อนจะไปลงสนามจริงที่โป่งแยงเทรล เลือกสนามทดสอบรองเท้าที่สนามเดิมคือ Track MTB หลังห้วยตึงเฒ่า เป็นสนามเทรลง่ายๆ ไม่ได้มีอะไรซับซ้อน และเป็นแบบ Cross Country อีกด้วยทำให้เราได้ทดสอบรองเท้าในหลายๆ รูปแบบอีกด้วยครับ&lt;/p&gt;
-
-&lt;p&gt;ครั้งแรกที่ใส่ยังไม่ค่อยชินกับ Zero Drop ของ Altra แต่ก็รู้สึกได้ว่าเป็นธรรมชาติมากขึ้นในการวิ่ง พื้นรองเท้านุ่มนิ่มสบายเท้ามากมาย แต่มีความรู้สึกว่ารองเท้าสูงไปหน่อยอยากได้บางกว่านี้เพราะตอนวิ่งรู้สึกเทอะทะไปนิดนึง&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/altra-lone-peak-collection-neoshell-low.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ขึ้นเนินยังทำได้ดีไม่มีปัญหาอะไร บางช่วงของการ Down Hill มีบ้างที่ลื่นเกือบล้ม อาจจะเป็นเพราะความที่ดอกของพื้นรองเท้าไม่แข็งพอที่จะเกาะ ก็ลื่นกับไป ถ้าเทียบส่วนนี้กับ Salomon SpeedCross แล้วถือว่า Salomon ทำได้ดีกว่าเยอะครับ&lt;/p&gt;
-
-&lt;p&gt;ด้วยความที่เป็น Zero Drop และน้ำหนักที่เบาของรองเท้าให้เราเมื่อยเท้าช้าลงกว่าเดิม อันนี้เห็นได้ชัด น้ำหนักที่เบาพื้นที่นุ่มกว่า ความคล่องตัวเลยมีมากกว่าเดิม อีกทั้งความยืดหยุ่นของรองเท้า มักจะมีผลตอนเหยียบทางที่ลาดเอียง หากรองเท้าที่ยืดหยุ่นไปตามเท้า จะสบายและไม่เจ็บเหมือนรองเท้าที่มีพื้นแข็ง&lt;/p&gt;
-
-&lt;p&gt;การระบายอากาศทำได้ดีมาก (ขึ้นอยู่กับถุงเท้าที่ใช้ด้วย) การป้องกันละอองน้ำก็เช่นกันยังทำได้ดีกว่า Salomon SpeedCross ทำให้เรามั่นใจในเวลาวิ่งมากกว่า พอวิ่งได้ประมาณ 10km ทุกอย่างยังปรกติไม่มีเจ็บเท้า ไม่มีบีบหน้าเท้าเลยครับอันนี้ยอมรับว่าดีมาก&lt;/p&gt;
-
-&lt;h3 id=&quot;ลงสนามจริง&quot;&gt;ลงสนามจริง&lt;/h3&gt;
-
-&lt;p&gt;ถึงเวลาลงสนามจริงแล้วววว กับหน้าที่ Pacer คู่ใจของน้อง Nemo ในงาน PongYang Trail ตามรอยเท้าพ่อ คิดไว้ว่าสภาพสนามคงเต็มเปี่ยมไปด้วยโคลนอย่างแน่นอน แต่ผิดคาดครับไม่ใช่ สภาพสนามที่ผมวิ่งประมาณ 43km นั้นไม่มีโคลนมากสักเท่าไหร่ส่วนใหญ่เป็นดินบนถนน และคอนกรีตเสียมากกว่า บางส่วนที่มีโคลนก็แอบมีลื่นอยู่หลายครั้งเหมือนกัน&lt;/p&gt;
-
-&lt;p&gt;20km 30km ทุกอย่างราบรื่นไม่มีปัญหา สบายเท้าวิ่งไกลได้ดีมาก ผมรู้สึกชอบแล้วสิ เหมือนที่หลายๆคนบอกจริงๆ ลองใส่แล้วจะชอบ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/15068517_1812122852403403_79306162891951679_o.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;เต็ม 10 ให้ 9.5&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;สมแล้วที่ได้ฉายา King Of The Trail&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Nov 2016 00:00:00 +0700</pubDate>
-        <link>/altra-lone-peak-3-0/</link>
-        <guid isPermaLink="true">/altra-lone-peak-3-0/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Running</category>
-        
-      </item>
-    
-      <item>
-        <title>Nike Zoom Superfly R4</title>
-        <description>&lt;p&gt;เมื่อช่วงกลางปีมี Nike Factory Store เปิดใหม่ที่ห้างสรรพสินค้าหลักของเมืองเชียงใหม่ ซึ่งแน่นอนก็จะมีทั้งรองเท้า อุปกรณ์กีฬาต่างๆ ของทางยี่ห้อดังอย่าง Nike ที่ตกรุ่นไปแล้วเอามารดราคาให้กระเป๋าตางค์พวกเราสั่นสะท้านกันเข้าไป ทางผมและบริษัทฯ และโค๊ชก็ยังคุยกันว่าจะเปลี่ยนแผนจกการวิ่งเทรลมาลง Road ดีหรือไม่ จะยังไงก็แล้วแต่ ผมเองก็ยังอยากใส่ Sprike อยู่ดี&lt;/p&gt;
-
-&lt;p&gt;ย้อนกลับไปเมื่อตอนยังเป็นนักเรียน ซึ่งเรามีโอกาสได้เป็นตัวเทนนักเรียนไปแข่งกรีฑาซึ่งจัดโดยจังหวัดเพื่อหาตัวแทนไประดับภาค และระดับประเทศต่อไป ทุกที่ได้รับคัดเลือกรวมทั้งตัวผมด้วย ก็อยากที่จะลงแข่งและใส่รองเท้า Sprike สักครั้ง โรงเรียนบ้านนอกรองเท้าแบบนี้มีไม่เยอะคนที่ได้แข่งเท่านั้นถึงจะได้ใส่&lt;/p&gt;
-
-&lt;p&gt;ตอนนี้มีโอกาสได้เป็นเจ้าของเอาไว้ใส่ซ้อมลงคอร์ดก็ได้จัดการ Nike Zoom Zuperfly R4 ที่ลดราคาสะบั้นหั่นแหลกที่ Nike Factory Store กว่าจะได้มาต้องต่อแถวเกือบๆ สามสิบนาทีเพราะคนเยอะเหลือเกิน และรองเท้าแบบนี้ในเชียงใหม่ ไม่ได้จะหากันง่ายๆด้วย&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/92160.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ช่วงนี้เป็นช่วงกีฬาโอลิมปิกที่ริโอ ประเทศบราซิล มีรองเท้ารุ่นใหม่ของ Nike ออกมาเยอะแยะมากมาย และถึงเวลาแล้วที่รุ่นเก่าแบบนี้จะลดราคาลง!!!&lt;/p&gt;
-
-&lt;p&gt;ด้วยความงาม ความบางและการันตีคุณภาพโดยนักวิ่งชั้นนำที่แห่กันโดนกว้านมาเป็นสปอนเซอร์ทำให้แบรนด์นี้ได้โปรโมทไปในตัว และเราก็ไม่รอช้าและตื่นเต้นที่จะได้ลองรองเท้าคู่นี้&lt;/p&gt;
-
-&lt;h3 id=&quot;รูปร่างภายนอก&quot;&gt;รูปร่างภายนอก&lt;/h3&gt;
-&lt;p&gt;แน่นอนว่าการออกแบบและดีไซน์สวยงามมาก ทั้งสี ความบางและวัสดุที่ใช้นั้นไม่ได้ได้บางเหมือนรองเท้าเลย ดูแข็งแรงทนทาน เหนียวไม่น่าจะพังและขาดง่ายแน่นอน&lt;/p&gt;
-
-&lt;p&gt;สีขาวของรองเท้า และผ้าตาข่ายด้านข้างที่โชว์เชือกรองเท้าด้านในคงความสวยงามมีมิติ ดูสวยไปอีกแบบ ลิ้นรองเท้าที่ไม่หน้าจนเกินไประบายอากาศได้ดีเรื่องความสวยงามคู่นี้ผ่านเลยครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/921601.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;พื้นรองเท้า&quot;&gt;พื้นรองเท้า&lt;/h3&gt;
-&lt;p&gt;ตามแบบรองเท้า Sprint พื้นจะแข็ง เพราะไม่ได้ออกแบบมาให้วิ่งในระยะยาว สีโครเมี่ยมที่สะดุดตายังคงน่ามองแต่เป็นรอยถลอกง่ายไปหน่อย วางแนวเข้ากับรูปเท้าเป๊ะ เวลาใส่รองเท้าพื้นจะแนบติดกับเท้าผมตลอด ถือเป็นอีกคุณลักษณะหนึ่งที่น่าชื่นชมเป็นอย่างยิ่ง ทำให้การวิ่งมีความสะดวกมากยิ่งขึ้นกว่าเดิม&lt;/p&gt;
-
-&lt;p&gt;พื้นด้านหน้านอกจากตะปูแล้ว ยังมีตัวยึดที่ถูกหล่อออกมาจากพื้นอีกทีหนึ่งเพื่อเพิ่มความมั่นใจในการจิกเกาะพื้นยาง เพิ่มความหนึบเวลาตะปูปักเข้าไปในพื้นยางแล้ว ยังมีตัวเกาะกดเข้าไปในพื้นยางอีกที ทำให้เราสามารถดีดเท้าดันตัวเองไปข้างหน้าได้ดีกว่าเดิมอีกด้วย&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/921602.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ใส่วิ่ง&quot;&gt;ใส่วิ่ง&lt;/h3&gt;
-&lt;p&gt;ทดลองใส่วิ่งในลู่ในระยะ 400×1, 800×1, 1500×1 แล้ววนกลับไปสูตรเดิมหรือที่เรียกว่า Pyramid Interval ที่จริงรองเท้าถูกออกแบบมาให้วิ่งในระยะสั้น 100 ~ 400 แต่ลองเอามา mix ดูก็ไม่ได้มีปัญหาอะไรมากมายครับ เพราะด้วยน้ำหนักที่เบา การเกาะที่ดีเยี่ยม ทำให้เราสามารถทำเวลาได้ดีกว่าเดิมขึ้นมาก และลดแรงเสียดทานระหว่างรองเท้ากับพื้นสนามได้ดี&lt;/p&gt;
-
-&lt;p&gt;แต่หากใส่วิ่งในระยะที่ยาว และใช้เวลานาน แน่นอนครับ ปวดน่องงงงง เพราะลงปลายเท้าตลอดเวลา แต่โดยรวมคู่นี้ถูกใจใช่เลย ใครอยากเป็นเจ้าของก็รีบไปซื้อนะครับบบบ Nike Factory Store, Central Airport Plaza Chiang Mai. ก่อนของจะหมดเด้ออออ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/11/hqdefault.jpg&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Nov 2016 00:00:00 +0700</pubDate>
-        <link>/nike-zoom-superfly-r4/</link>
-        <guid isPermaLink="true">/nike-zoom-superfly-r4/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Running</category>
-        
-      </item>
-    
-      <item>
-        <title>PAN Marathon Predator</title>
-        <description>&lt;p&gt;ในที่สุดก็ต้องบอกลารองเท้าวิ่งคู่แรก และคู่เดียว(วิ่งถนน)ที่มี รองเท้าที่มีความทรงจำกับมันมากมาย ตั้งแต่เริ่มวิ่งไปจนถึงระยะมาราธอนใช้ได้ยังไม่ถึงปีเลย ทนทานลุยทุกสถานการณ์  แต่แล้วก็โดนหมาที่อยู่แถวๆ ออฟฟิศคาบไปแดกครับท่าน แสรดดดดดดโกรธมากวันนั้น อยากฆ่าหมาขึ้นมาทันที&lt;/p&gt;
-
-&lt;h3 id=&quot;อยากจะฆ่าหมา&quot;&gt;อยากจะฆ่าหมา&lt;/h3&gt;
-&lt;p&gt;เรื่องเกิดจากเมื่อวันอังคารที่ผ่านมาไปวิ่งมาแล้วเอารองเท้าไว้บนชั้นวางรองเท้าหน้าออฟฟิศ ซึ่งผมชอบเอาไว้ตรงนั้นอยู่แล้วหลังจากวิ่งเสร็จ พอช่วงสายๆ เพชรก็มาบอกว่าหมาคาบรองเท้าไปแต่เก็บมาให้แล้วก็ไม่ได้เอะใจสักเท่าไหร่ สักพักเข้าออกไปดูมันกัดจนขาดดดดดดดด อารมณ์ตอนนั้นโกรธมาก โกรธจนอยากจะฆ่ามันเลยทีเดียว รองเท้าคู่นี้เป็นคู่แรกของผม มีความทรงจำกับมันมาก แต่ทำไมมันทำได้ลง T-T&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/slack-for-ios-upload-4.jpg?w=1472&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;เสียแล้วเสียไปหาคู่ใหม่&quot;&gt;เสียแล้วเสียไปหาคู่ใหม่&lt;/h3&gt;
-&lt;p&gt;ผมไม่เคยใช้รองเท้าหลายคู่ส่วนใหญ่จะคู่เดียวทั้งแข่งและซ้อม ตอนนี้ถึงเวลาต้องหาคู่ใหม่ละ กำหนดสเป็กไว้คือราคาถูกและคุณภาพไม่ต้องถึงกับดีมากก็ได้ แต่ที่เล็งไว้นานแล้วคือ PAN Marathon Predator ด้วยการตามอ่านรีวิวมากมายหลายที่ ทั้งพวกเคนย่าที่ใส่ตอนวิ่งที่เมืองไทยมาราธอนส่วนตัวคิดว่าคงไม่เลว&lt;/p&gt;
-
-&lt;p&gt;เริ่มหารองเท้ารุ่นนี้ทันทีด้วยความที่เริ่มบูมราคาไม่สูง การตามหาจึงเป็นไปอย่างยากลำบากมาก หมดทุกเว็บไซต์ หมดทุกร้าน ไปร้านนี้ก็หมด ห้างนี้ก็หมด ถึงกับถอดใจว่าคงไม่ได้แล้วล่ะ เพราะต้องการใช้รองเท้าวิ่งแบบด่วนที่สุดเท่าที่จะทำได้เพราะต้องซ้อม&lt;/p&gt;
-
-&lt;h3 id=&quot;เจอจนได้&quot;&gt;เจอจนได้&lt;/h3&gt;
-&lt;p&gt;วันนี้หลังจากสอนนักเรียนเสร็จมีความรู้สึกว่าน่าจะไปหาซื้อรองเท้าได้แล้วเพราะไม่งั้นไม่ได้วิ่งแน่คิดเอาไว้ในใจว่า Nike Adidas NB ก็ว่ากันไปแต่อยากให้อยู่ในงบที่จำกัด เผื่อฟลุ๊กอาจจะเจอลดราคาก็ได้ มุ่งหน้าไปเซนเฟสทันทีฝ่าดงรถติดช่วงเย็นกันเลยทีเดียว พอถึงห้างก็มุ่งหน้าไป Super Sport ลองมองหา Pan ดูก่อนเอ๊ะสะดุดตาเลยครับเจอแล้ว ผมเจอแล้วววว&lt;/p&gt;
-
-&lt;p&gt;ปัญหาที่สองคือไซต์ครับ ปรกติผมใส่ 42 แต่เหลือแค่ 44 เลยขอลองใส่ดูมันหลวมนิดๆ ไม่ได้หลวมมากซึ่งเราก็ติดว่าใส่แล้วน่าจะโอเคเพราะมีประสบการณ์ซื้อรองเท้าพอดีเท้าแล้วเกิดอาการบาดเจ็บ เอาวะ ลองเอาเบอร์ที่สูงกว่าละกัน เดี๋ยวๆ แต่มันใหญ่กว่าตั้งสองเบอร์นะเฟร้ยยยยย&lt;/p&gt;
-
-&lt;h3 id=&quot;overview-performance-and-technology&quot;&gt;Overview, Performance and Technology&lt;/h3&gt;
-&lt;p&gt;ก่อนที่จะเข้าสู่รีวิวจริง เรามาดูกันดีกว่ารองเท้าที่ว่าดี ที่ว่าฮิตในราคาสมเหตุสมผลนั้น ใช้เทคโนโลยีอะไรบ้าง ข้อมูลทั้งหมดอ้างอิงมาจากเว็บไซต์ &lt;a href=&quot;http://www.pan-sportswear.com/EN/products_shop.php?ID=365&quot;&gt;http://www.pan-sportswear.com/EN/products_shop.php?ID=365&lt;/a&gt; นี้นะครับลองกดตามลิงค์เข้าไปดูได้ครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/photo2012-21-255820be2c2042032200520pm.jpg?w=1470&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;รุ่นนี้ทางเว็บเขาบอกว่ามันถูกสร้างมาสำหรับนักวิ่งเพื่อการวิ่งที่เป็นธรรมชาติที่สุด ออกแบบมาสำหรับการวิ่งระยะไกล (ในเว็บเขาบอกประมาณ 19 – 24km มันไกลตรงไหนฟร๊ะ) แต่มากกว่านั้นไม่รู้ ส่วนเรื่องของน้ำหนักในเว็บไซต์เขาบอกว่าน้ำหนักตัวนี้อยู่ที่ประมาณ 215 กรัม ครับผมไม่ได้พิมพ์ผิด 2 ขีดกว่าๆครับ&lt;/p&gt;
-
-&lt;p&gt;ส่วนพื้นรองเท้าใช้ Eva Foam ครับเพื่อให้น้ำหนักเบา สำหรับใครที่คิดไม่ออกว่า Eva foam เป็นยังไงลองดูที่นี่ครับ https://goo.gl/w75Cfj ส่วนที่เขาโฆษณาไว้เป็นดิบดีก็คือเรื่องของ Breathabillity ถ้าแปลตรงตัวก็หายใจสะดวก แต่ในที่นี้เขาหมายก็การที่เนื้อผ้าเป็นตาข่ายลมลอดผ่านได้ดี ทำให้มีน้ำหนักเบา ลดความร้อน ลดความชื้นและกลิ่นอับ ทำให้การวิ่งในระยะไกลเกิดประสิทธิภาพมากขึ้นนั่นเองครับ&lt;/p&gt;
-
-&lt;p&gt;ส่วนพื้นรองเท้าที่ทำจาก Eva Form นั้นไม่ได้มีความหนามากดังรูปข้างบนครับ แล้วพื้นหลังก็ไม่ได้ยกขึ้นสูงเหมือนรองเท้าวิ่งทั่วไป เหมาะสำหรับนักวิ่งที่มีรูปร่างขนาดกลางๆ และมีประโยคหนึ่งที่เขาบอกว่า&lt;/p&gt;
+&lt;p&gt;กลับมาที่ครอบครัว เรื่องนี้วิตกกังวลมากกว่าเรื่องใดๆ ถึงขั้นนอนไม่หลับซึ่งชีวิตนี้ไม่เคยเป็นมาก่อน แม่ป่วยอยู่ และตอนนี้พ่อซึ่งดูแลแม่ ก็ใกล้ถึงเวลาที่เขาต้องพัก เป็นอีกอย่างที่เราต้องวางแผนชีวิตใหม่หมด&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;All Functions are designed for marathon racing (ทั้งหมดออกแบบมาเพื่อวิ่งมาราธอนโดยเฉพาะ)&lt;/p&gt;
+  &lt;p&gt;บทจะทุกข์ ก็กลับมีความสุขเมื่อไปทำงาน
+…สุขไม่สุด ทุกข์ไม่สุด…&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;เอาซะจนอยากวิ่งมาราธอนอีกสักรอบเลยทีเดียว ทั้งหมดคือที่เขาโฆษณามาครับ ต่อไปก็เป็นหน้าที่ของเรา ที่ไปซื้อมาใส่วิ่งแล้วแสดงความคิดเห็นว่ามันตรงตามที่เขาพูดไว้หรือเปล่า!!&lt;/p&gt;
-
-&lt;h3 id=&quot;แกะกล่องเอาออกมาส่องดู&quot;&gt;แกะกล่องเอาออกมาส่องดู&lt;/h3&gt;
-&lt;p&gt;แรกสัมผัสจะรับรู้ได้ถึงความเบาของตัวรองเท้า เนื้อผ้าตาข่ายที่ทำให้เรารู้สึกว่า เห้ยมันบางเกินไปหรือเปล่า? บางจนถ้าเอามาแนบตาสามารถเห็นทะลุไปอีกด้านได้ แต่มันก็มีข้อดีเหมือนกันตรงที่อากาศไหลผ่านได้สบายๆ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/13936554_1338685066161045_2011859832_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ส่วนเรื่องของดีไซน์ยังไม่ค่อยสวยเท่าไหร่แต่ก็ไม่ได้แย่มองไกลๆ ก็สวยอยู่ด้วยสีเหลืองที่แสบสันนั่นเอง งานมือรองเท้ารุ่นนี้ถือว่าไม่ค่อยเนี๊ยบเท่าไหร่เน้นออกแบบให้ดูบาง เบา ให้เข้ากับคอนเซปเรสซิ่งมากกว่าผมว่า&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/13933034_1338748276154724_1729267317_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;รออะไรครับ เอามองใส่ดูดีกว่า เหมือนที่บอกเมื่อก่อนหน้าว่าผมซื้อเผื่อมา 1 เบอร์เพราะมีประสบการณ์กับรองเท้าคู่เดิมที่กัดเท้าหากวิ่งไกลๆ ลองใส่อาจจะหลวมนิดหน่อยแต่ถ้าใส่ร้องเท้าวิ่งน่าจะพอดีกับรองเท้า หน้าเท้าเข้ากับรูปเท้าผมอีกแล้วข้อนี้น่ากลัวเพราะตอนวิ่งเท้าชอบขยาย แต่สิ่งที่ดีอีกอย่างคือช่วงกลางเท้าด้านหน้ารองเท้าจะกว้างมากนิ้วก้อยสามารถวางได้สบายๆ คงไม่ต้องห่วงเรื่องรองเท้าบีบเท้าอีกแล้ว&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/13936647_1338685056161046_37068596_n.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;วิ่งสิครับ-รออะไร&quot;&gt;วิ่งสิครับ รออะไร&lt;/h3&gt;
-&lt;p&gt;ด้วยความที่เราติดกับรองเท้าคู่เดิมคู่เก่า ซึ่งพื้นของมันนุ่มมากกระชับเท้าวิ่งรู้สึกได้ว่านุ่ม พอมาใส่คู่นี้วิ่งมีความรู้สึกว่าแข็ง ถึงแข็งมากมีอาการปวดๆ ที่ข้อเท้าตอนวิ่งเร็วๆ น่าจะเป็นเพราะว่าวิ่งลงช่วงปลายเท้า เพราะรองเท้าคู่เดิมส้นเท้าจะยกสูงกว่าปลายเท้ามากการวิ่งเลยลงเต็มรองเท้า แต่พอเปลี่ยนมาใช้ตัวนี้พื้นรองเท้าได้ยกสูงและความเอียงไม่ได้เหมือนกับที่ผ่านมา คงต้องปรับอีกสักพัก&lt;/p&gt;
-
-&lt;p&gt;พื้นรองเท้าออกแบบมาสำหรับ Racing และพยายามทำให้เป็นธรรมชาติแต่ยังไม่ใช่ Zero Drop ทำให้คนที่วิ่งลงปลายเท้าด้านหน้าจะทำได้ดี ความเบาและความแข็งของพื้นช่วยให้ดันตัวเองไปข้างหน้าได้ดี เหมาะสำหรับขาแรงนะผมว่า&lt;/p&gt;
-
-&lt;p&gt;ด้วยความโปร่งกับใยตาข่าย ลมลอดผ่านได้เหมือนที่เขาคุยเอาไว้ ตรงนี้ถือว่าผ่านนะ รู้สึกได้ตอนวิ่ง ไม่อับไม่ร้อน แต่มันควรจะมีข้อเสียที่ว่าโดนน้ำ หรือโคลนเพียงเล็กน้อยซึมเข้าไปข้างในได้เลย เชือกรองเท้าต้องมัดให้แน่นครับ หากดึงไม่แน่พอคลายและหลุดไปเอง ผมหลุดไปหนึ่งครั้งขณะวิ่ง&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/pic4-365.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;จากส้นเท้าขึ้นไปถึงเอ็นร้อยหวายสูงมาก และแข็งอันนี้เรื่องความปลอดภัยครับทำได้ดี ส่วนด้านข้างก็สูงขึ้นมาจนถึงตาตุ่มดีที่รองเท้าบางเลยไม่ร้อนสักเท่าไหร่&lt;/p&gt;
-
-&lt;p&gt;ใส่วิ่งไปประมาณ 10 กิโลทั้งเร็วและช้าไม่มีอาการบาดเจ็บใดให้เห็น คงต้องลองระยะไกลบ้าง แต่ ณ ตอนนี้ยังถือว่าผ่านครับ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;คะแนนนะครับ 8/10&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bestrangers.files.wordpress.com/2016/08/file2012-22-255820be2c2022004200120pm.jpeg&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 Aug 2016 00:00:00 +0700</pubDate>
-        <link>/pan-marathon-predator/</link>
-        <guid isPermaLink="true">/pan-marathon-predator/</guid>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/59679780426a7c8e7c93ea72/</link>
+        <guid isPermaLink="true">http://localhost:4000/59679780426a7c8e7c93ea72/</guid>
         
         <category>France</category>
         
         
-        <category>Running</category>
+        <category>MentalProblem</category>
         
       </item>
     
