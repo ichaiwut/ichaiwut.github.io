@@ -3,10 +3,10 @@
   <channel>
     <title>TingSter</title>
     <description>My name is TingSter. I am a Front-end Trooper at BUZZWOO!</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Aug 2020 21:33:20 +0700</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2020 21:33:20 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 20 Aug 2020 21:37:19 +0700</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2020 21:37:19 +0700</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -51,8 +51,8 @@
 &lt;p&gt;Photo by Krista Mangulsone on Unsplash&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-5ce4eada7693ff097e1422c1/</link>
-        <guid isPermaLink="true">/59-5ce4eada7693ff097e1422c1/</guid>
+        <link>http://localhost:4000/59-5ce4eada7693ff097e1422c1/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5ce4eada7693ff097e1422c1/</guid>
         
         <category>France</category>
         
@@ -96,8 +96,8 @@
 &lt;p&gt;แล้วก็ผลอยหลับไป…&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-5c2ca48cd6d4e09306acb813/</link>
-        <guid isPermaLink="true">/59-5c2ca48cd6d4e09306acb813/</guid>
+        <link>http://localhost:4000/59-5c2ca48cd6d4e09306acb813/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5c2ca48cd6d4e09306acb813/</guid>
         
         <category>France</category>
         
@@ -139,8 +139,8 @@
 ๒๙ ตุลาคม ๒๕๖๑&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-5bcb4a0cd04b46133af4d668/</link>
-        <guid isPermaLink="true">/59-5bcb4a0cd04b46133af4d668/</guid>
+        <link>http://localhost:4000/59-5bcb4a0cd04b46133af4d668/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5bcb4a0cd04b46133af4d668/</guid>
         
         <category>France</category>
         
@@ -180,8 +180,8 @@
 ๑๙ ตุลาคม ๒๕๖๑&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-5af10d8fdd61f6451c844d97/</link>
-        <guid isPermaLink="true">/59-5af10d8fdd61f6451c844d97/</guid>
+        <link>http://localhost:4000/59-5af10d8fdd61f6451c844d97/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5af10d8fdd61f6451c844d97/</guid>
         
         <category>France</category>
         
@@ -231,8 +231,8 @@
 &lt;p&gt;&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@mbaumi?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Mika Baumeister&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/drug-withdrawal?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-5adfebeef040bf450cd85f59/</link>
-        <guid isPermaLink="true">/59-5adfebeef040bf450cd85f59/</guid>
+        <link>http://localhost:4000/59-5adfebeef040bf450cd85f59/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5adfebeef040bf450cd85f59/</guid>
         
         <category>France</category>
         
@@ -273,8 +273,8 @@
 &lt;p&gt;&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@anleo?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Alvin Leopold&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/depress?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-5acc2498ee96086d53dc8706/</link>
-        <guid isPermaLink="true">/59-5acc2498ee96086d53dc8706/</guid>
+        <link>http://localhost:4000/59-5acc2498ee96086d53dc8706/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5acc2498ee96086d53dc8706/</guid>
         
         <category>France</category>
         
@@ -298,8 +298,8 @@
 &lt;p&gt;กลับมาที่ตัวผม หลังจากหมดอาลัยตายอยากไปกับการวิ่ง และพยายามหนีการวิ่งมาตลอดช่วงสองสามเดือน การได้มาพูดคุยกับพี่ๆ วันนี้ ทั้งการให้กำลังใจ ทั้งการคิด ทำให้ไฟในการวิ่งของผมค่อยๆ ติดขึ้นมาอีกครั้ง เพื่อจะกระตุ้นตัวเองให้กลับมาวิ่ง กลับมาซ้อม ให้กับเส้นชัยสุดท้ายของผม ให้ผมเป็นผู้ชนะตัวเองอีกสักครั้ง ชนะตัวเองในโป่งแยงร้อย ชนะตัวเองในความรู้สึกนี้ ประโยคที่ผมจะจำจากพี่ๆ “ถ้าจะไม่จบจริง ก็จะขอวิ่งจนวินาทีสุดท้ายของการแข่งขัน” และเส้นชัยสุดท้ายนี้ อีกไม่ถึงเดือน ผมขอชนะ ชนะตัวเอง ชนะความรู้สึก เพื่อให้ทุกอย่างมันจบลงอย่างสวยงาม และสมบูรณ์&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-59c277431e95fa2845ae23a2/</link>
-        <guid isPermaLink="true">/59-59c277431e95fa2845ae23a2/</guid>
+        <link>http://localhost:4000/59-59c277431e95fa2845ae23a2/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-59c277431e95fa2845ae23a2/</guid>
         
         <category>France</category>
         
@@ -325,8 +325,8 @@
 &lt;p&gt;ช่วงสองสามเดือนที่ผ่านมา ฉันมีคำถามกับตัวเองอีกครั้ง “ฉันมีชีวิตอยู่เพื่ออะไร” ฟังดูน่ากลัวนะ มันทำให้ฉันกำลังเบื่อทุกสิ่งรอบตัวฉัน ความผิดหวังที่ฉันได้รับจากทุกสิ่งที่ฝังอยู่ในหัวใจมานานแสนนาน ที่ตัวฉันสะสมเอาไว้ มันลอยออกมาให้ฉันได้คิด และทบทวน และมาคอยย้ำซ้ำเติมตัวฉันอยู่เรื่อยๆ จนตัวฉันเอง ไม่อยากตื่น ไม่อยากรับรู้ และไม่อยากหายใจ…&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59-59a591623fd5d3841c4ba425/</link>
-        <guid isPermaLink="true">/59-59a591623fd5d3841c4ba425/</guid>
+        <link>http://localhost:4000/59-59a591623fd5d3841c4ba425/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-59a591623fd5d3841c4ba425/</guid>
         
         <category>France</category>
         
@@ -363,8 +363,8 @@
 &lt;p&gt;ผมจะทำให้เด็กคนนั้นกลับมาทำในสิ่งที่เขาถนัด และเก่ง แต่ถ้าเขาไม่รัก และไม่ชอบผมจะไม่บังคับเขาอีก.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59a37934af8c08765332c0d0/</link>
-        <guid isPermaLink="true">/59a37934af8c08765332c0d0/</guid>
+        <link>http://localhost:4000/59a37934af8c08765332c0d0/</link>
+        <guid isPermaLink="true">http://localhost:4000/59a37934af8c08765332c0d0/</guid>
         
         <category>France</category>
         
@@ -387,8 +387,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Fri, 01 Feb 2019 00:00:00 +0700</pubDate>
-        <link>/59679780426a7c8e7c93ea72/</link>
-        <guid isPermaLink="true">/59679780426a7c8e7c93ea72/</guid>
+        <link>http://localhost:4000/59679780426a7c8e7c93ea72/</link>
+        <guid isPermaLink="true">http://localhost:4000/59679780426a7c8e7c93ea72/</guid>
         
         <category>France</category>
         
