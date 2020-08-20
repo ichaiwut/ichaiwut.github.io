@@ -3,7 +3,7 @@ layout: page
 title: I'm TingSter,
 permalink: /about
 comments: false
-image: false
+image: 'assets/images/tingfull.jpeg'
 imageshadow: true
 ---
 
