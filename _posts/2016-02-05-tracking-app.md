@@ -2,7 +2,7 @@
 layout: post
 title:  "Tracking App"
 author: john
-categories: [ Travel ]
+categories: [ Running ]
 image: https://bestrangers.files.wordpress.com/2016/02/17u58vcz0u7u7jpg.jpg
 ---
 

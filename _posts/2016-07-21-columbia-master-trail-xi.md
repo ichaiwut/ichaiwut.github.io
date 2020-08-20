@@ -2,7 +2,7 @@
 layout: post
 title:  "Columbia Master Trail XI"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/07/13679878_1354592691223619_565021592797499983_o.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "After I started running."
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: assets/images/post/run.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "ลึกลึกลงไปข้างใน…..มีใครบ้างที่จะรับรู้?"
 author: sal
-categories: [ Lifestyle ]
+categories: [ MyLife ]
 image: assets/images/post/deep.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "27.7km Hit the wall"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/02/photo-1423068657086-889315a2eba8.jpeg
 ---

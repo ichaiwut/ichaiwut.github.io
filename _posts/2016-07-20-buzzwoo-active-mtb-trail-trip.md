@@ -2,7 +2,7 @@
 layout: post
 title:  "Buzzwoo! Active MTB Trail Trip"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/07/dscf5040.jpg
 ---

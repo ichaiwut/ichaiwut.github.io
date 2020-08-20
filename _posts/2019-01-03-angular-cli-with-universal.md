@@ -2,7 +2,7 @@
 layout: post
 title:  "Angular CLI 6.0.2 with Universal"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Tech ]
 tags: [ France ]
 image: https://miro.medium.com/max/1400/1*8klZiTlxZQdUyxbYp-vXMA.png
 ---

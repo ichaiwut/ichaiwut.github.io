@@ -2,7 +2,7 @@
 layout: post
 title:  "วิ่งรอบกว๊าน Payao Lake 26km"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/06/1458673_194755980869798_1436171146601193090_n1.jpg
 ---

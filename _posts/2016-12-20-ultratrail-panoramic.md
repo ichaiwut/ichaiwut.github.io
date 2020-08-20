@@ -2,7 +2,7 @@
 layout: post
 title:  "UltraTrail® Panoramic"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/12/15493479_665798220268391_2227578465887639923_o.jpg
 ---

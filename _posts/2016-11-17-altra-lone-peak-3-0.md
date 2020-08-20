@@ -2,7 +2,7 @@
 layout: post
 title:  "Altra Lone Peak 3.0"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/11/altra_lone_peak_3_2_f64c3bbbd7d69c2aed94ebd2c2427e87.jpg
 ---

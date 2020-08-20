@@ -2,7 +2,7 @@
 layout: post
 title:  "เริ่มวิ่ง เริ่มวิ่ง เริ่มวิ่ง"
 author: sal
-categories: [ Lifestyle, Travel ]
+categories: [ Running ]
 tags: [ France ]
 image: "https://bestrangers.files.wordpress.com/2016/02/untitled-1.jpg"
 ---

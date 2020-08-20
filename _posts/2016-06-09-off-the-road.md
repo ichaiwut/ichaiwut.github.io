@@ -2,7 +2,7 @@
 layout: post
 title:  "เปลี่ยนใจมาวิ่งเทรล"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/05/first-film-in-5-peaks-trail-running-series-pacer-films.jpg
 ---

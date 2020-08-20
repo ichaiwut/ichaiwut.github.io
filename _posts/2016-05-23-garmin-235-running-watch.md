@@ -2,7 +2,7 @@
 layout: post
 title:  "Garmin 235 Running Review"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/03/maxresdefault.jpg
 ---

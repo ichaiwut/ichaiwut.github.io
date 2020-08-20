@@ -2,7 +2,7 @@
 layout: post
 title:  "Nike Zoom Superfly R4"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/11/zoom_side.jpg
 ---

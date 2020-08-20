@@ -2,7 +2,7 @@
 layout: post
 title:  "Singha Songkran Chiang Mai Night Run"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/04/singha-night-run.jpg
 ---

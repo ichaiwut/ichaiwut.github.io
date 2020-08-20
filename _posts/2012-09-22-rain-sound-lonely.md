@@ -2,7 +2,7 @@
 layout: post
 title:  "สายฝน… เสียงฝน… คนเหงา"
 author: sal
-categories: [ Lifestyle ]
+categories: [ MyLife ]
 image: https://bestrangers.files.wordpress.com/2012/09/527167_4010642496941_941999808_n.jpg
 ---
 

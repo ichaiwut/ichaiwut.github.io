@@ -2,7 +2,7 @@
 layout: post
 title:  "Singha Obstacle Fun Run V"
 author: john
-categories: [ Travel ]
+categories: [ Running ]
 image: https://bestrangers.files.wordpress.com/2016/02/dscf41671.jpg?w=2800
 ---
 

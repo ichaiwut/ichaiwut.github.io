@@ -2,7 +2,7 @@
 layout: post
 title:  "Strava tracking heart rate with MI Band"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/03/mi-band.jpg
 ---

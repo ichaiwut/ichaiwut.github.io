@@ -2,7 +2,7 @@
 layout: post
 title:  "[Pacer] – Pong Yang Trail"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/11/15110958_1814496765499345_4808097319507868447_o1.jpg
 ---

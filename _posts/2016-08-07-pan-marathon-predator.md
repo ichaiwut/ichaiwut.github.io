@@ -2,7 +2,7 @@
 layout: post
 title:  "PAN Marathon Predator"
 author: sal
-categories: [ Lifestyle ]
+categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/08/slack-for-ios-upload-6.jpg
 ---
