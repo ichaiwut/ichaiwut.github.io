@@ -4,7 +4,7 @@ title: "TingSter"
 description: "My name is TingSter. I am a Front-end Trooper at BUZZWOO!"
 logo: 'assets/images/tslogo.png'
 favicon: 'assets/images/ms-icon-310x310.png'
-baseurl: "/"
+baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'tingster'
 include: ["_pages"]
