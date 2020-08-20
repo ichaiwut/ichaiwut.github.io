@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/logo_ting.jpg">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/assets/images/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<title>Angular CLI 6.0.2 with Universal | TingSter</title>
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Angular CLI 6.0.2 with Universal | TingSter</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Angular CLI 6.0.2 with Universal" />
+<meta name="author" content="sal" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="ความสามารถของ search engine รวมไปถึง Social media ในปัจจุบันไม่ได้แสดงเพียงแค่ลิ้งค์ แต่ยังดึงเอารายละเอียด รวมไปถึงรูปภาพแสดงออกมาให้ผู้ใช้งานเห็นก่อนตัดสินใจเข้าไปยังเว็บไซต์" />
+<meta property="og:description" content="ความสามารถของ search engine รวมไปถึง Social media ในปัจจุบันไม่ได้แสดงเพียงแค่ลิ้งค์ แต่ยังดึงเอารายละเอียด รวมไปถึงรูปภาพแสดงออกมาให้ผู้ใช้งานเห็นก่อนตัดสินใจเข้าไปยังเว็บไซต์" />
+<link rel="canonical" href="http://localhost:4000/angular-cli-with-universal/" />
+<meta property="og:url" content="http://localhost:4000/angular-cli-with-universal/" />
+<meta property="og:site_name" content="TingSter" />
+<meta property="og:image" content="https://miro.medium.com/max/1400/1*8klZiTlxZQdUyxbYp-vXMA.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-01-03T00:00:00+07:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","image":"https://miro.medium.com/max/1400/1*8klZiTlxZQdUyxbYp-vXMA.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/angular-cli-with-universal/"},"url":"http://localhost:4000/angular-cli-with-universal/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo_ting.jpg"},"name":"sal"},"author":{"@type":"Person","name":"sal"},"description":"ความสามารถของ search engine รวมไปถึง Social media ในปัจจุบันไม่ได้แสดงเพียงแค่ลิ้งค์ แต่ยังดึงเอารายละเอียด รวมไปถึงรูปภาพแสดงออกมาให้ผู้ใช้งานเห็นก่อนตัดสินใจเข้าไปยังเว็บไซต์","headline":"Angular CLI 6.0.2 with Universal","dateModified":"2019-01-03T00:00:00+07:00","datePublished":"2019-01-03T00:00:00+07:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link href="/assets/css/prism.css" rel="stylesheet">
+
+<link href="/assets/css/theme.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body>
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+<!-- Begin Sidebar Navigation
+================================================== -->
+
+<div class="sidebar">
+</div>
+<div class="nav-icon">
+    <div class="hamburger-bar"></div>
+</div>
+<div id="blackover-nav" class="blackover"></div>
+<nav id="menu">
+    <ul>
+        <h3>Navigation</h3>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="https://www.youtube.com/channel/UCz1zLf7DyNxe7RHV5hi7lSA" target="_blank">YouTube</a></li>
+        <li><a href="/podcast.html">Podcast</a></li>
+    </ul>
+</nav>
+
+<script src="/assets/js/lunr.js"></script>
+
+<style>
+    
+</style>
+
+<div class="wrap-search">
+    <div class="d-flex align-items-center ml-auto">
+        <i class="fas fa-search show-search"></i>
+        <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+            <input type="text" class="form-control bigradius text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+        </form>
+    </div>
+</div>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+
+<!-- End Sidebar Navigation
+================================================== -->
+
+<div class="site-content ">
+
+<div class="container">
+
+    <!-- Site Logo/Name
+    ================================================== -->
+
+    <a class="navbar-brand" href="/">
+        <img src="/assets/images/logo_ting.jpg" alt="TingSter">
+    </a>
+
+
+    <!-- Site Tag
+    ================================================== -->
+    
+
+    <!-- Content
+    ================================================== -->
+    <div class="main-content">
+        <div class="entry-header">
+    <!-- Post Title -->
+    <h1 class="posttitle">Angular CLI 6.0.2 with Universal</h1>
+    <!-- Author & Date  Box -->
+    <!-- 
+    
+    <div class="d-flex align-items-center mt-4 text-right">
+        <time class="post-date" datetime="2019-01-03">03 Jan 2019</time>
+        
+    </div>
+     -->
+</div>
+
+<!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
+
+
+<!-- Featured Image -->
+
+<div class="entry-featured-image">
+    
+    <img class="featured-image " src="https://miro.medium.com/max/1400/1*8klZiTlxZQdUyxbYp-vXMA.png" alt="Angular CLI 6.0.2 with Universal">
+    
+</div>
+
+
+<!-- Content -->
+<!-- Post, Page Content
+================================================== -->
+<div class="article-post">
+    <!-- Toc if any -->
+    
+    <!-- End Toc -->
+    <p>ความสามารถของ search engine รวมไปถึง Social media ในปัจจุบันไม่ได้แสดงเพียงแค่ลิ้งค์ แต่ยังดึงเอารายละเอียด รวมไปถึงรูปภาพแสดงออกมาให้ผู้ใช้งานเห็นก่อนตัดสินใจเข้าไปยังเว็บไซต์</p>
+
+<p>Angular เป็น Single Page Application (SPA) framework ที่ render ในบราวเซอร์ หรือที่เราเรียกว่า client-side rendering ทำให้ search engine และ social media ไปดึงข้อมูล HTML ที่ยังไม่ได้ผ่านการ render ออกมาแสดง</p>
+
+<p>Angular Universal จะทำหน้าที่เป็น server-side renderer เพื่อให้ search engine และ social media ได้ดึงเอา HTML ที่ถูก render ไว้ก่อนแล้วไปใช้งาน เพื่อการแสดงผลที่ถูกต้อง
+เริ่มจากการติดตั้ง Angular CLI ลงในเครื่อง</p>
+
+<pre><code class="language-bash">$ npm install -g @angular/cli@latest
+</code></pre>
+
+<p>สร้างโปรเจคใหม่พร้อมใช้งาน sass ในโปรดเจคด้วย ดูเพิ่มเติม : <a href="https://stackoverflow.com/a/39816365/2045817">https://stackoverflow.com/a/39816365/2045817</a></p>
+
+<pre><code class="language-bash">$ ng new --style=scss demo-universal
+$ cd demo-universal
+</code></pre>
+
+<p>จากนั้น install ts-loader angular/platform-server และ @nguniversal/module-map-ngfactory-loader</p>
+
+<pre><code class="language-shell">$ npm install --save @angular/platform-server @nguniversal/module-map-ngfactory-loader ts-loader
+</code></pre>
+
+<p>แก้ไขไฟล์ app.mudule.tsโดยเพิ่ม withServerTransition() เพื่อให้แอพของเราทำงานร่วมกับ Universal</p>
+
+<pre><code class="language-javascript">@NgModule({
+  declarations: [AppComponent],
+  imports: [
+    BrowserModule.withServerTransition({appId: 'demo-universal'}),
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+</code></pre>
+
+<p>ขั้นตอนต่อไปสร้างไฟล์ module เพื่อเรียกใช้บนฝั่ง server ใน src/app/app.server.module.ts เพื่อจะเรียกใช้ AppModule ผ่านทาง ServerMudule</p>
+
+<pre><code class="language-javascript">import {NgModule} from '@angular/core';
+import {ServerModule} from '@angular/platform-server';
+import {ModuleMapLoaderModule} from '@nguniversal/module-map-ngfactory-loader';
+
+import {AppModule} from './app.module';
+import {AppComponent} from './app.component';
+
+@NgModule({
+  imports: [
+    AppModule,
+    ServerModule,
+    ModuleMapLoaderModule
+  ],
+  bootstrap: [AppComponent],
+})
+export class AppServerModule {}
+</code></pre>
+
+<p>ต่อไปสร้างไฟล์สำหรับ Universal bundle เอาไว้ export AppServerModule ใช้ชื่อว่า src/main.server.ts</p>
+
+<pre><code class="language-javascript"> export { AppServerModule } from './app/app.server.module';
+</code></pre>
+
+<p>เสร็จแล้วให้เรากลับไปดูที่ไฟล์ tsconfig.app.json คัดลอกโค๊ดทั้งหมด แล้วสร้างไฟล์ tsconfid.server.json วางโค๊ดที่คัดลอกมาจาก tsconfig.app.json ให้เราเปลี่ยน module format จาก es2015 เป็น commonjs</p>
+
+<pre><code class="language-json">{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../out-tsc/app",
+    "baseUrl": "./",
+    "module": "commonjs",
+    "types": []
+  },
+  "exclude": [
+    "test.ts",
+    "**/*.spec.ts"
+  ]
+}
+</code></pre>
+
+<p>เพิ่ม extra property เพื่อบอกให้ compile ไฟล์ app.server.module สำหรับรายละเอียดเพิ่มเติมสามารถอ่านได้ที่ https://github.com/UltimateAngular/aot-loader/wiki/tsconfig.json</p>
+
+<pre><code class="language-json">{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../out-tsc/app",
+    "baseUrl": "./",
+    "module": "commonjs",
+    "types": []
+  },
+  "exclude": [
+    "test.ts",
+    "**/*.spec.ts"
+  ],
+  "angularCompilerOptions": {
+    "entryModule": "app/app.server.module#AppServerModule"
+  }
+}
+</code></pre>
+
+<p>กลับไปที่ไฟล์ angular.json ใน property ที่ชื่อว่า architect เราจะเพิ่ม property ใหม่เข้าไป เพื่อกำหนดค่าการ build สำหรับ server</p>
+
+<pre><code class="language-json">"architect": {
+  ...
+  "server": {
+    "builder": "@angular-devkit/build-angular:server",
+    "options": {
+      "outputPath": "dist/server",
+      "main": "src/main.server.ts",
+      "tsConfig": "src/tsconfig.server.json"
+    }
+  }
+}
+</code></pre>
+<p>จากนั้นให้เราลอง build project ของเราได้เลยครับ</p>
+
+<pre><code class="language-bash">$ ng run demo-universal:server
+</code></pre>
+
+<p><img src="https://miro.medium.com/max/1400/1*hmpBpny-B0C2lTftrXclPQ.png" /></p>
+
+<h3 id="setting-up-an-express-server">Setting up an Express Server</h3>
+
+<p>เราสร้างแอพ ตั้งค่าต่างๆ รวมไปถึง build ทุกอย่างผ่านได้แล้ว ขั้นตอนสุดท้ายเราจะ Run ได้ยังไง? เราจะใช้ Express.js สำหรับ run Universal bundle ของเรา</p>
+
+<p>สร้างไฟล์ server.ts ไว้ใน root ของแอพ</p>
+
+<pre><code class="language-javascript">import 'zone.js/dist/zone-node';
+import 'reflect-metadata';
+import {enableProdMode} from '@angular/core';
+// Express Engine
+import {ngExpressEngine} from '@nguniversal/express-engine';
+// Import module map for lazy loading
+import {provideModuleMap} from '@nguniversal/module-map-ngfactory-loader';
+
+import * as express from 'express';
+import {join} from 'path';
+
+// Faster server renders w/ Prod mode (dev mode never needed)
+enableProdMode();
+
+// Express server
+const app = express();
+
+const PORT = process.env.PORT || 4000;
+const DIST_FOLDER = join(process.cwd(), 'dist');
+
+// * NOTE :: leave this as require() since this file is built Dynamically from webpack
+const {AppServerModuleNgFactory, LAZY_MODULE_MAP} = require('./dist/server/main');
+
+// Our Universal express-engine (found @ https://github.com/angular/universal/tree/master/modules/express-engine)
+app.engine('html', ngExpressEngine({
+  bootstrap: AppServerModuleNgFactory,
+  providers: [
+    provideModuleMap(LAZY_MODULE_MAP)
+  ]
+}));
+
+app.set('view engine', 'html');
+app.set('views', join(DIST_FOLDER, 'browser'));
+
+// Example Express Rest API endpoints
+// app.get('/api/**', (req, res) =&gt; { });
+
+// Server static files from /browser
+app.get('*.*', express.static(join(DIST_FOLDER, 'browser'), {
+  maxAge: '1y'
+}));
+
+// All regular routes use the Universal engine
+app.get('*', (req, res) =&gt; {
+  res.render('index', { req });
+});
+
+// Start up the Node server
+app.listen(PORT, () =&gt; {
+  console.log(`Node Express server listening on http://localhost:${PORT}`);
+});
+</code></pre>
+
+<p>ถึงตรงนี้เราได้ตั้งค่าสำหรับใช้ Node Expreess ไว้แล้ว ขั้นตอนต่อไป เป็นการตั้งค่า Webpack เพื่อบอกให้ Webpack ใช้ไฟล์ server.ts สำหรับ serve แอพของเรา ให้สร้างไฟล์ชื่อ webpack.server.config.js ใน root ของแอพ</p>
+
+<pre><code class="language-javascript">// Work around for https://github.com/angular/angular-cli/issues/7200
+
+const path = require('path');
+const webpack = require('webpack');
+
+module.exports = {
+  mode: 'none',
+  entry: {
+    // This is our Express server for Dynamic universal
+    server: './server.ts',
+  },
+  target: 'node',
+  resolve: { extensions: ['.ts', '.js'] },
+  // Make sure we include all node_modules etc
+  externals: [/node_modules/],
+  output: {
+    // Puts the output at the root of the dist folder
+    path: path.join(__dirname, 'dist'),
+    filename: '[name].js'
+  },
+  module: {
+    rules: [
+      { test: /\.ts$/, loader: 'ts-loader' }
+    ]
+  },
+  plugins: [
+    new webpack.ContextReplacementPlugin(
+      // fixes WARNING Critical dependency: the request of a dependency is an expression
+      /(.+)?angular(\\|\/)core(.+)?/,
+      path.join(__dirname, 'src'), // location of your src
+      {} // a map of your routes
+    ),
+    new webpack.ContextReplacementPlugin(
+      // fixes WARNING Critical dependency: the request of a dependency is an expression
+      /(.+)?express(\\|\/)(.+)?/,
+      path.join(__dirname, 'src'),
+      {}
+    )
+  ]
+}
+</code></pre>
+
+<p>กลับไปที่ไฟล์ package.json ใน property scripts เพิ่มค่าเข้าไป</p>
+
+<pre><code class="language-json">"scripts": {
+  "build:universal": "npm run build:client-and-server-bundles &amp;&amp; npm run webpack:server",
+  "serve:universal": "node dist/server.js",
+  "build:client-and-server-bundles": "ng build --prod &amp;&amp; ng run demo-universal:server",
+  "webpack:server": "webpack --config webpack.server.config.js --progress --colors"
+}
+</code></pre>
+
+<p>จากนั้นใช้คำสั่ง</p>
+
+<pre><code class="language-bash">$ npm run build:universal &amp;&amp; npm run serve:universal
+</code></pre>
+
+<h3 id="หมายเหตุ">หมายเหตุ:</h3>
+<p>ขั้นตอนการใช้ Express Server นั้นเป็นการใช้เพื่อประกอบบทความ และใช้เป็นตัวอย่าง ควรจะตั้งค่าการเข้าถึง และความปลอดภัยหากนำไปใช้กับโปรเจคจริงๆ
+จากการใช้งานจริงอาจจะมองหา framework เช่น PM2 <a href="http://pm2.keymetrics.io/">http://pm2.keymetrics.io/</a> เป็นต้น</p>
+
+<h3 id="ช่วยเหลือ">ช่วยเหลือ</h3>
+<p>หากเราใช้ Algular CLI ที่มาพร้อมกับ Webpack 4 อาจจะเกิดปัญหา build ไม่ผ่าน ให้เปลี่ยน tsloader กลับไปเป็นเวอร์ชั่น 4.2.0</p>
+
+</div>
+
+<!-- Rating -->
+<!--  -->
+
+<!-- Author Box if enabled from _config.yml -->
+<!-- Author Box -->
+
+
+
+
+<!-- Comments if not disabled with comments: false -->
+<!-- Comments
+================================================== -->
+ 
+<div class="comments">
+    <button class="btn btn-dark show-comments">Load Comments</button>         
+    <div id="comments">  
+        <h4 class="mb-4">Comments</h4>                 
+            <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'tingster'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+     
+    <div class="clearfix"></div>              
+    </div>    
+</div>       
+
+
+<!-- Share -->
+<div class="share">
+    <p>
+        Share
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Angular CLI 6.0.2 with Universal&url=http://localhost:4000/angular-cli-with-universal/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/angular-cli-with-universal/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/angular-cli-with-universal/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+
+    </div>
+</div>
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+                ©2020 TingSter
+            </div>
+            <div class="col-md-6 col-sm-12 text-center text-lg-right">
+                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs</a> by WowThemes
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
+================================================== -->
+
+<script src="/assets/js/prism.js"></script>
+
+<script src="/assets/js/theme.js"></script>
+
+
+
+
+<script id="dsq-count-scr" src="//tingster.disqus.com/count.js"></script>
+
+
+</body>
+</html>
