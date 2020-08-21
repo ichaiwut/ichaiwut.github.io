@@ -3,7 +3,6 @@ layout: post
 title:  "After I started to run"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: assets/images/post/run.jpg
 toc: true
 ---

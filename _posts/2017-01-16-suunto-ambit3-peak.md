@@ -3,7 +3,6 @@ layout: post
 title:  "Suunto Ambit3 Peak"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2017/01/suunto-ambit3-peak-foto.jpg
 toc: true
 ---

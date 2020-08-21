@@ -3,7 +3,6 @@ layout: post
 title:  "การเดินทางแบบเซอร์ไพร์ส"
 author: john
 categories: [ Journey ]
-tags: [Movies]
 image: https://bestrangers.files.wordpress.com/2015/12/photo-1418878957586-8e04fda00a63.jpeg
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title:  "From Tenkeyless to 47 keys"
 author: sal
 categories: [ Tech ]
-tags: [ France ]
 image: https://miro.medium.com/max/1270/1*6HpMGHvRwuyYJdLPxcfWQQ.png
 toc: true
 ---

@@ -3,7 +3,6 @@ layout: post
 title:  "Salomon Speedcross 3 : Review"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/05/salomon-cover.jpg
 toc: true
 ---

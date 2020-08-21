@@ -3,7 +3,6 @@ layout: post
 title:  "Ionic 2–3 Nav Guards"
 author: sal
 categories: [ Tech ]
-tags: [ France ]
 image: https://miro.medium.com/max/1400/1*d_w0M8RoJdXy4l84fsePhg.jpeg
 ---
 

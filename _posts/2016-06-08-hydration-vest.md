@@ -3,7 +3,6 @@ layout: post
 title:  "Camelbak Marathoner"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/06/232179_18180_xl1.jpg
 toc: true
 ---

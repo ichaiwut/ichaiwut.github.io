@@ -3,7 +3,6 @@ layout: post
 title:  "Runners idol"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/02/12487283_905267789569608_1286800328184109617_o.jpg
 toc: true
 ---

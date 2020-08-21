@@ -3,7 +3,6 @@ layout: post
 title:  "My First 20km run"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/02/photo-1452626038306-9aae5e071dd3.jpeg
 toc: true
 ---

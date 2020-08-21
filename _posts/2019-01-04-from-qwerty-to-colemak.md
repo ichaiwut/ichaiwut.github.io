@@ -3,7 +3,6 @@ layout: post
 title:  "จาก QWERTY สู่ Colemak"
 author: sal
 categories: [ Tech ]
-tags: [ France ]
 image: https://miro.medium.com/max/1400/1*88risGOBq1SJ2RNaiwwdYw.jpeg
 toc: true
 ---

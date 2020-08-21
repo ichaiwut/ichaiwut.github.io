@@ -3,7 +3,6 @@ layout: post
 title:  "เดินเที่ยว + Porsche Museum"
 author: john
 categories: [ Journey ]
-tags: [ Movies ]
 image: https://bestrangers.files.wordpress.com/2015/12/p_20151213_104750-copy.jpg
 ---
 

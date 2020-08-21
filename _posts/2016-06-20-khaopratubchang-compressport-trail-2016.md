@@ -3,7 +3,6 @@ layout: post
 title:  "Khaopratubchang Compressport Trail 2016"
 author: sal
 categories: [ Running ]
-tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/06/logosmall.png
 toc: true
 ---
