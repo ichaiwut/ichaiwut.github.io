@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "/about",
     "title": "I'm TingSter,",
-    "body": "I am a Front-end Trooper at BUZZWOO! My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding JavaScript, CSS and PHP of course. I was born and live in Chiang Mai I work at a Senior front-end developer at Buzzwoo! we planning, coding, analyzing, and testing with a high level of skill to make the awesome thing happen on this planet! The main Of course, you can contact me via a GitHub issue or an email address.  Leave me an issue → "
+    "body": "I am a Front-end Trooper at BUZZWOO! My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding JavaScript, CSS and PHP of course. I was born and live in Chiang Mai I work at a Senior front-end developer at Buzzwoo! we planning, coding, analyzing, and testing with a high level of skill to make the awesome thing happen on this planet! Of course, you can contact me via a GitHub issue or an email address.  Leave me an issue → "
     }, {
     "id": 2,
     "url": "/categories",
