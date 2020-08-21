@@ -5,6 +5,7 @@ author: sal
 categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/02/photo-1423068657086-889315a2eba8.jpeg
+toc: true
 ---
 
 หลังจากที่เมื่ออาทิตย์ก่อนผมกด 20km ไปเรียบร้อยแล้ว สามารถอ่านได้ใน My First 20km ซึ่งเป็นการวิ่งยาวเพื่อเตรียมการวิ่งมาราธอนแรกของผมกับการซ้อมแต่สองอาทิตย์ และหากว่ากันตามตารางแล้ว วันนี้ผมต้องกด 30km ให้ได้

@@ -5,6 +5,7 @@ author: sal
 categories: [ Tech ]
 tags: [ France ]
 image: https://miro.medium.com/max/1270/1*6HpMGHvRwuyYJdLPxcfWQQ.png
+toc: true
 ---
 
 หลังจากใช้ Compact keyboard อยู่พักใหญ่ ในการทำงานจนคิดว่าทุกอย่างน่าจะลงตัวแล้วสำหรับคีย์บอร์ด แต่เปล่าเลย…

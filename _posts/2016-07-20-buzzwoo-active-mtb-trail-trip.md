@@ -5,6 +5,7 @@ author: sal
 categories: [ Running ]
 tags: [ France ]
 image: https://bestrangers.files.wordpress.com/2016/07/dscf5040.jpg
+toc: true
 ---
 
 แคมเปญดีๆ ของ  Buzzwoo! Active ที่เชิญชวนให้สมาชิกร่วมกันเก็บระยะทางแล้วแปลงเป็นเงินนำไปช่วยเหลือเด็กที่ถูกคุกคามจากการค้ามนุษย์ และอีกส่วนนำไปช่วยเหลือสุนัขจัดตามวัด หรือสถานที่ต่างๆ คราวนี้มีโอกาสนัดรวมสมาชิกทำกิจกรรม MTB Trail โดยงานนี้จัดโดย Trail Head ครับ
