@@ -1,13 +1,14 @@
 # Site
-name: "TingSter"
-title: "TingSter"
-description: "My name is TingSter. I am a Front-end Trooper at BUZZWOO!"
+name: 'TingSter'
+title: 'TingSter'
+description: 'My name is TingSter. I am a Front-end Trooper at BUZZWOO!'
 logo: 'assets/images/tslogo.png'
 favicon: 'assets/images/ms-icon-310x310.png'
-baseurl: ""
+baseurl: ''
+url: 'https://tingster.xyz'
 google_analytics: 'UA-175913174-1'
 disqus: 'tingster'
-include: ["_pages"]
+include: ['_pages']
 permalink: /:title/
 email: tingstercnx@gmail.com
 
@@ -20,7 +21,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: tingstercnx@gmail.com
     twitter: https://twitter.com/bestrangers
-    description: "My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai"
+    description: 'My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai'
   john:
     name: Sal
     display_name: Sal
@@ -28,7 +29,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: tingstercnx@gmail.com
     twitter: https://twitter.com/bestrangers
-    description: "My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai"
+    description: 'My name is TingSter. I am a web designer and front-end developer, as well as a web developer too. I love coding HTML, JavaScript, CSS and PHP of course. I was born and live in Chiang Mai'
 
 # Plugins
 plugins:
@@ -55,21 +56,19 @@ paginate_path: /page:num/
 highlighter: none
 markdown: kramdown
 kramdown:
-   syntax_highlighter_opts:
-      disable : true
-
-
+  syntax_highlighter_opts:
+    disable: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense: 'disabled'
+adsense-data-ad-client: 'ca-pub-3412143450191416'
+adsense-data-ad-slot: '1363087678'
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: 'enabled'
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: 'disabled'
 
 # Sass
 sass:
