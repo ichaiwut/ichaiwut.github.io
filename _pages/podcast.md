@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TingSter's Podcast,
-permalink: /podcast
+permalink: /podcast/
 comments: false
 image: false
 imageshadow: true
