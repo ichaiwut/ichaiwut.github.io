@@ -1,11 +1,11 @@
 # Site
 name: 'TingSter'
 title: 'TingSter'
-description: 'My name is TingSter. I am a Front-end Trooper at BUZZWOO!'
-logo: 'assets/images/tslogo.png'
+description: 'Just another mentally ill man'
+logo: 'assets/images/brain-logo.png'
 favicon: 'assets/images/ms-icon-310x310.png'
 baseurl: ''
-url: 'https://tingster.xyz'
+url: 'https://ting.in.th'
 google_analytics: 'UA-175913174-1'
 disqus: 'tingster'
 include: ['_pages']

@@ -3,7 +3,7 @@ layout: page
 title: I'm TingSter,
 permalink: /about/
 comments: false
-image: 'assets/images/tingfull.jpeg'
+image: 'assets/images/ting-in.jpeg'
 imageshadow: true
 ---
 
@@ -16,3 +16,5 @@ I work at a Senior front-end developer at Buzzwoo! we planning, coding, analyzin
 Of course, you can contact me via a [GitHub](https://github.com/ichaiwut/ichaiwut.github.io/issues) issue or an [email](mailto:ichaiwut.s@gmail.com) address.
 
 <a target="_blank" href="https://github.com/ichaiwut/ichaiwut.github.io/issues" class="btn btn-dark"> Leave me an issue &rarr;</a>
+
+<small>Logo by : <a href="https://www.vecteezy.com/free-vector/brain-logo">Brain Logo Vectors by Vecteezy</a></small>
