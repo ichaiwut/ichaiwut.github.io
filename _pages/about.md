@@ -17,4 +17,7 @@ Of course, you can contact me via a [GitHub](https://github.com/ichaiwut/ichaiwu
 
 <a target="_blank" href="https://github.com/ichaiwut/ichaiwut.github.io/issues" class="btn btn-dark"> Leave me an issue &rarr;</a>
 
-<small>Logo by : <a href="https://www.vecteezy.com/free-vector/brain-logo">Brain Logo Vectors by Vecteezy</a></small>
+<small>
+    Logo by : <a href="https://www.vecteezy.com/free-vector/brain-logo">Brain Logo Vectors by Vecteezy</a><br />
+    Letter Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/joker-letter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</small>

@@ -212,6 +212,11 @@ img, img:hover {
         li {
             list-style: none;
             width: 100%;
+            i {
+                display: inline-block;
+                width: 30px;
+            }
+
             a {
                 width: 100%;
                 display: inline-block;
