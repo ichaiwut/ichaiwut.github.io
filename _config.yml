@@ -6,7 +6,7 @@ logo: 'assets/images/brain-logo.png'
 favicon: 'assets/images/ms-icon-310x310.png'
 baseurl: ''
 url: 'https://ting.in.th'
-google_analytics: 'UA-175913174-1'
+google_analytics: 'UA-65871198-1'
 disqus: 'tingster'
 include: ['_pages']
 permalink: /:title/
