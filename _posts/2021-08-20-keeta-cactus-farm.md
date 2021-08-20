@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Keeta Cactus EP.1 The Beginning"
+author: sal
+categories: [ MyLife ]
+image: https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/225430410_139700591636019_7706089368091628376_n.png?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE9ZByMoFCMb5oymw1yVWtAt3y58_G8-Oy3fLnz8bz47KhRFMEiN-mJEMdfAlGNYpY06C4aIPE4d1dcskjWOla2&_nc_ohc=nt5Dul3KWRoAX9oQCOA&tn=ckKgXYbaZ1T0BST_&_nc_ht=scontent.fbkk5-6.fna&oh=a81c9574a97b416f4c55b936d76908ac&oe=6121CCD8
+toc: false
+---
+
+จากวันหนึ่งที่อยากจะลองดูว่าไอ้เจ้าแคคตัส หรือกระบองเพชรนี้มันเลี้ยงง่ายหรือยากกันแน่? ทำไมบางทีก็เห็นคนบ่น ว่าเลี้ยงยาก จริงมันมีกี่สายพันธ์กันแน่? จริงคำถามเหล่านี้มันเกิดขึ้นในหัวผมมาหลายปีมาก แต่ผมไม่ได้สนใจอะไรมากนัก ไม่แม้แต่จะค้นกาข้อมูลในอินเทอร์เนตเลย ซึ่งปรกติแล้วเวลาสนใจอะไรสักอย่าง ผมจะต้องค้นหาข้อมูลของสิ่งนั้นก่อนเป็นอันดับแรก
+
+มีวันหนึ่งพี่คนหนึ่งต้องการที่จะขายแคคตัสส่งข้อความมาให้พร้อมกับรูป ผมก็เออดีนะลองซื้อมาเลี้ยงดีกว่า จำได้ว่าไปเลือกมาประมาณ 9 ต้นถ้าจำไม่ผิด มีพันธุ์อะไรบ้างผมก็ไม่รู้จักสักเท่าไหร่ พี่เขาก็บอกมา ผมก็เลือกเอาที่ผมอยากได้ พี่เขาก็ห่อให้ จำไม่ได้ว่าเท่าไหร่ น่าจะประมาณ 300 - 400 บาทนะ ก็เอากลับบ้านมา นับว่าเป็นต้นกระบองเพชรชุดแรกที่ซื้อมาเลี้ยงเลยทีเดียว
+
+<center><img src="https://lh3.googleusercontent.com/l_sLbd-XuMRcY5TC5VXZezv5K_oM_Gx4_JNoNdfU2HY6ST5dMdyF6E66B2hDUkNBIJ5VDFIVQKjc5P7186w4A_t8NDC-XnEL-ojtjksgD_BxvZDiTQAO-qAjRA7dBQw73bREr7Toix3OuNfgojZWQ61d1K7Md46afBwcKxoT3gGHFRH2YKASrpq8GGe6RAuUJGpHlKvfHINYfWK1GyBAV0wwBB26bPZyMEos0R60x0JFrABVh9SQJADZbjfBU8OZk0drXMqyPQwmbJCnKFzRIvfDn8nehJQYrRLJLvlugNXgP1OCbh5SSG5NS_7YoPYEuQI-gPAOucZgQ8kzD87kl3P9mn1rNxSHJLlO0WcF60_hyr4UBMdnWOWs5Ro377FRmn_CTtJ6C-UKvY1nV-rqqkabBBEbCpgbWl86kLhdHDQKXdy1-Eqj6oMxi2RQfnGdGHU1Xuf_ggHM2Hxytpjtkly70Qwm2BWGbuE1Q6Rwvtd5byffQcUTY9SewuGTgj5BMSxB-lU3EAGfi2KeT1boU6Sl7QtTr0Bhc8tNQWv8O_762XD6BEtAo0KSdqpXLcwV7V5hJRQnL8oyhlvXCdn91do2Lo8umfkTyPdSb9EtsmdFI3A80YZSPGtIYi8d8MCCrbwCXnIZbKNtNgDGlJjl8CYWfWvbQ8TcfWFKNQg18C0Tl7esNtyY5SBPoGiFqfm3N1Yc--sRTOYcsaNAgVXhKWWm=w549-h976-no?authuser=0"></center>
+
+พอเอากลับมาบ้านก็ลองเอามาตั้ง ๆ ดู ที่แรกว่าจะเอามาตั้งที่ริมทางเดินแต่เอ๊ะ เหมือนว่ากระบองเพชรมันต้องโดนแดดป่ะนะ ย้ายไปตั้งตรงม้าหินอ่อนที่ตากแดดอยู่ นั่งมองมันอยู่สักพักหนึ่ง เอ มันก็สวยดีนะ ราคาก็ไม่ได้แพงมากมาย ลองไปซื้อที่ร้านขายต้นไม้ที่ปากซอยดีกว่า ก็ลองไปซื้อมาเพิ่มอีก 4-5 ต้น
+
+<center><img src="https://lh3.googleusercontent.com/pw/AM-JKLW_06mxlKR0F-TSayakVA0fhijAt1oXnYf1DgZVMZ1df9EizVsFktV7rBv_g3zVY0174Ndzo0kp4JgEWHk8UbtyF4IgARk-FjDs5TMCACMygiCH47f24RxNSL8B409hGqr0yBHjT2TnHcuWAGVNn6U7W8SxVc4OyeU_g2K0l7BcRBGV52eVMoNbpNgvv_7ojzPgFmX4Kz5zGCr5wEM3SN2ILGKEC4N_pP0IQLE6Dm7_37omaBOLNBJ9_thrZeWtGOsePWxXw1VartF2jsbrXZHxZjUNGyuV0acMv9Ky0w3M7MJSSnlHES7c6_Sx0hvNZQlOVgPQtwL9MNu3fQlF8dDOVLbkf3ajFDEd8Mw2qBHAAxNSOgpqdQFlnCOCz4UVnFAH-wo03bthqgR3TNRTzuqAEc-ozGCW8MHvkhfbzgLoIWEr4QNCrOkHGGeoP0fxJ1ReJeWhxJEbco_lk8AoRWc9jm-b7JEs-GBc9URWcRTEB677_O6OBsUVVgZP7xNAcaS4wm_Sxueg3ledAqBRigxu-_mr6ZL7T6gB9k6UYJ6WlmXSuDxoy3_wbudOAbSazh6GyXJZ-qfsTQLcaS-X8zKptOFWUoGEhk5uzOauv14K7vjqZJJDwVaP-ALAj9C2aLppVvG40CW-tCS758UT4vC78jpIunRJnEF7G95TJjJCrbAOmw7bF0yhR6m4DbKE71YWOW0A6EF8l0KtVnFzz5R_pGORh4EvrWe3Acqc1I_gzus=w1302-h976-no?authuser=0&authuser=0"></center>
+
+คราวนี้ก็เริ่มเปิด Facebook เข้ากลุ่มต่าง ๆ เพื่อต้องการเข้าไปหาข้อมูลเพื่อเอามาดูว่าเขาเลี้ยงกันยังไง แล้วไอ้ที่หนามนุ่ม ๆ นั้นมันคือพันธุ์อะไร จากนั้นก็เริ่มเปิดโลกแห่งแคคตัส เริ่มได้รู้ที่เรามีอยู่นี่แค่ส่วนน้อย มันยังมีอะไรอีกมากมายให้ได้ลองดู
+
+เริ่มเปิดดู youtube ตามช่องที่เขาแนะนำมือใหม่ ทำยังไงให้รอด ทำยังไงให้ฟอร์มสวย เริ่มดูไปเรื่อย ๆ พอได้ความรู้มากขึ้น ก็เริ่มเข้าไปดูในกลุ่มต่าง ๆ ที่เขามีการขาย ประมูล หรือเสนอราคาไอ้เจ้าแคคตัสพวกนี้ เฮ้ย บางคนเขาก็ทำเป็นอาชีพเลยนะเนี่ย น่าสนใจเหมือนกันนะ
+
+พอน้ามาเห็น น้าก็บอกว่าเห็นมีบ้านที่รู้จักหมู่บ้านข้างๆ มีสวนกระบองเพชรอยู่ เลยลองไปดูที่บ้านพี่เขา สวนที่ว่านี้เป็นสวนชื่อว่า "บ้านดอยแคคตัส" ซึ่งพี่กบทำมาก็ได้หลายปีอยู่ พี่เขาก็ให้คำแนะนำ ซึ่งพอเห็นแคคตัสของพี่เขาทั้งหมดนี่แบบว่า เยอะจัด เยอะสุด ๆ เลยซื้อมาสี่ห้าต้น สรุป สองวันได้กระบองเพชรมายี่สิบกว่าต้น
+
+<center><img src="https://lh3.googleusercontent.com/eEfKFNJwhY-JJrRKCrgZ23zxfBSBdgKdU0s_EKkMeXVf8V9CWwqWURWY1iH-xPBP6WwDFw_2nqfsrQpV00ULD1xScOB5vnvAh-GD58pL9h3mVBsy6ssB1w1-AyvUE8RJhUwxrjdNZ4ROmzjGCWmls-AF49ZLdYNSbPa22LHusiEs2hMWXiHwdVAVDVnAES2AAwQ7xUjS9WTYcFwlsi2ACCKUcT7tf4d8LqyPhYr6tO14d7T8PYBkW9x3gQXQtHepIK9GYfz3t-pyUqcioyI0Je1iiCOoUEqx7vlxV9uYn7BDt1xM25JYhZz01Q-8q1kWVVa-Hd9E0cA8P8vGan0dA6U6SFt7_sBUDqKpIrymmbxMv0r92EiADzTliY2qZJT2yXOciL7eL-WtfnHr2vaMPAbCQRdnO786oku1c3pf1dIMqsGR4iLqPfCN-2S9jYnCHRMmOoK7o17RfrUh-J1IaMijs55pM333Y6HYJDmtB6Dqeh1X6DRE0CrDUu8I0q83P-2BwGRJKJ88kqybZJgys_Rn9bKp0ZCpeYP5nSjrjrUkAFORkkY5zEZfN6uatGUmAnDb6XvRR9IoPbambuwi9Uau8Z1IlcyWEkLqUCuARpQtu0T0fUgHQqu9c0Vnb0f9v5WbPqHKOLUsN-AUXh7ASzEO8XwNZZNLkNPy-lM56TA6dlQ-UBQ4q2NSQ0WZ-nNV9rGXztTM2QOkNwCMHIeEyE3T=w732-h976-no?authuser=0"></center>
+
+พอเริ่มมีหลายต้นก็เริ่มคิดว่าไม่มีที่เก็บละ ทำยังไงดี ต้องยกเข้าออกทุกวันคงไม่ไหว เอาสิ ไปซื้อโรงเรือนสำเร็จมาก็ได้ เริ่มหาข้อมูลมากขึ้น พุ่งตรงไป HomePro ก็ไปได้โรงเรือนมาสำเร็จมา สรุปว่า สองวันเสาร์อาทิตย์​หมดไปกับการเริ่มต้นเลี้ยงแตตตัส
+
+<center><img src="https://lh3.googleusercontent.com/5Y-sXXF6ak38YmTdssC6yXwIv6nEhwe4M4N8fC0qyBpCJUwmDZjfzV3ZArBqLbNzg7RgEMuLBMzClwp1SWM3SMJ1Z1m2tBG_Fkiq-YNc5neMse2lXdw4CUDtz7xLcnDjX-O7ARvyUo_1F5YrVH3q2Lp2CyzqQ0mtDcr1bz_5MWHDst1eqz3nAVDuJdT_7B7lz04gdZnRBavdVF_2a7FDPgf-F3DiscGNIgtwHLbBg9nWUU-gB-LCDNTPL44VlVfqBf9NumM9fecxn65f1-M3vIr1o395QVVJ4bZnmw_Jr0Qt4kYKH_2vWq3fN2Rsx9aCgNcol-u0lprEn8Pj4pjhsg8v-CFOdDL4zXhBD-wIlYeqPZrs9geb_F2AUjzg31LHxA7xuU56gl7m_fJBZO8e9RQ09WBF2SJyC9vc74fErRNgYLMSZzSlfDnv9nltwjXSJ5369PLm5Ah_pBsDfF0E_hH8PqlX0zfs4uNGXBjdA0uvuVzvXODG5IwGDMDDa37YMwnRTl1nHic9z0cVyTi2ObQB4yADgbM08cC_isQK9TqgCvGbJHhN6SGdXHr8PNi4n4zWwgTMMZfD1Gm0wSoDdDk9bv5MxNrZDSNgOlup1mFUxe8qN_tbS97mmP9HgTTGrO4vvRnjG7KPusdGWj5QISsUESd3Vv1RlTvLvU1pt1Sep9HZtIxl7ohIgVeh0g5qpW01xLrd4hs314RxOB3MStvc=w732-h976-no?authuser=0"></center>
+
+
+&nbsp;
+
+
+<center><img src="https://lh3.googleusercontent.com/U0xKhRGbsD10r7wC3iYsdajO2y5mmfu0G5YrGvT2SIPZ_rk9oXYlh5Miu6apmwH0PaShCldHXv_9Mkb7JI2Qyme4I_5SX8RJO38kQLT9oFV8gLm4VNO51Cssd6ImQdOuuV2ojJ44Tlgz3jnHQLDta2LR0k9FSvOL3SGbC1Dv3hI5wTrm27DO6m1V6Esr99sNGS3oLOqLd1TGGm6kUQUzsg1WMQX1VEMtC87ahTXWBdSSLZN_FVKMPl-buAHorGrg6jmooapm8kXLrRcUXTU_715VUKrJvKnlRy9U-zJJqEK41LtrEJTw_6Cm0qUuWxsX3smCnLbz_mSbwD4WBQFH-uWezhn0Y03DFHIra4PsMSfPtRoBLYx5YTwfdhPuOIw7qiV8BbUX4gCSZB2iQdh9TfTV5WMTlYNYi0qsXWmdXtD6mXYYi-FX_HRAHOrJbvWaoNe6mXuRgcBlal-ICR0aSUyhiRaAkruT3bMJMl5sHuJigjukqALpYB8lFLI7qc9p9SCI1pUgbNyY3hGCgKbAFS7Ejq698KgXZlTI-mhTQufjuNnTWK4o_PudOrP2J0PXT7MVvx_p6OTVOsRcQb0u_N70bx4skOz3E0aqm3ZkBkI8eF-9B_JgNi98sslWlT2oli8qBxCjgVJskrwl_XArDqS6885d2xF7_oXiK8dPec7Jm0ScoZwatrXFjJLw1d0VUcVu3j2WBNtxLC7vn6JttUF4=w732-h976-no?authuser=0"></center>
+
+
+&nbsp;
+
+
+<center><img src="https://lh3.googleusercontent.com/0rQsc0alTTOWEESaoHy47pwDyzLE_wJ1ZcAZZ49aIwBVHrGLFshdVlVBK8vEqB4nmkKEVbfR1pjDgBKMNKhRC72M-oNXE5y0QLOvjmeY5Kh_5Ncs_p151-c8XGRHEyIa6Lgy-D_sfUCS7kOuFA4BpUzX8t0CZnRSUB4b309Lb8c8AnSuAr6XBvZcq57tYcnrP2kDIriUsvkL_CqYBa1BUiq2lGrcPBmUqB3je53evTaV7SlB9o5J_TwFdF_5J-hiiKM4hAMAMzG-E-8w5n4oMGj8HtAv55m2h-MMXSXH2pG7igKUNWN6xkBiifr5lBWf3UHk80TRifLNEwHwHLwr_FGN94NiycH_kYsAuikmP0Q0naO5lVgVOUsjJd_GRw0WSEkIHGCLnk-CVP9aJ3gP82NWVS4nxKkDmG0EISk2qoVq8FLOob_xdyJWjeS11gFOxrOBqsVk02YhRY5ArtqjV-oZ7sRd2rdOqYCZFFcchEUAUsQThVkpP1gisL1JU852l2blxMtR5UmtelBSRiSBp1m_E_CLabzDkepm3qIncroFPt6H5efopCybph9lTwX__oyNd874Tcn4zevIGEMKwq4zOLDL2ySMHfhA2WiBJFyM8uN5QBrE0C5FPSumWvrUKdJWYCLwpUVc7bI9_XoPVP77il3ar-NjEe2vmiihLJjF9pCpFwSXVkr33nEHHxRyW_mPqkUUSAhEZklFxN8xxWsZ=w732-h976-no?authuser=0"></center>
+
+
+&nbsp;
+
+
+<center><img src="https://lh3.googleusercontent.com/5K278pEvgfQ7VYznZ1qNCRLHCt1IvqhV9BQtWDsI7BAM618iRadIlVX4ZD_Fs4-sMbUAb_GaGECoOnczdSLXvdzsmvi_M40WddCvs67XoKDFKh6ka7VTa47mdYEwtA0Arf3KlOUyDHKyflYkH4SzBeaGF2QQFblLDUu6dqRnptntYV9kgc4gGjpeZ1X4U_-1CczRceohZo61tf974m8sktuXuoEWKi8_nrRU6bWYhSH2W6XQYj9Qj6b44Wn5qTXgvtitRxljZrg6C3aVTwZtwYysfgY7ml5qTuNKW_Q3fg9ISFwFQPdZPuNkuHXRBOcWZw25N7_x6HwnJCeCmmFQW_Zu2MeA-y8JNETmil7UMT9BAX5MuPynW73rMMt5VS9VyHKiDWtqoxfMLPifqeSxne9ZcfDRBpuVpWPSSSCQqfPXt87DZjtKiwNTbzOJleUjYp5wBm_LKN7Dq6RWELYs_Z4EpFee-DnoXk7vz_evNIw01fLtrATis_CQkutymjdTn2-vnEvmuOByACFbvSa2wlwEhAWUC-4V4ZOV4IMsZHyFfgQPftcevuO-RDbiXg2xyA8W6xqiNAIDMgpmW4ZPMYge5Nz9H-msE9YsgdA4rEaASEotJFBpBGnrPRNkbxKCSp0_XPZsAB9h9NZ1RYghqdGng79vIeDjFYj5qr6K00z9OfB-ILhq9bsJ79PnbNaD8V-_0FTDuPtX_7nrmSpkKFc3=w732-h976-no?authuser=0"></center>
+
+
+ทั้งหมดคือจุดเริ่มต้น นับตั้งแต่วันที่มีแคคตัสในบ้าน ลองมาติดตามว่าจะเกิดอะไรขี้นอีกหลังจากนี้ ในตอนที่สองครับ
