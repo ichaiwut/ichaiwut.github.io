@@ -17,4 +17,7 @@ imageshadow: true
  <li>
     <a href="/the-letter/one">จดหมายฉบับที่หนึ่ง</a>
  </li>
+ <li>
+    <a href="/the-letter/two">จดหมายฉบับที่สอง</a>
+ </li>
 </ul>
