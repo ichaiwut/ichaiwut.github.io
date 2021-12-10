@@ -3,11 +3,11 @@
   <channel>
     <title>TingSter</title>
     <description>Just another mentally ill man</description>
-    <link>https://ting.in.th/</link>
-    <atom:link href="https://ting.in.th/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Sep 2021 12:01:05 +0700</pubDate>
-    <lastBuildDate>Mon, 06 Sep 2021 12:01:05 +0700</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Dec 2021 11:07:02 +0700</pubDate>
+    <lastBuildDate>Fri, 10 Dec 2021 11:07:02 +0700</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>Keeta Cactus EP.1 The Beginning</title>
@@ -48,8 +48,8 @@
 &lt;p&gt;ทั้งหมดคือจุดเริ่มต้น นับตั้งแต่วันที่มีแคคตัสในบ้าน ลองมาติดตามว่าจะเกิดอะไรขี้นอีกหลังจากนี้ ในตอนที่สองครับ&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Aug 2021 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/keeta-cactus-farm/</link>
-        <guid isPermaLink="true">https://ting.in.th/keeta-cactus-farm/</guid>
+        <link>http://localhost:4000/keeta-cactus-farm/</link>
+        <guid isPermaLink="true">http://localhost:4000/keeta-cactus-farm/</guid>
         
         
         <category>MyLife</category>
@@ -245,8 +245,8 @@ APP บนโทรศัพท์มือถือโดยเด็กๆ จ
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zV_0jQs1KwM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/imoo-z2-phone-watch/</link>
-        <guid isPermaLink="true">https://ting.in.th/imoo-z2-phone-watch/</guid>
+        <link>http://localhost:4000/imoo-z2-phone-watch/</link>
+        <guid isPermaLink="true">http://localhost:4000/imoo-z2-phone-watch/</guid>
         
         
         <category>MyLife</category>
@@ -307,8 +307,8 @@ And there’s nothing I can do”&lt;/p&gt;
 &lt;p&gt;อีกไม่นาน ผมจะตามคุณไป &lt;strong&gt;“ผู้พันทอม”&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Jan 2021 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/space-oddity/</link>
-        <guid isPermaLink="true">https://ting.in.th/space-oddity/</guid>
+        <link>http://localhost:4000/space-oddity/</link>
+        <guid isPermaLink="true">http://localhost:4000/space-oddity/</guid>
         
         
         <category>MentalProblem</category>
@@ -414,8 +414,8 @@ And there’s nothing I can do”&lt;/p&gt;
 &lt;/center&gt;
 </description>
         <pubDate>Thu, 24 Sep 2020 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/cbr-650r/</link>
-        <guid isPermaLink="true">https://ting.in.th/cbr-650r/</guid>
+        <link>http://localhost:4000/cbr-650r/</link>
+        <guid isPermaLink="true">http://localhost:4000/cbr-650r/</guid>
         
         
         <category>Racing</category>
@@ -562,8 +562,8 @@ And there’s nothing I can do”&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/12109121_1691039577774745_5630724900291046859_n.jpg?_nc_cat=105&amp;amp;_nc_sid=09cbfe&amp;amp;_nc_eui2=AeEI6rsr6mgGl0riddpQkfxgyeO8dDuYCZrJ47x0O5gJmnMyln1iUCB66yL57TZewLEigSAnD1lOpuW4_axq9dQw&amp;amp;_nc_ohc=K1K_Bbpx5foAX_AYmrX&amp;amp;_nc_ht=scontent.fbkk5-3.fna&amp;amp;oh=57e1c4e02db959d977ac5354041b5c9c&amp;amp;oe=5F66513A&quot; /&gt;&lt;/center&gt;
 </description>
         <pubDate>Fri, 21 Aug 2020 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/airoh-valor/</link>
-        <guid isPermaLink="true">https://ting.in.th/airoh-valor/</guid>
+        <link>http://localhost:4000/airoh-valor/</link>
+        <guid isPermaLink="true">http://localhost:4000/airoh-valor/</guid>
         
         
         <category>Racing</category>
@@ -614,8 +614,8 @@ And there’s nothing I can do”&lt;/p&gt;
 &lt;p&gt;Photo by Krista Mangulsone on Unsplash&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/59-5ce4eada7693ff097e1422c1/</link>
-        <guid isPermaLink="true">https://ting.in.th/59-5ce4eada7693ff097e1422c1/</guid>
+        <link>http://localhost:4000/59-5ce4eada7693ff097e1422c1/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5ce4eada7693ff097e1422c1/</guid>
         
         
         <category>MentalProblem</category>
@@ -657,8 +657,8 @@ And there’s nothing I can do”&lt;/p&gt;
 &lt;p&gt;แล้วก็ผลอยหลับไป…&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/59-5c2ca48cd6d4e09306acb813/</link>
-        <guid isPermaLink="true">https://ting.in.th/59-5c2ca48cd6d4e09306acb813/</guid>
+        <link>http://localhost:4000/59-5c2ca48cd6d4e09306acb813/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5c2ca48cd6d4e09306acb813/</guid>
         
         
         <category>MentalProblem</category>
@@ -698,8 +698,8 @@ And there’s nothing I can do”&lt;/p&gt;
 ๒๙ ตุลาคม ๒๕๖๑&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/59-5bcb4a0cd04b46133af4d668/</link>
-        <guid isPermaLink="true">https://ting.in.th/59-5bcb4a0cd04b46133af4d668/</guid>
+        <link>http://localhost:4000/59-5bcb4a0cd04b46133af4d668/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5bcb4a0cd04b46133af4d668/</guid>
         
         
         <category>MentalProblem</category>
@@ -707,7 +707,7 @@ And there’s nothing I can do”&lt;/p&gt;
       </item>
     
       <item>
-        <title>ความศรัทธา และความเชื่อในสิ่งที่เรียกว่า 'ยา'</title>
+        <title>ความศรัทธา และความเชื่อในสิ่งที่เรียกว่า &apos;ยา&apos;</title>
         <description>&lt;p&gt;สวัสดีนะ เป็นยังไงบ้างตอนนี้ หายหรือยัง หลายเดือนเลยที่ไม่ได้กลับมาเล่าเรื่องราวที่เกิดขึ้น หลังจากโพสที่แล้วทุกอย่างก็แย่ลงเรื่อยๆ จนฉันทำอะไรไม่ได้เลย เอาล่ะ ตอนนี้ฉันยังพอดีขึ้นมาบ้าง ถ้าฉันไม่บังคับตัวเอง ฉันก็คงไม่ได้เขียนอะไรอีกต่อไปละ ถ้าหากจะเล่าเรื่องราวจริงๆ ฉันคงต้องย้อนไปช่วงสงกรานต์เลยที่เดียว ถ้านัดตามวันที่ล่าสุดของโพสที่ผ่านมาก็ประมาณ 5 เกือบๆ 6 เดือนเข้าไปละ&lt;/p&gt;
 
 &lt;h3 id=&quot;กลับไปหาหมอเหมือนเดิม&quot;&gt;กลับไปหาหมอเหมือนเดิม&lt;/h3&gt;
@@ -737,8 +737,8 @@ And there’s nothing I can do”&lt;/p&gt;
 ๑๙ ตุลาคม ๒๕๖๑&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/59-5af10d8fdd61f6451c844d97/</link>
-        <guid isPermaLink="true">https://ting.in.th/59-5af10d8fdd61f6451c844d97/</guid>
+        <link>http://localhost:4000/59-5af10d8fdd61f6451c844d97/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5af10d8fdd61f6451c844d97/</guid>
         
         
         <category>MentalProblem</category>
@@ -786,8 +786,8 @@ And there’s nothing I can do”&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Photo by &lt;a href=&quot;https://unsplash.com/@mbaumi?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Mika Baumeister&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/drug-withdrawal?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Feb 2019 00:00:00 +0700</pubDate>
-        <link>https://ting.in.th/59-5adfebeef040bf450cd85f59/</link>
-        <guid isPermaLink="true">https://ting.in.th/59-5adfebeef040bf450cd85f59/</guid>
+        <link>http://localhost:4000/59-5adfebeef040bf450cd85f59/</link>
+        <guid isPermaLink="true">http://localhost:4000/59-5adfebeef040bf450cd85f59/</guid>
         
         
         <category>MentalProblem</category>
