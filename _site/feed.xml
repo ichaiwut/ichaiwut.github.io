@@ -5,9 +5,87 @@
     <description>A man who sold his world</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 May 2022 13:40:25 +0700</pubDate>
-    <lastBuildDate>Wed, 18 May 2022 13:40:25 +0700</lastBuildDate>
+    <pubDate>Wed, 18 May 2022 16:33:48 +0700</pubDate>
+    <lastBuildDate>Wed, 18 May 2022 16:33:48 +0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Add the event to Google Calendar via Notion</title>
+        <description>&lt;p&gt;ใด้ใช้ Notion มาได้ระยะเวลาหนึ่ง รู้สึกชอบและทำอะไรได้หลาย ๆ อย่าง สามารถปรับรูปแบบได้ตามงาน หรือความต้องการของตัวเราเองด้วย แต่มีสิ่งหนึ่งที่ผู้ใช้งานหลายๆ คนต้องการแต่ยังไม่มีใน Notion ก็คือการ update กิจกรรมของเราเองไปที่ Google Calendar ผมเลยไปหาวิธีทำในอินเทอร์เน็ตมา มีหลายวิธีอยู่พอสมควร วันนี้ผมเลยเอาวิธีที่ผมใช้งานอยู่มาแบ่งปัน เผื่อมีใครอยากลองใช้ดูบ้างครับ&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;ทำยังไง&quot;&gt;ทำยังไง?&lt;/h2&gt;
+&lt;p&gt;จริง ๆ แล้วการส่ง Request จาก Notion เพื่อไป update กิจกรรมใน Google Calendar โดยตรงยังทำได้แต่ผมใช้ตัวช่วยอย่าง Zapier เพื่อเชื่อมทั้งสองเข้าด้วยกัน โดยสามารถทำเป็น &lt;code&gt;Two-way sync&lt;/code&gt; ยังได้เลยครับ คือการ update ฝั่งไหนก็ได้อีกฝั่งก็จะอัพเดทตามครับ โดยใครที่ยังไม่เคยใช้งานสามารถไปสมัครได้ฟรีเลยครับ ที่ &lt;a href=&quot;https://zapier.com/&quot;&gt;https://zapier.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;สร้าง-notion-table-view-databases&quot;&gt;สร้าง Notion Table view databases&lt;/h2&gt;
+&lt;p&gt;ก่อนอื่นเลยผมสร้าง Table view databases ไว้หนึ่งตารางครับเพื่อเก็บกิจกรรมของเราไว้โดยฟิลด์ที่จำเป็นต้องมีเลยคือวันที่และเวลานะครับ ส่วนฟิลด์อื่นสามารถปรับได้ตามใจเลย ส่วนใครที่ไม่ทราบว่า Table view databases คืออะไรก็ลองตามไปดูได้ที่นี่ครับ &lt;a href=&quot;https://www.notion.so/help/guides/table-view-databases&quot;&gt;https://www.notion.so/help/guides/table-view-databases&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;connect-google-calendar--notion&quot;&gt;Connect Google Calendar + Notion&lt;/h2&gt;
+
+&lt;p&gt;เมื่อเรามี Zapier แล้ว จากนั้นเราก็สามารถเชื่อมกันได้แล้วครับ ทาง Zapier เข้า wizard ให้เราจัดการได้ง่ายมากเลย แล้วยังมีอีกหลาย Flow ให้เราเลือกลองเข้าไปดูที่ &lt;a href=&quot;https://zapier.com/apps/google-calendar/integrations/notion&quot;&gt;https://zapier.com/apps/google-calendar/integrations/notion&lt;/a&gt; ครับ ส่วนที่ผมใช้อยู่จะเป็นตัวนี้ &lt;strong&gt;&lt;a href=&quot;https://zapier.com/shared/53c26d2de14a62570ccf0d1ef0b29e667cd34164&quot;&gt;Quick add events to Google Calendar when new items are added to Notion databases&lt;/a&gt;&lt;/strong&gt; ตัวนี้ครับ &lt;strong&gt;โดยหากเราใช้เวอร์ชั่น Zapier เวอร์ชั่นฟรี trigger จะทำงานทุก 15 นาทีครับ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;จากนั้นให้เรากดเลือกที่ Try this Zap ครับ ทาง Zapier จะเริ่ม wizard เพื่อให้เราเชื่อมต่อกับ Notion และ Google ขั้นตอนแรกจะเป็นการเช่ือมต่อกับ Notion ก่อนครับ ให้เราเลือกว่าจะเชื่อมจากแอฟไหน ให้เราเลือก Notion ส่วน Event จะเลือกเป็น New Databest Item ครับ เสร็จแล้วกด Continue ได้เลยครับ&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*Bqo3lVlcQOVrfNszMMvDdQ.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;เมื่อเราเข้าระบบ Notion เพือขอ Permission ได้แล้วก็กด Next เพื่อไปยังขั้นตอนต่อไปครับ ทาง Zapier จะทำการดึง database ที่อยู่ใน Account Notion ของเราออกมา ให้เราเลือกว่าเราจะใช้ databases ใน Notion อันไหน ในขั้นตอน Set up trigger ผมเลือก database ที่ชื่อ Appointment ของผม จากนั้นกด continue เพื่อให้ Zapier ได้ลองทดสอบว่าสามารถ trigger ได้ไหม&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*pZQmVnltDoPk0K-xXEkLQQ.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;หากไม่มีอะไรผิดพลาดทาง Zapier ก็จะดึงข้อมูลจากใน Notion มาให้เราดูครับ เราก็สามารถกด Continue ได้เลย&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*CX896jGlE0nJqujQf4iceQ.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;ขั้นตอนต่อไปเป็นการตั้งค่า Google Calendar ครับ ใน Choose app &amp;amp; Event เราจะเลือก Google Calendar และช่อง Event เราจะเลือกใช้งาน Create Detailed Event พอเลือกเสร็จแล้ว กด Continue เพื่อไปเข้าระบบของ Google และเลือกปฏิทินที่ต้องการเชื่อมต่อกับ Notion กันได้เลยครับ&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*j3ZK8Nz168obCWPhOPthNA.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&quot;set-up-action&quot;&gt;&lt;strong&gt;Set up action&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;ขั้นตอนนี้สำคัญครับ เราต้องทำการ map ระหว่าง Notion database item ซึ่ง Zapier จะแสดงตัวอย่างในแต่ละ Column ให้เรา (Zapier เอามาตอนที่เราเชือมกับ Notion)&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*KNSluUxEv86cKqf7WQaKvg.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*eMzQ_3vH92zbONP9IdQCQw.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;จากภาพด้านบนจะเห็นว่า ผมเลือก calendar เป็น Birthday ใน summay ผมจะ map เจ้าคอลัมที่ชื่อว่า Title ใน Notion ที่เลือกเราก็เลือก Map ได้เต็มที่เลยครับ จะมีส่วนที่ควรระวังคือ Start Data &amp;amp; Time กับ End Date &amp;amp; Time จะต้องมีวันที่และเวลาด้วยครับ&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*omV1veDUNbY6SaBvPNRREQ.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;เมื่อเรา Map ทุกอย่างได้ถูกต้องเราสามารถกด Test Action ได้เลยครับ ทาง Zapier จะส่ง Notion data  ไปสร้าง event ใน Google calendar  ให้ครับ&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*d6UBixbA0QvJHH7vxKD_HA.png&quot; /&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;img src=&quot;https://miro.medium.com/max/700/1*oGZe9TL3XtnD1BM504gmxg.png&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;จากนั้นกด Publish Zap เป็นอันเสร็จสิ้นครับ จากนี้หากมี item เพิ่มเข้ามาที่ตาราง Appointment ของผม ทาง Zapier ก็จะจัดการเอาไปสร้าง event ใน Google Calendar ตามที่เราตั้งค่าไว้ครับ&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 May 2022 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Add-the-event-to-Google-Calendar-via-Notion/</link>
+        <guid isPermaLink="true">http://localhost:4000/Add-the-event-to-Google-Calendar-via-Notion/</guid>
+        
+        
+        <category>Tech</category>
+        
+      </item>
     
       <item>
         <title>แปลเพลง : If I surrender - Citizen Soldier</title>
@@ -1034,71 +1112,6 @@ module.exports = {
         <pubDate>Thu, 03 Jan 2019 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/angular-cli-with-universal/</link>
         <guid isPermaLink="true">http://localhost:4000/angular-cli-with-universal/</guid>
-        
-        
-        <category>Tech</category>
-        
-      </item>
-    
-      <item>
-        <title>Ionic 2–3 Nav Guards</title>
-        <description>&lt;p&gt;หากใครที่เขียน Angular 2 ~ 4 คงรู้จัก และคุ้นเคยกับ Routing Guards กันอยู่แล้ว พอหันกลับมาเขียน Ionic 2–3 กันบ้างซึ่งเราไม่ได้ใช้ Routes แต่เราใช้ NavController สำหรับการ Push หรือ Pop หน้าต่างๆ ภายใน Ioninc App ทาง Ionic 2–3 ก็มี Feature นี้ให้เหมือนกันนะครับ ชื่อว่า Nav Guards&lt;/p&gt;
-
-&lt;p&gt;หลักการเดียวกันกับ Routing Guards ครับ Ionic 2–3 มีเมธอด ionViewCanEnter และ ionViewCanLeave เพื่อให้เราได้ควบการการเปลี่ยนหน้าต่างๆ ในแอพของเรา&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ionViewCanEnter: boolean/Promise&lt;void&gt;: Runs before the view can enter. This can be used as a sort of “guard” in authenticated views where you need to check permissions before the view can enter&lt;/void&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ionViewCanLeave: boolean/Promise&lt;void&gt;: Runs before the view can leave. This can be used as a sort of “guard” in authenticated views where you need to check permissions before the view can leave&lt;/void&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;ionViewCanEnter&lt;/strong&gt; จะถูกเรียกก่อน เพื่อให้เราได้กระทำการใดๆ ก่อนตัดสินใจว่าจะเข้าสู่เพจนี้หรือไม่
-&lt;strong&gt;ionViewCanLeave&lt;/strong&gt; จะถูกเรียกเมื่อจะออกจากเพจนั้นๆ ก่อนที่จะไปยังเพจอื่นๆ&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;export class MyClass {
-  constructor (public navCtrl: NavController) {}
-
-  //When trying to leave the page will call
-  //ionViewCanLeave()
-  pushPage() {
-    this.navCtrl.push(DetailPage)
-         .catch(()=&amp;gt; console.log(‘Something cache!’))
-  }
-
-  isValid() {
-    return (validValue);
-  }
-
-  //Make a decision to stay or leave.
-  ionViewCanLeave(): boolean {
-    return this.isValid();
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;จากตัวอย่างข้างบนเราจะเห็นว่าก่อนที่เราจะ push(DetailPage) หรือออกจากเพจนี้ไป DetailPage, ionViewCanLeave() จะถูกเรียกใช้งาน isValid() เป็น condition ที่เราใช้ตรวจสอบก่อนตัดสินใจออกจากหน้านี้ หากค่าที่ได้ False, .catch() จะทำงาน
-เช่นเดียวกับ ionViewCanEnter เพียงตรวจสอบว่าก่อนที่จะเข้าเพจนี้ จรงตาม condition ที่เราตั้งไว้หรือเปล่า&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;export class DetailPage() {
-  constructor(public navCtrl: NavController) {}
-
-  isValid() {
-    return (validValue);
-  }
-
-  ionViewCanEnter(): boolean {
-    return this.isValid();
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;ทั้งหมดคือการทำงานของ Nav Guards โดยคร่าวๆ ครับลองเอาไปใช้กันดู หรือลองอ่านดูใน Doc ของ &lt;a href=&quot;https://ionicframework.com/docs/api/navigation/NavController/#nav-guards&quot;&gt;ionic 2–3&lt;/a&gt; ก็ได้ครับ&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 Jan 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/ionic-2-3-nav-guards-da6c39e72d9a/</link>
-        <guid isPermaLink="true">http://localhost:4000/ionic-2-3-nav-guards-da6c39e72d9a/</guid>
         
         
         <category>Tech</category>
