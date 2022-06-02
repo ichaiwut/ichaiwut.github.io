@@ -33,6 +33,7 @@ authors:
 
 # Plugins
 plugins:
+  - jekyll-github-metadata
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
