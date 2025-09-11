@@ -1,0 +1,15 @@
+@media print {
+ @page {
+        size: A4 landscape;
+        width: 29.7cm !important;
+        height: 21cm !important;
+        margin:  0 !important;
+    }
+
+    body {
+        position: relative;
+        width: 29.7cm !important;
+        margin: 0;
+        height: 21cm !important;
+    }
+}
